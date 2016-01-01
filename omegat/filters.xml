@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<filters removeTags="true" removeSpacesNonseg="false" preserveSpaces="false" ignoreFileContext="false">
+    <filter className="org.omegat.filters2.text.TextFilter" enabled="true">
+        <files sourceFilenameMask="*.txt" targetFilenamePattern="${filename}" sourceEncoding="Shift_JIS" targetEncoding="GBK"/>
+        <option name="lineLength" value="0"/>
+        <option name="maxLineLength" value="0"/>
+        <option name="segmentOn" value="BREAKS"/>
+    </filter>
+    <filter className="org.omegat.filters2.text.csv.GeneralCSVFilter" enabled="true">
+        <files sourceFilenameMask="*.csv" targetFilenamePattern="${filename}" sourceEncoding="Shift_JIS" targetEncoding="GBK"/>
+    </filter>
+    <filter className="org.omegat.filters4.gnenbu.dbs.GnenbuDollDataFilter" enabled="true">
+        <files sourceFilenameMask="*.dbs" targetFilenamePattern="${filename}" sourceEncoding="Shift_JIS" targetEncoding="GBK"/>
+    </filter>
+    <filter className="org.omegat.filters4.gnenbu.sbs.GnenbuSkillDataFilter" enabled="true">
+        <files sourceFilenameMask="*.sbs" targetFilenamePattern="${filename}" sourceEncoding="Shift_JIS" targetEncoding="GBK"/>
+    </filter>
+    <filter className="org.omegat.filters4.gnenbu.mad.GnenbuMapDataFilter" enabled="true">
+        <files sourceFilenameMask="*.mad" targetFilenamePattern="${filename}" sourceEncoding="Shift_JIS" targetEncoding="GBK"/>
+    </filter>
+    <filter className="org.omegat.filters4.gnenbu.dod.GnenbuOperatorFilter" enabled="true">
+        <files sourceFilenameMask="*.dod" targetFilenamePattern="${filename}" sourceEncoding="Shift_JIS" targetEncoding="GBK"/>
+    </filter>
+    <filter className="org.omegat.filters3.xml.xliff.XLIFFFilter" enabled="false"/>
+    <filter className="org.omegat.filters3.xml.infix.InfixFilter" enabled="false"/>
+    <filter className="org.omegat.filters2.mozlang.MozillaLangFilter" enabled="false"/>
+    <filter className="org.omegat.filters3.xml.l10nmgr.L10nmgrFilter" enabled="false"/>
+    <filter className="org.omegat.filters2.xtagqxp.XtagFilter" enabled="false"/>
+    <filter className="org.omegat.filters2.text.magento.MagentoFilter" enabled="false"/>
+    <filter className="org.omegat.filters2.text.ini.INIFilter" enabled="false">
+        <files sourceFilenameMask="*.ini" targetFilenamePattern="${filename}"/>
+    </filter>
+    <filter className="org.omegat.filters3.xml.xhtml.XHTMLFilter" enabled="false"/>
+    <filter className="org.omegat.filters3.xml.svg.SvgFilter" enabled="false"/>
+    <filter className="org.omegat.filters3.xml.docbook.DocBookFilter" enabled="false"/>
+    <filter className="org.omegat.filters3.xml.camtasiawindows.CamtasiaWindowsFilter" enabled="false"/>
+    <filter className="org.omegat.filters2.mozdtd.MozillaDTDFilter" enabled="false"/>
+    <filter className="org.omegat.filters3.xml.typo3.Typo3Filter" enabled="false"/>
+    <filter className="org.omegat.filters2.text.ilias.ILIASFilter" enabled="false"/>
+    <filter className="org.omegat.filters3.xml.txml.TXMLFilter" enabled="false"/>
+    <filter className="org.omegat.filters3.xml.resx.ResXFilter" enabled="false"/>
+    <filter className="org.omegat.filters3.xml.flash.FlashFilter" enabled="false"/>
+    <filter className="org.omegat.filters3.xml.openxml.OpenXMLFilter" enabled="false"/>
+    <filter className="org.omegat.filters2.text.dokuwiki.DokuWikiFilter" enabled="false"/>
+    <filter className="org.omegat.filters3.xml.visio.VisioFilter" enabled="false"/>
+    <filter className="org.omegat.filters3.xml.opendoc.OpenDocFilter" enabled="false"/>
+    <filter className="org.omegat.filters3.xml.android.AndroidFilter" enabled="false"/>
+    <filter className="org.omegat.filters2.rc.RcFilter" enabled="false"/>
+    <filter className="org.omegat.filters3.xml.helpandmanual.HelpAndManualFilter" enabled="false"/>
+    <filter className="org.omegat.filters2.pdf.PdfFilter" enabled="false"/>
+    <filter className="org.omegat.filters2.html2.HTMLFilter2" enabled="false"/>
+    <filter className="org.omegat.filters2.subtitles.SrtFilter" enabled="false"/>
+    <filter className="org.omegat.filters2.hhc.HHCFilter2" enabled="false"/>
+    <filter className="org.omegat.filters2.po.PoFilter" enabled="false"/>
+    <filter className="org.omegat.filters3.xml.xmlspreadsheet.XMLSpreadsheetFilter" enabled="false"/>
+    <filter className="org.omegat.filters3.xml.wix.WiXFilter" enabled="false"/>
+    <filter className="org.omegat.filters2.text.bundles.ResourceBundleFilter" enabled="false"/>
+    <filter className="org.omegat.filters2.latex.LatexFilter" enabled="false"/>
+</filters>
