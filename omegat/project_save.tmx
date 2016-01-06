@@ -33846,6 +33846,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c私は 人形の封印の解除ができるの。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T142416Z" creationid="土妹子" creationdate="20160106T142416Z">
+        <seg>\c我可以解除人形的封印。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c私は 人形の封印の解除ができるのよ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161813Z" creationid="土妹子" creationdate="20150104T161809Z">
@@ -47998,6 +48006,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>それなら・・・\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T142403Z" creationid="土妹子" creationdate="20160106T142403Z">
+        <seg>那样的话……\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>それなら私がおまえを試してやるぜ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T110747Z" creationid="UUZ" creationdate="20140908T085236Z">
@@ -51318,6 +51334,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>へぇ \pさん というのね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T142341Z" creationid="土妹子" creationdate="20160106T142341Z">
+        <seg>诶 你是叫\p呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>へぇ 勇儀に言われてここに来たと……。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150108T153623Z">
@@ -52546,6 +52570,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140029Z" creationid="UUZ" creationdate="20140904T140029Z">
         <seg>妹红</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>もし どうしても人形の封印を解除したくなったら 私のところへいらっしゃい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T142439Z" creationid="土妹子" creationdate="20160106T142439Z">
+        <seg>如果无论如何还是想解除人形的封印的话 就到我这里来吧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56962,6 +56994,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152517Z" creationid="土妹子" creationdate="20150102T152517Z">
         <seg>震击刻印。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ショックパライズ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T142037Z" creationid="土妹子" creationdate="20160106T142037Z">
+        <seg>电击麻痹</seg>
       </tuv>
     </tu>
     <tu>
@@ -63198,6 +63238,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ラピスラズリ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T142300Z" creationid="土妹子" creationdate="20160106T142300Z">
+        <seg>青金石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ラファニア</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T163829Z" creationid="UUZ" creationdate="20140910T140102Z">
@@ -63370,6 +63418,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T094805Z" creationid="UUZ" creationdate="20140906T114416Z">
         <seg>反射镜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>リフレクトビット</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T142130Z" creationid="土妹子" creationdate="20160106T142130Z">
+        <seg>反射浮游炮</seg>
       </tuv>
     </tu>
     <tu>
@@ -74342,6 +74398,38 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>妖怪絵巻-白-</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T142115Z" creationid="土妹子" creationdate="20160106T142115Z">
+        <seg>妖怪绘卷-白-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>妖怪絵巻-蒼-</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T142103Z" creationid="土妹子" creationdate="20160106T142103Z">
+        <seg>妖怪绘卷-苍-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>妖怪絵巻-赤-</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T142055Z" creationid="土妹子" creationdate="20160106T142055Z">
+        <seg>妖怪绘卷-赤-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>妖怪絵巻-黒-</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T142109Z" creationid="土妹子" creationdate="20160106T142109Z">
+        <seg>妖怪绘卷-黑-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>妖怪（二口女）</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145731Z" creationid="UUZ" creationdate="20140906T145731Z">
@@ -75382,6 +75470,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>封印を解除すると きっと二度と会えなくなるわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T142508Z" creationid="土妹子" creationdate="20160106T142508Z">
+        <seg>一旦解除了封印 就再也见不到了啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>封印状態の人形を倒すと仲間にすることができます。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T115414Z" creationid="UUZ" creationdate="20140908T114429Z">
@@ -76058,6 +76154,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150216T124813Z" creationid="土妹子" creationdate="20150216T124813Z">
         <seg>希望之力不够吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>希望の面</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T142134Z" creationid="土妹子" creationdate="20160106T142134Z">
+        <seg>希望之面</seg>
       </tuv>
     </tu>
     <tu>
@@ -89566,6 +89670,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>胡蝶丸</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T142204Z" creationid="土妹子" creationdate="20160106T142204Z">
+        <seg>蝴蝶丸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>胡蝶夢の人形遣い</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T071403Z" creationid="土妹子" creationdate="20160106T071403Z">
@@ -91806,6 +91918,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>見通し眼鏡</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T142154Z" creationid="土妹子" creationdate="20160106T142154Z">
+        <seg>看透眼镜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>覚えておきな。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T180316Z" creationid="CJ" creationdate="20150521T180241Z">
@@ -92890,6 +93010,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150726T051235Z" creationid="UUZ" creationdate="20140910T140058Z">
         <seg>农民 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>迎撃ビット</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T142124Z" creationid="土妹子" creationdate="20160106T142124Z">
+        <seg>迎击浮游炮</seg>
       </tuv>
     </tu>
     <tu>
@@ -94306,6 +94434,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T095633Z" creationid="UUZ" creationdate="20140906T121828Z">
         <seg>铁壁之势</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>鉄心のリボン</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T142143Z" creationid="土妹子" creationdate="20160106T142143Z">
+        <seg>铁心的缎带</seg>
       </tuv>
     </tu>
     <tu>
