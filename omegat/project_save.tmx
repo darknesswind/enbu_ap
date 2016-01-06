@@ -50358,6 +50358,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>にとりの家</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T040635Z" creationid="土妹子" creationdate="20160106T040635Z">
+        <seg>荷取的家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>にとりの新しいメカかい？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T082117Z" creationid="妄想" creationdate="20150104T082117Z">
@@ -61082,6 +61090,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T032540Z" creationid="土妹子" creationdate="20160106T032540Z">
         <seg>赫卡提亚</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ヘカーティア・ラピスラズリ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T040602Z" creationid="土妹子" creationdate="20160106T040602Z">
+        <seg>赫卡提亚·拉碧斯拉祖利</seg>
       </tuv>
     </tu>
     <tu>
@@ -84022,6 +84038,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>白玉楼階段</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T040704Z" creationid="土妹子" creationdate="20160106T040704Z">
+        <seg>白玉楼阶梯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>白百合の舞</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T095127Z" creationid="UUZ" creationdate="20140906T095127Z">
@@ -85518,6 +85542,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>神霊廟内部</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T040656Z" creationid="土妹子" creationdate="20160106T040656Z">
+        <seg>神灵庙内部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>神鳴</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105535Z" creationid="UUZ" creationdate="20140906T125801Z">
@@ -86970,6 +87002,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T031658Z" creationid="土妹子" creationdate="20160106T031658Z">
         <seg>红魔馆深处</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>純弧</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T040848Z" creationid="土妹子" creationdate="20160106T040848Z">
+        <seg>纯狐</seg>
       </tuv>
     </tu>
     <tu>
@@ -88882,6 +88922,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T154846Z" creationid="土妹子" creationdate="20150107T015735Z">
         <seg>降临人世的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>舞闘会</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T040711Z" creationid="土妹子" creationdate="20160106T040711Z">
+        <seg>舞斗会</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>舞闘会地底</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T040717Z" creationid="土妹子" creationdate="20160106T040717Z">
+        <seg>舞斗会地底</seg>
       </tuv>
     </tu>
     <tu>
@@ -90930,6 +90986,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T132439Z" creationid="土妹子" creationdate="20141230T132439Z">
         <seg>辉针城</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>輝針城逆さ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T040650Z" creationid="土妹子" creationdate="20160106T040650Z">
+        <seg>辉针城逆城</seg>
       </tuv>
     </tu>
     <tu>
