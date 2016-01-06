@@ -68478,6 +68478,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>使い魔の人形遣い</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T071054Z" creationid="土妹子" creationdate="20160106T071054Z">
+        <seg>使魔人形使</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>使う</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
@@ -70106,6 +70114,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161734Z" creationid="UUZ" creationdate="20141224T161734Z">
         <seg>勇仪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>動かない人形遣い</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T071059Z" creationid="土妹子" creationdate="20160106T071059Z">
+        <seg>不动的人形使</seg>
       </tuv>
     </tu>
     <tu>
@@ -74430,6 +74446,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>完全で瀟洒な人形遣い</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T071151Z" creationid="土妹子" creationdate="20160106T071151Z">
+        <seg>完全潇洒的人形使</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>完全にやる気を削がれてしまったわ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T044512Z" creationid="土妹子" creationdate="20150107T044512Z">
@@ -74546,6 +74570,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150119T114812Z" creationid="土妹子" creationdate="20150119T114812Z">
         <seg>拥有宫古芳香的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>宵闇の人形遣い</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T071026Z" creationid="土妹子" creationdate="20160106T071026Z">
+        <seg>暗夜的人形使</seg>
       </tuv>
     </tu>
     <tu>
@@ -77146,6 +77178,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T181839Z" creationid="妄想" creationdate="20150106T024619Z">
         <seg>你不知到什么是恐怖吗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>恵みの人形遣い</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T071033Z" creationid="土妹子" creationdate="20160106T071033Z">
+        <seg>恩惠的人形使</seg>
       </tuv>
     </tu>
     <tu>
@@ -82494,6 +82534,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>氷精の人形使い</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T071040Z" creationid="土妹子" creationdate="20160106T071040Z">
+        <seg>冰精的人形使</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>氷雪世界</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T031907Z" creationid="土妹子" creationdate="20160106T031907Z">
@@ -84874,6 +84922,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
         <seg>白虎</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>白魔導師の人形遣い</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T071007Z" creationid="土妹子" creationdate="20160106T071007Z">
+        <seg>白魔导师人形使</seg>
       </tuv>
     </tu>
     <tu>
@@ -87638,6 +87694,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>紅い悪魔の人形遣い</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T071201Z" creationid="土妹子" creationdate="20160106T071201Z">
+        <seg>红之恶魔人形使</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>紅くなった瞳を見た生き物は 気が狂ってしまう。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150803T094216Z" creationid="土妹子" creationdate="20150115T135856Z">
@@ -90346,6 +90410,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150105T154423Z" creationid="UUZ" creationdate="20150105T154423Z">
         <seg>虹之魔石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>虹色の人形遣い</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T071049Z" creationid="土妹子" creationdate="20160106T071049Z">
+        <seg>虹色的人形使</seg>
       </tuv>
     </tu>
     <tu>
@@ -95678,6 +95750,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>魔界メイドの人形遣い</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T071015Z" creationid="土妹子" creationdate="20160106T071015Z">
+        <seg>魔界女仆人形使</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>魔界人の</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T061839Z" creationid="土妹子" creationdate="20160106T061839Z">
@@ -95698,6 +95778,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145923Z" creationid="UUZ" creationdate="20140906T145923Z">
         <seg>魔界人男</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>魔界神の人形遣い</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T071020Z" creationid="土妹子" creationdate="20160106T071020Z">
+        <seg>魔界神人形使</seg>
       </tuv>
     </tu>
     <tu>
@@ -95930,6 +96018,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T174344Z" creationid="土妹子" creationdate="20150116T174344Z">
         <seg>拥有黑谷山女的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>黒魔導師の人形遣い</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T070958Z" creationid="土妹子" creationdate="20160106T070958Z">
+        <seg>黑魔导师人形使</seg>
       </tuv>
     </tu>
     <tu>
