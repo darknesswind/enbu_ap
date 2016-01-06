@@ -55262,6 +55262,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>オーバーラン</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T140830Z" creationid="土妹子" creationdate="20160106T140830Z">
+        <seg>超控</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>オーバーレイ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105920Z" creationid="UUZ" creationdate="20140906T132309Z">
@@ -73778,6 +73786,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T022032Z" creationid="土妹子" creationdate="20141231T022032Z">
         <seg>天气预报</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>天泣の霊石</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T141555Z" creationid="土妹子" creationdate="20160106T141555Z">
+        <seg>天泣的灵石</seg>
       </tuv>
     </tu>
     <tu>
@@ -93970,6 +93986,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T005220Z" creationid="土妹子" creationdate="20141231T093254Z">
         <seg>醉鬼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>酸涙</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T141533Z" creationid="土妹子" creationdate="20160106T141533Z">
+        <seg>酸泪</seg>
       </tuv>
     </tu>
     <tu>
