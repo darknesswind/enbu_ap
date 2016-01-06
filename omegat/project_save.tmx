@@ -47598,6 +47598,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>そっとしておく</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T140246Z" creationid="土妹子" creationdate="20160106T140246Z">
+        <seg>放着不管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>そのあいだ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150802T033140Z" creationid="土妹子" creationdate="20150109T110217Z">
@@ -52258,6 +52266,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T073103Z" creationid="土妹子" creationdate="20150107T073103Z">
         <seg>还没结……\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>まだ考えていない</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T140557Z" creationid="土妹子" creationdate="20160106T140557Z">
+        <seg>还没有考虑过</seg>
       </tuv>
     </tu>
     <tu>
@@ -65758,6 +65774,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形たちと暮らしたい</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T140551Z" creationid="土妹子" creationdate="20160106T140551Z">
+        <seg>想和人形们一起生活</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人形たちもへとへとになっちゃったわ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150508T084009Z" creationid="140706inu" creationdate="20150508T084009Z">
@@ -69382,6 +69406,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>元の世界に帰りたい</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T140543Z" creationid="土妹子" creationdate="20160106T140543Z">
+        <seg>想回到原来的世界</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>元気があれば勝てるのよー！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T090932Z" creationid="妄想" creationdate="20150128T040543Z">
@@ -71302,6 +71334,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>古びた柿</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T140535Z" creationid="土妹子" creationdate="20160106T140535Z">
+        <seg>古旧的柿子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>古びた琴の人形遣い</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T073726Z" creationid="土妹子" creationdate="20160106T073726Z">
@@ -71314,6 +71354,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T073721Z" creationid="土妹子" creationdate="20160106T073721Z">
         <seg>古琵琶人形使</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>古びた蟹</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T140359Z" creationid="土妹子" creationdate="20160106T140359Z">
+        <seg>古旧的螃蟹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>古びた鍵</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T140353Z" creationid="土妹子" creationdate="20160106T140346Z">
+        <seg>古旧的钥匙</seg>
       </tuv>
     </tu>
     <tu>
@@ -74334,10 +74390,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>妖精とかくれんぼしてた</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T140335Z" creationid="土妹子" creationdate="20160106T140335Z">
+        <seg>和妖精玩了捉迷藏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>妖精とは自然の権化！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T033138Z" creationid="140706inu" creationdate="20150512T033138Z">
         <seg>所谓妖精即是自然的具象化！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>妖精にケーキを食べさせた</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T140327Z" creationid="土妹子" creationdate="20160106T140327Z">
+        <seg>喂了妖精吃蛋糕</seg>
       </tuv>
     </tu>
     <tu>
@@ -78486,6 +78558,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>投槍の極意</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T140654Z" creationid="土妹子" creationdate="20160106T140654Z">
+        <seg>投枪的极意</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>抗体持ち</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T025813Z" creationid="土妹子" creationdate="20141231T025813Z">
@@ -80330,6 +80410,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T102400Z" creationid="140706inu" creationdate="20150410T102400Z">
         <seg>人生短暂 所以尽情去愉快地对战吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>時間をずらす</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T140240Z" creationid="土妹子" creationdate="20160106T140240Z">
+        <seg>调整时间</seg>
       </tuv>
     </tu>
     <tu>
@@ -88094,6 +88182,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>秘色の髪飾り</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T140628Z" creationid="土妹子" creationdate="20160106T140628Z">
+        <seg>秘色的发饰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>秦こころ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145138Z" creationid="UUZ" creationdate="20140906T145138Z">
@@ -89198,6 +89294,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>耐歪の符</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T140639Z" creationid="土妹子" creationdate="20160106T140639Z">
+        <seg>耐歪之符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>耐毒の符</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T145135Z" creationid="UUZ" creationdate="20140907T145135Z">
@@ -89258,6 +89362,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T145146Z" creationid="UUZ" creationdate="20140907T145146Z">
         <seg>耐斗之符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>耐雷の符</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T140633Z" creationid="土妹子" creationdate="20160106T140633Z">
+        <seg>耐雷之符</seg>
       </tuv>
     </tu>
     <tu>
@@ -93006,6 +93118,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>逃げる妖精を追っていた</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T140320Z" creationid="土妹子" creationdate="20160106T140320Z">
+        <seg>去追了逃跑的妖精</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>逃げ切れない！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
@@ -94014,6 +94134,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>金の符</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T140736Z" creationid="土妹子" creationdate="20160106T140736Z">
+        <seg>金之符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>金の魔石</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T143053Z" creationid="土妹子" creationdate="20150101T143053Z">
@@ -94182,6 +94310,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>銀の符</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T140740Z" creationid="土妹子" creationdate="20160106T140740Z">
+        <seg>银之符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>銀色のかんざし。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T152228Z" creationid="UUZ" creationdate="20140908T033938Z">
@@ -94258,6 +94394,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T023628Z" creationid="土妹子" creationdate="20141231T023628Z">
         <seg>使钢属性的技能无效并提升１段集弹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>鋼鉄符</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T140704Z" creationid="土妹子" creationdate="20160106T140704Z">
+        <seg>钢铁符</seg>
       </tuv>
     </tu>
     <tu>
@@ -94550,6 +94694,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>闇符</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T140717Z" creationid="土妹子" creationdate="20160106T140717Z">
+        <seg>暗符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>闘</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
@@ -94594,6 +94746,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T025206Z" creationid="土妹子" creationdate="20141231T025206Z">
         <seg>斗属性的对手不能交换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>闘符</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T140723Z" creationid="土妹子" creationdate="20160106T140723Z">
+        <seg>斗符</seg>
       </tuv>
     </tu>
     <tu>
@@ -95890,6 +96050,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
         <seg>因为风神加护 %s的 人形变快了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>風符</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T140710Z" creationid="土妹子" creationdate="20160106T140710Z">
+        <seg>风符</seg>
       </tuv>
     </tu>
     <tu>
