@@ -74806,6 +74806,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>幻夢界</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T030838Z" creationid="土妹子" creationdate="20160106T030838Z">
+        <seg>幻梦界</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>幻属性のスキルを無効化し 状態異常を回復する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T024543Z" creationid="土妹子" creationdate="20141231T024543Z">
