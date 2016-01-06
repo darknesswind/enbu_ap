@@ -47630,6 +47630,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>そのまま持っていく</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T121355Z" creationid="土妹子" creationdate="20160106T121355Z">
+        <seg>就这样拿着走</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>そのまま続けていれば きっと帰れるようになりますよ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T112245Z" creationid="土妹子" creationdate="20150107T121502Z">
@@ -55698,6 +55706,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
         <seg>角色立绘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>キャンセル</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T121338Z" creationid="土妹子" creationdate="20160106T121338Z">
+        <seg>取消</seg>
       </tuv>
     </tu>
     <tu>
@@ -66854,6 +66870,38 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形断章 -其之伍-</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T121147Z" creationid="土妹子" creationdate="20160106T121147Z">
+        <seg>人形断章 -其五-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形断章 -其之伍-（未読）</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T121156Z" creationid="土妹子" creationdate="20160106T121156Z">
+        <seg>人形断章 -其五-（未读）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形断章 -其之参-</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T121117Z" creationid="土妹子" creationdate="20160106T121117Z">
+        <seg>人形断章 -其三-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形断章 -其之参-（未読）</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T121123Z" creationid="土妹子" creationdate="20160106T121123Z">
+        <seg>人形断章 -其三-（未读）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人形断章 -其之壱-</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T074406Z" creationid="土妹子" creationdate="20160106T074406Z">
@@ -66882,6 +66930,94 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T074449Z" creationid="土妹子" creationdate="20160106T074449Z">
         <seg>人形断章 -其二-（未读）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形断章 -其之拾-</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T121332Z" creationid="土妹子" creationdate="20160106T121332Z">
+        <seg>人形断章 -其十-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形断章 -其之捌-</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T121306Z" creationid="土妹子" creationdate="20160106T121306Z">
+        <seg>人形断章 -其八-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形断章 -其之捌-（未読）</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T121311Z" creationid="土妹子" creationdate="20160106T121311Z">
+        <seg>人形断章 -其八-（未读）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形断章 -其之漆-</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T121252Z" creationid="土妹子" creationdate="20160106T121252Z">
+        <seg>人形断章 -其七-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形断章 -其之漆-（未読）</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T121300Z" creationid="土妹子" creationdate="20160106T121300Z">
+        <seg>人形断章 -其七-（未读）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形断章 -其之玖-</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T121317Z" creationid="土妹子" creationdate="20160106T121317Z">
+        <seg>人形断章 -其九-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形断章 -其之玖-（未読）</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T121325Z" creationid="土妹子" creationdate="20160106T121325Z">
+        <seg>人形断章 -其九-（未读）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形断章 -其之肆-</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T121129Z" creationid="土妹子" creationdate="20160106T121129Z">
+        <seg>人形断章 -其四-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形断章 -其之肆-（未読）</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T121139Z" creationid="土妹子" creationdate="20160106T121139Z">
+        <seg>人形断章 -其四-（未读）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形断章 -其之陸-</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T121222Z" creationid="土妹子" creationdate="20160106T121222Z">
+        <seg>人形断章 -其六-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形断章 -其之陸-（未読）</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T121230Z" creationid="土妹子" creationdate="20160106T121230Z">
+        <seg>人形断章 -其六-（未读）</seg>
       </tuv>
     </tu>
     <tu>
