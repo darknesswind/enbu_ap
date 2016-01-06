@@ -34166,6 +34166,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\dを 雛に預けた・・・\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T142524Z" creationid="土妹子" creationdate="20160106T142524Z">
+        <seg>把\d交给了雏……\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\fとか すげーかわいいんだけどなぁ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T142439Z" creationid="土妹子" creationdate="20150105T034035Z">
@@ -60409,6 +60417,14 @@
         <seg>バイバイ \d……。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T162454Z" creationid="土妹子" creationdate="20150104T162454Z">
+        <seg>再见 \d……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>バイバイ \d・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T142528Z" creationid="土妹子" creationdate="20160106T142528Z">
         <seg>再见 \d……。</seg>
       </tuv>
     </tu>
@@ -91626,6 +91642,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150530T152232Z" creationid="土妹子" creationdate="20150107T015735Z">
         <seg>服装１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>表情変化テストへようこそ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T142915Z" creationid="土妹子" creationdate="20160106T142915Z">
+        <seg>欢迎来到表情变化测试！</seg>
       </tuv>
     </tu>
     <tu>
