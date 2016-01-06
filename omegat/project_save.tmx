@@ -47632,8 +47632,8 @@
       <tuv lang="JA">
         <seg>そのまま持っていく</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T121355Z" creationid="土妹子" creationdate="20160106T121355Z">
-        <seg>就这样拿着走</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T121417Z" creationid="土妹子" creationdate="20160106T121355Z">
+        <seg>就这样拿走</seg>
       </tuv>
     </tu>
     <tu>
@@ -95946,6 +95946,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150521T100242Z" creationid="UUZ" creationdate="20140908T141110Z">
         <seg>我才不会吃呢！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>食べやすい大きさにカットして持っていく</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T121414Z" creationid="土妹子" creationdate="20160106T121414Z">
+        <seg>切成方便吃的大小拿着</seg>
       </tuv>
     </tu>
     <tu>
