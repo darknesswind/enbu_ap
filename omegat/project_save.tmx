@@ -72374,6 +72374,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>夢幻姉妹</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T054726Z" creationid="土妹子" creationdate="20160106T054726Z">
+        <seg>梦幻姐妹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>夢幻姉妹の</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T115711Z" creationid="UUZ" creationdate="20141230T115711Z">
@@ -79394,6 +79402,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150803T094748Z" creationid="土妹子" creationdate="20150116T144251Z">
         <seg>写下的字并不是能读的东西。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>最凶の悪魔</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T054737Z" creationid="土妹子" creationdate="20160106T054737Z">
+        <seg>最凶的恶魔</seg>
       </tuv>
     </tu>
     <tu>
