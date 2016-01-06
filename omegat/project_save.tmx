@@ -34230,6 +34230,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n【\\ %】は使用不可。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T030003Z" creationid="土妹子" creationdate="20160106T030003Z">
+        <seg>\n【\\ %】是不能使用的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\nかなり高額で売れる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T135717Z" creationid="土妹子" creationdate="20150101T135717Z">
@@ -64550,6 +64558,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>主人公名を10文字以内で入力し[Enter]で決定。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T025949Z" creationid="土妹子" creationdate="20160106T025949Z">
+        <seg>请为主人公输入10字以内的名字 按[Enter]确定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>主人公女</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T151818Z" creationid="UUZ" creationdate="20140906T151818Z">
@@ -78786,6 +78802,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T094718Z" creationid="土妹子" creationdate="20141231T094718Z">
         <seg>观时者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>時空を 越えて\n運命的な 再会を 果たした。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T025854Z" creationid="土妹子" creationdate="20160106T025854Z">
+        <seg>穿越时空\n命运般地再会了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>時空を 越えて出会った。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T025648Z" creationid="土妹子" creationdate="20160106T025648Z">
+        <seg>穿越时空相遇了。</seg>
       </tuv>
     </tu>
     <tu>
