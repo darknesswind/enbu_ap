@@ -34270,6 +34270,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n主人公名は通信の際に相手に見えます。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T030341Z" creationid="土妹子" creationdate="20160106T030341Z">
+        <seg>\n主人公的名字会在通信时显示给对方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n交換すると元に戻る。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T115304Z" creationid="土妹子" creationdate="20150102T153713Z">
@@ -59670,6 +59678,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ニックネームを10文字以内で入力し[Enter]で決定。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T030403Z" creationid="土妹子" creationdate="20160106T030403Z">
+        <seg>请输入10字以内的昵称 按[Enter]确定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ニャル</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T175710Z" creationid="土妹子" creationdate="20150102T175710Z">
@@ -61114,6 +61130,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T164937Z" creationid="UUZ" creationdate="20140824T145300Z">
         <seg>请为箱子输入10字以内的名称\n然后按[Enter]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ボックス名を10文字以内で入力し[Enter]で決定。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T030433Z" creationid="土妹子" creationdate="20160106T030433Z">
+        <seg>请输入10字以内的箱子名 按[Enter]确定。</seg>
       </tuv>
     </tu>
     <tu>
