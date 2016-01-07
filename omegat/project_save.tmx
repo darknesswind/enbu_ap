@@ -57550,6 +57550,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>スキルが外れた時 命中が一段階あがる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T091723Z" creationid="土妹子" creationdate="20160107T091723Z">
+        <seg>技能未命中时 命中上升１段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>スキルのダメージ以外のダメージを受けない。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T163820Z" creationid="土妹子" creationdate="20141231T093928Z">
@@ -61534,6 +61542,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ファーストアタック</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T091629Z" creationid="土妹子" creationdate="20160107T091629Z">
+        <seg>快攻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>フィリア</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T154719Z" creationid="土妹子" creationdate="20150104T154719Z">
@@ -61718,6 +61734,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>フラットスピード</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T091757Z" creationid="土妹子" creationdate="20160107T091757Z">
+        <seg>平速</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>フラワーマスター</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T115612Z" creationid="UUZ" creationdate="20141230T115612Z">
@@ -61866,6 +61890,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T131952Z" creationid="UUZ" creationdate="20140907T135806Z">
         <seg>喝倒彩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>プライド</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T091739Z" creationid="土妹子" creationdate="20160107T091739Z">
+        <seg>自尊</seg>
       </tuv>
     </tu>
     <tu>
@@ -65730,6 +65762,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T174105Z" creationid="土妹子" creationdate="20150102T174105Z">
         <seg>中坚人形使的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>中央の地脈</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T091542Z" creationid="土妹子" creationdate="20160107T091542Z">
+        <seg>中央的地脉</seg>
       </tuv>
     </tu>
     <tu>
@@ -69934,6 +69974,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>優先度が高いスキルを無効化する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T091754Z" creationid="土妹子" creationdate="20160107T091754Z">
+        <seg>使优先度高的技能无效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>元々は湖の番人をしていた妖怪であった。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T042815Z" creationid="土妹子" creationdate="20150110T042815Z">
@@ -70018,6 +70066,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064528Z" creationid="土妹子" creationdate="20150101T064528Z">
         <seg>以先制攻击使对手害怕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>先手必勝</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T091622Z" creationid="土妹子" creationdate="20160107T091622Z">
+        <seg>先手必胜</seg>
       </tuv>
     </tu>
     <tu>
@@ -71230,6 +71286,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>北方の地脈</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T091410Z" creationid="土妹子" creationdate="20160107T091410Z">
+        <seg>北方的地脉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>北白河ちゆり</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T143918Z" creationid="UUZ" creationdate="20140906T143918Z">
@@ -71410,6 +71474,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T144841Z" creationid="140706inu" creationdate="20150512T183310Z">
         <seg>设为原值的一半会稍微减轻计算机负荷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>南方の地脈</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T091426Z" creationid="土妹子" creationdate="20160107T091426Z">
+        <seg>南方的地脉</seg>
       </tuv>
     </tu>
     <tu>
@@ -71826,6 +71898,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T012126Z" creationid="UUZ" creationdate="20140908T012126Z">
         <seg>整顿之符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>収束戦略</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T091701Z" creationid="土妹子" creationdate="20160107T091701Z">
+        <seg>收敛战略</seg>
       </tuv>
     </tu>
     <tu>
@@ -73202,6 +73282,38 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T095512Z" creationid="UUZ" creationdate="20140906T095512Z">
         <seg>地相显现「青龙」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>地相：朱雀の時 朱雀の効果を受けず 毎ターン終了時にＨＰが少し回復する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T091500Z" creationid="土妹子" creationdate="20160107T091500Z">
+        <seg>地相：朱雀时不受朱雀的效果 并且每回合结束时回复少许ＨＰ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>地相：玄武の時 俊敏が半分になる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T091422Z" creationid="土妹子" creationdate="20160107T091422Z">
+        <seg>地相：玄武时敏捷减半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>地相：青龍の時 無効にされるスキルが当たるようになり 属性一致スキルの威力が高い。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T091538Z" creationid="土妹子" creationdate="20160107T091538Z">
+        <seg>地相：青龙时无效的技能也能命中 并且属性一致的技能威力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>地相：黄龍の時 相手の能力ランクを無視し アビリティを無視して攻撃できる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T091606Z" creationid="土妹子" creationdate="20160107T091606Z">
+        <seg>地相：黄龙时能无视对手的能力等级和特性进行攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -76474,6 +76586,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T095745Z" creationid="土妹子" creationdate="20150101T095745Z">
         <seg>受属性相性的影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>属性結界を貫通されたスキルを受けた時 ダメージを軽減する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T091347Z" creationid="土妹子" creationdate="20160107T091347Z">
+        <seg>属性结界被贯通时 减轻受到的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>属性結界を貫通しない攻撃スキルは当たらない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T091355Z" creationid="土妹子" creationdate="20160107T091355Z">
+        <seg>不能贯通属性结界的攻击不会命中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -82054,6 +82182,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>東方の地脈</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T091507Z" creationid="土妹子" creationdate="20160107T091507Z">
+        <seg>东方的地脉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>東方キャラでは 誰が好き？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
@@ -82354,6 +82490,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
         <seg>极光</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>極限</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T091725Z" creationid="土妹子" creationdate="20160107T091725Z">
+        <seg>极限</seg>
       </tuv>
     </tu>
     <tu>
@@ -85094,6 +85238,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>無効化</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T091728Z" creationid="土妹子" creationdate="20160107T091728Z">
+        <seg>无效化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>無印</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150530T154549Z" creationid="UUZ" creationdate="20150530T154549Z">
@@ -86662,6 +86814,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>直感</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T091744Z" creationid="土妹子" creationdate="20160107T091744Z">
+        <seg>直觉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>直接 解放戦線に参加していたわけじゃないわ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T033054Z" creationid="土妹子" creationdate="20150109T033054Z">
@@ -87178,6 +87338,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T063527Z" creationid="土妹子" creationdate="20150101T063527Z">
         <seg>使对手的ＨＰ与自身相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手のアビリティによる スキルのダメージの変化がなくなる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T091654Z" creationid="土妹子" creationdate="20160107T091654Z">
+        <seg>技能的伤害不会因对手的特性而变动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手のアビリティをなくす。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T091735Z" creationid="土妹子" creationdate="20160107T091735Z">
+        <seg>使对手失去特性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -91974,6 +92150,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>蒼帝之木</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T091616Z" creationid="土妹子" creationdate="20160107T091616Z">
+        <seg>苍帝之木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>蒼色の印章。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T141451Z" creationid="土妹子" creationdate="20150101T141451Z">
@@ -92478,6 +92662,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>西方の地脈</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T091504Z" creationid="土妹子" creationdate="20160107T091504Z">
+        <seg>西方的地脉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>西行妖</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T145713Z" creationid="UUZ" creationdate="20150102T145713Z">
@@ -92674,6 +92866,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T144001Z" creationid="140706inu" creationdate="20150410T144001Z">
         <seg>这叫遇敌取材啦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>見極め</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T091633Z" creationid="土妹子" creationdate="20160107T091633Z">
+        <seg>看透</seg>
       </tuv>
     </tu>
     <tu>
