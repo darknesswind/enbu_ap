@@ -41286,6 +41286,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あれ \f？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T072719Z" creationid="土妹子" creationdate="20160107T072719Z">
+        <seg>咦 \f？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あれ ご存知なんですか？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T104835Z" creationid="UUZ" creationdate="20140908T080317Z">
@@ -42954,6 +42962,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T034700Z" creationid="土妹子" creationdate="20150105T034700Z">
         <seg>好奇怪啊……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>おかしいわね・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T072628Z" creationid="土妹子" creationdate="20160107T072628Z">
+        <seg>好奇怪啊……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>おかしーな・・・勘違いかなぁ・・・？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T072800Z" creationid="土妹子" creationdate="20160107T072800Z">
+        <seg>好～奇怪……搞错了吗……？</seg>
       </tuv>
     </tu>
     <tu>
@@ -80918,6 +80942,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>暑いわねぇ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T072646Z" creationid="土妹子" creationdate="20160107T072646Z">
+        <seg>好热啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>暗くも明るい 静かでも騒がしい 地上にゃどこにも無い都さね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150729T054225Z" creationid="CJ" creationdate="20150521T190835Z">
@@ -90918,6 +90950,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>自動販売機はないのかしら？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T072706Z" creationid="土妹子" creationdate="20160107T072706Z">
+        <seg>没有自动贩卖机吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>自律人形の人形遣い</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T071807Z" creationid="土妹子" creationdate="20160106T071807Z">
@@ -92105,6 +92145,14 @@
         <seg>見た目は ただの廃神社だけど……\b</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150513T022310Z" creationid="UUZ" creationdate="20140908T125634Z">
+        <seg>这里虽然看上去只是个普通的废弃神社……\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>見た目は ただの廃神社だけど・・・\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T072636Z" creationid="土妹子" creationdate="20160107T072636Z">
         <seg>这里虽然看上去只是个普通的废弃神社……\b</seg>
       </tuv>
     </tu>
