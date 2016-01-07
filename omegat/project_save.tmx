@@ -60422,6 +60422,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ドリームワールド</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T093601Z" creationid="土妹子" creationdate="20160107T093601Z">
+        <seg>梦世界</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ドレインシード</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093506Z" creationid="UUZ" creationdate="20140906T095015Z">
@@ -65470,6 +65478,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>三相一体</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T093633Z" creationid="土妹子" creationdate="20160107T093633Z">
+        <seg>三位一体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>三符 · 自然</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T095849Z" creationid="UUZ" creationdate="20140906T095849Z">
@@ -69546,6 +69562,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093419Z" creationid="土妹子" creationdate="20150101T093419Z">
         <seg>使用的人形不能交换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>使用するスキルの種類によって 姿が変わる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T093648Z" creationid="土妹子" creationdate="20160107T093648Z">
+        <seg>根据使用的技能的种类变换形态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -79238,6 +79262,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>戦闘中に 相手の能力変化が逆転する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T093557Z" creationid="土妹子" creationdate="20160107T093557Z">
+        <seg>战斗中逆转对手的能力变化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>戦闘中の人形の○○を上げる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T040852Z" creationid="UUZ" creationdate="20140908T040852Z">
@@ -80690,6 +80722,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20141231T094347Z">
         <seg>受到攻击时 有３成几率封印那个技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>攻撃スキルを使用したとき集弾と集防・散弾と散防を入れ替える。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T093530Z" creationid="土妹子" creationdate="20160107T093530Z">
+        <seg>使用攻击技能时对换集弹和集防·散弹和散防。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83574,6 +83614,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>毒の迷路</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T093652Z" creationid="土妹子" creationdate="20160107T093652Z">
+        <seg>毒之迷宫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>毒を操る程度の能力を持つ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T021135Z" creationid="土妹子" creationdate="20150116T021135Z">
@@ -83634,6 +83682,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T032613Z" creationid="UUZ" creationdate="20140908T032613Z">
         <seg>毒属性以外的则会受到伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>毒属性以外の相手は 交代できなくなる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T093758Z" creationid="土妹子" creationdate="20160107T093758Z">
+        <seg>毒属性以外的对手不能交换。</seg>
       </tuv>
     </tu>
     <tu>
@@ -87074,6 +87130,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110729Z" creationid="土妹子" creationdate="20150101T110729Z">
         <seg>对手携带了装饰品时威力１.５倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手が停止中の時 相手は毎ターン少しダメージを受ける。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T093631Z" creationid="土妹子" creationdate="20160107T093631Z">
+        <seg>对手陷入停止状态时 每回合受到少许伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -94590,6 +94654,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>逆転作用</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T093544Z" creationid="土妹子" creationdate="20160107T093544Z">
+        <seg>逆转作用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>逆風</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T025210Z" creationid="土妹子" creationdate="20141231T025210Z">
@@ -96162,6 +96234,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T154732Z" creationid="UUZ" creationdate="20140904T154732Z">
         <seg>防壁强化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>防御結界を使用したとき元に戻る。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T093540Z" creationid="土妹子" creationdate="20160107T093540Z">
+        <seg>使用防御结界时还原。</seg>
       </tuv>
     </tu>
     <tu>
