@@ -43894,6 +43894,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>お調子者</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T092854Z" creationid="土妹子" creationdate="20160107T092854Z">
+        <seg>轻率者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>お買い得だよ？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T093721Z" creationid="土妹子" creationdate="20150106T093721Z">
@@ -63906,6 +63914,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T094805Z" creationid="UUZ" creationdate="20140906T114416Z">
         <seg>反射镜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>リフレクトガード</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T092932Z" creationid="土妹子" creationdate="20160107T092932Z">
+        <seg>反射防御</seg>
       </tuv>
     </tu>
     <tu>
@@ -87446,6 +87462,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手のスキルを無効にした時 俊敏が一段階あがる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T092900Z" creationid="土妹子" creationdate="20160107T092900Z">
+        <seg>使对手的技能无效时 敏捷上升１段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手のスキルを無効にした時 散弾が一段階あがる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T092727Z" creationid="土妹子" creationdate="20160107T092727Z">
@@ -89362,6 +89386,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T144156Z" creationid="土妹子" creationdate="20150116T144156Z">
         <seg>拥有稗田阿求的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>種別BUのスキルを受けた時 弾幕を打ち返す。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T092928Z" creationid="土妹子" creationdate="20160107T092928Z">
+        <seg>受到类别为BU的技能时 发射反击弹幕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>種別ENのスキルを受けた時 弾幕を打ち返す。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T092941Z" creationid="土妹子" creationdate="20160107T092941Z">
+        <seg>受到类别为EN的技能时 发射反击弹幕。</seg>
       </tuv>
     </tu>
     <tu>
@@ -94098,6 +94138,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T142124Z" creationid="土妹子" creationdate="20160106T142124Z">
         <seg>迎击浮游炮</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>迎撃体勢</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T092906Z" creationid="土妹子" creationdate="20160107T092906Z">
+        <seg>迎击态势</seg>
       </tuv>
     </tu>
     <tu>
