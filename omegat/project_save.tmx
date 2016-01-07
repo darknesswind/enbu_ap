@@ -43430,6 +43430,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>お互いの優先度が高いスキルの優先度を０にする。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T092044Z" creationid="土妹子" creationdate="20160107T092044Z">
+        <seg>双方优先度高的技能优先度变为０。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>お互いの属性一致でないスキルの威力が低くなる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T092104Z" creationid="土妹子" creationdate="20160107T092104Z">
+        <seg>双方属性不一致的技能威力下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>お人形かわいいよウェヒ ウェヒヒヒヒ…。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="UUZ" creationdate="20140908T122429Z">
@@ -61798,6 +61814,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>フルパワー</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T092158Z" creationid="土妹子" creationdate="20160107T092158Z">
+        <seg>全力攻击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>フルール</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T165811Z" creationid="土妹子" creationdate="20150102T165811Z">
@@ -79118,6 +79142,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>戦闘中に お互いの 属性結界が反転する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T092232Z" creationid="土妹子" creationdate="20160107T092232Z">
+        <seg>战斗中使双方的属性结界反转。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>戦闘中の人形の○○を上げる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T040852Z" creationid="UUZ" creationdate="20140908T040852Z">
@@ -81050,6 +81082,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T124736Z" creationid="140706inu" creationdate="20150512T124736Z">
         <seg>你倒是早点说啊—。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>早口宣言</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T092133Z" creationid="土妹子" creationdate="20160107T092133Z">
+        <seg>快嘴宣言</seg>
       </tuv>
     </tu>
     <tu>
@@ -84910,6 +84950,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>溜めが必要なスキルの威力が下がる代わりに １ターンで使える。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T092154Z" creationid="土妹子" creationdate="20160107T092154Z">
+        <seg>蓄力技能的威力下降 不过１回合就能使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>滝と流れゆく落ち葉を見てると 心が安らぐんです。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T193757Z" creationid="妄想" creationdate="20150110T020950Z">
@@ -86850,6 +86898,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T025129Z" creationid="土妹子" creationdate="20141231T025129Z">
         <seg>因为相性而无效的技能也能命中对手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相性反転</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T092211Z" creationid="土妹子" creationdate="20160107T092211Z">
+        <seg>相性反转</seg>
       </tuv>
     </tu>
     <tu>
@@ -91898,6 +91954,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161815Z" creationid="UUZ" creationdate="20141224T161815Z">
         <seg>芳香</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>苦手意識</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T092049Z" creationid="土妹子" creationdate="20160107T092049Z">
+        <seg>短板意识</seg>
       </tuv>
     </tu>
     <tu>
