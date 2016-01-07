@@ -30878,6 +30878,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c「幻想人形演舞」のクリアデータを引き継ぎますか？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T065643Z" creationid="土妹子" creationdate="20160107T065643Z">
+        <seg>\c要继承「幻想人形演舞」的通关数据吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c『封印の糸は戦闘中の道具メニューから使用できます。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T045844Z" creationid="UUZ" creationdate="20140908T114118Z">
@@ -32574,6 +32582,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cクリアデータを引き継ぐことでイベントが若干変化したり\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T065553Z" creationid="土妹子" creationdate="20160107T065553Z">
+        <seg>\c继承通关数据会使事件发生若干变化\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cコホン。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T153453Z" creationid="土妹子" creationdate="20150105T153453Z">
@@ -32586,6 +32602,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T130556Z" creationid="UUZ" creationdate="20140909T130556Z">
         <seg>\c咳！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\cストーリークリア後に人形を引き継ぐことが出来ます。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T065619Z" creationid="土妹子" creationdate="20160107T065619Z">
+        <seg>\c并且通关后可以继承人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33466,6 +33490,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150109T050154Z">
         <seg>\c在和幻想乡不同的轴上 存在一个叫魔界的世界。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c引き継ぎを行いたい場合は一旦ゲームを終了し マニュアルをお読みください。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T065755Z" creationid="土妹子" creationdate="20160107T065755Z">
+        <seg>\c想要继承的话 请暂时结束游戏 阅读游戏手册的说明。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39682,6 +39714,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
         <seg>要自动整理「%s」吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>「幻想人形演舞 -ユメノカケラ-」の</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T065842Z" creationid="土妹子" creationdate="20160107T065842Z">
+        <seg>继承「幻想人形演舞 -梦的碎片-」的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>「幻想人形演舞」のクリアデータが存在しません。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T065703Z" creationid="土妹子" creationdate="20160107T065703Z">
+        <seg>不存在「幻想人形演舞」的通关数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53358,6 +53406,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>よろしいですか？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T065812Z" creationid="土妹子" creationdate="20160107T065812Z">
+        <seg>这样可以吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>よーし もう少し腕を磨いて \pを負かしてやらないとなっ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150802T044545Z" creationid="土妹子" creationdate="20150109T152959Z">
@@ -56010,6 +56066,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T061910Z" creationid="土妹子" creationdate="20160106T061910Z">
         <seg>库拉瓦利斯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>クリアデータを引き継がずにゲームを開始して</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T065807Z" creationid="土妹子" creationdate="20160107T065807Z">
+        <seg>不继承通关数据地开始游戏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>クリアデータを引き継がずにゲームを開始します。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T065722Z" creationid="土妹子" creationdate="20160107T065722Z">
+        <seg>不继承通关数据地开始游戏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>クリアデータを引き継ぎ【二周目】を開始します。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T065858Z" creationid="土妹子" creationdate="20160107T065858Z">
+        <seg>通关数据开始【二周目】。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70530,6 +70610,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150728T053952Z" creationid="土妹子" creationdate="20150108T135832Z">
         <seg>和从前相比对人形的指挥更加熟练了 果然你很有天分呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>前作「幻想人形演舞」のクリアデータが存在します。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T065528Z" creationid="土妹子" creationdate="20160107T065528Z">
+        <seg>存在有前作「幻想人形演舞」的通关数据。</seg>
       </tuv>
     </tu>
     <tu>
