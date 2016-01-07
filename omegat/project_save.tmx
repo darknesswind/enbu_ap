@@ -59390,6 +59390,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>スルー</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T092838Z" creationid="土妹子" creationdate="20160107T092824Z">
+        <seg>放过</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>スローテンポ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093344Z" creationid="土妹子" creationdate="20141231T093344Z">
@@ -60154,6 +60162,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150803T105758Z" creationid="土妹子" creationdate="20150129T141446Z">
         <seg>情绪高昂起来便会打起甚至能引发雷电的节拍 在演奏中靠近相当危险。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>テンションアップ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T092721Z" creationid="土妹子" creationdate="20160107T092721Z">
+        <seg>激昂</seg>
       </tuv>
     </tu>
     <tu>
@@ -87426,6 +87442,38 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T094406Z" creationid="土妹子" creationdate="20141231T094406Z">
         <seg>对手的技能消耗ＳＰ翻倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手のスキルを無効にした時 散弾が一段階あがる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T092727Z" creationid="土妹子" creationdate="20160107T092727Z">
+        <seg>使对手的技能无效时 散弹上升１段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手のスキルを無効にした時 散防が一段階あがる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T092831Z" creationid="土妹子" creationdate="20160107T092831Z">
+        <seg>使对手的技能无效时 散防上升１段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手のスキルを無効にした時 集弾が一段階あがる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T092500Z" creationid="土妹子" creationdate="20160107T092500Z">
+        <seg>使对手的技能无效时 集弹上升１段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手のスキルを無効にした時 集防が一段階あがる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T092509Z" creationid="土妹子" creationdate="20160107T092509Z">
+        <seg>使对手的技能无效时 集防上升１段。</seg>
       </tuv>
     </tu>
     <tu>
