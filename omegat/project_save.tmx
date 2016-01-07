@@ -57646,6 +57646,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>スキルを属性結界で阻んだ時 相手の散弾一段階低下させる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T082342Z" creationid="土妹子" creationdate="20160107T082342Z">
+        <seg>属性结界阻挡对手技能时 降低对手的散弹１段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルを属性結界で阻んだ時 相手の集弾一段階低下させる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T082329Z" creationid="土妹子" creationdate="20160107T082329Z">
+        <seg>属性结界阻挡对手技能时 降低对手的集弹１段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>スキルを忘れました！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
@@ -73366,6 +73382,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>場に出た時 相手が属性結界を貫通するスキルを持っているかどうかわかる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T082158Z" creationid="土妹子" creationdate="20160107T082158Z">
+        <seg>出场时得知对手是否有能够贯通属性结界的技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>場に出た時 相手が持っている装飾品がわかる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T031226Z" creationid="土妹子" creationdate="20141231T031226Z">
@@ -75270,6 +75294,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>威力７０以上のスキルで自身が戦闘不能になったとき 弾幕を撃ち返す。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T082237Z" creationid="土妹子" creationdate="20160107T082237Z">
+        <seg>受到威力７０以上的技能攻击使自身战斗不能时 发动反击弹幕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>威力８０以上のスキルを受けた時 相手の俊敏を一段階低下させる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150907T093352Z" creationid="土妹子" creationdate="20141231T091836Z">
@@ -75282,6 +75314,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T162447Z" creationid="土妹子" creationdate="20141231T031433Z">
         <seg>受到威力９０以上的技能攻击使自身战斗不能时 发动反击弹幕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>威力９０以上のスキルへ 弾幕を撃ち返す。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T082225Z" creationid="土妹子" creationdate="20160107T082225Z">
+        <seg>受到威力９０以上的技能攻击时发动反击弹幕。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77514,6 +77554,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T112700Z" creationid="妄想" creationdate="20150110T083556Z">
         <seg>是会成为强者的眼神呐。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>強制交代させられず 怯まない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T082121Z" creationid="土妹子" creationdate="20160107T082121Z">
+        <seg>不会被强制交换 也不会害怕。</seg>
       </tuv>
     </tu>
     <tu>
@@ -82746,6 +82794,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T081759Z" creationid="土妹子" creationdate="20160107T081759Z">
         <seg>使歪属性的技能无效并回复异常状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>歪極之型</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T082056Z" creationid="土妹子" creationdate="20160107T082056Z">
+        <seg>歪极之型</seg>
       </tuv>
     </tu>
     <tu>
@@ -95846,10 +95902,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>集中スキルを受けたとき ３割の確率で相手を感電状態にする。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T082300Z" creationid="土妹子" creationdate="20160107T082300Z">
+        <seg>受到集中技能时 有３成几率使对手感电。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>集中スキルを受けたとき ３割の確率で相手を毒状態にする。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20141231T031623Z">
         <seg>受到集中技能时 有３成几率使对手中毒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>集中スキルを受けたとき ３割の確率で相手を混乱状態にする。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T082310Z" creationid="土妹子" creationdate="20160107T082310Z">
+        <seg>受到集中技能时 有３成几率使对手混乱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -95866,6 +95938,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T162722Z" creationid="土妹子" creationdate="20141231T092246Z">
         <seg>受到集中技能攻击时 集防下降１段而敏捷上升１段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>集中スキルを受けた時 集防が一段階下がり 集弾と俊敏が一段階上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T082423Z" creationid="土妹子" creationdate="20160107T082423Z">
+        <seg>受到集中技能攻击时 集防下降１段 而集弹和敏捷上升１段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -97794,6 +97874,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
         <seg>麻痹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>麻痺・感電状態にならない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T082140Z" creationid="土妹子" creationdate="20160107T082140Z">
+        <seg>不会进入麻痹·感电状态。</seg>
       </tuv>
     </tu>
     <tu>
