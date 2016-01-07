@@ -44310,6 +44310,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ここでは立ち絵の表情変化について 説明していきます。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T064112Z" creationid="土妹子" creationdate="20160107T064112Z">
+        <seg>在这里说明立绘表情变化的相关事项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ここで使うことはできない・・・</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T124438Z" creationid="UUZ" creationdate="20140908T042851Z">
