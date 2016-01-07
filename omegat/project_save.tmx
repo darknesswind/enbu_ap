@@ -59918,6 +59918,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>チェンジシフト</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T093449Z" creationid="土妹子" creationdate="20160107T093449Z">
+        <seg>换班</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>チェンジリング</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T171511Z" creationid="土妹子" creationdate="20150101T110647Z">
@@ -61482,6 +61490,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T134118Z" creationid="土妹子" creationdate="20141230T134118Z">
         <seg>惊愕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ビブロフィリア</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T093256Z" creationid="土妹子" creationdate="20160107T093256Z">
+        <seg>爱书狂</seg>
       </tuv>
     </tu>
     <tu>
@@ -74502,6 +74518,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>天の祝言</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T093117Z" creationid="土妹子" creationdate="20160107T093117Z">
+        <seg>天之祝词</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>天人の</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T061800Z" creationid="土妹子" creationdate="20160106T061800Z">
@@ -75166,6 +75190,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>妖怪絵巻を持っている場合能力が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T093306Z" creationid="土妹子" creationdate="20160107T093306Z">
+        <seg>持有妖怪绘卷时能力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>妖怪（二口女）</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145731Z" creationid="UUZ" creationdate="20140906T145731Z">
@@ -75458,6 +75490,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T031348Z" creationid="土妹子" creationdate="20141231T031348Z">
         <seg>对威力１００以上的技能发动反击弹幕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>威力５０以下の攻撃スキルを無効化する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T093321Z" creationid="土妹子" creationdate="20160107T093321Z">
+        <seg>使威力５０以下的技能无效。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78150,10 +78190,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>復活（仮）</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T093213Z" creationid="土妹子" creationdate="20160107T093213Z">
+        <seg>复活（伪）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>復讐の化身</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T031401Z" creationid="土妹子" creationdate="20141231T031401Z">
         <seg>复仇的化身</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>徹底拘束</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T093224Z" creationid="土妹子" creationdate="20160107T093224Z">
+        <seg>完全拘束</seg>
       </tuv>
     </tu>
     <tu>
@@ -83894,6 +83950,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>気象：天気雨のときに俊敏が倍になる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T093100Z" creationid="土妹子" creationdate="20160107T093100Z">
+        <seg>气象：雨天时自身的敏捷变为２倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>気象：天気雨のときに混乱状態にならず ターン終了時に状態異常が回復する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T093127Z" creationid="土妹子" creationdate="20160107T093127Z">
+        <seg>气象：雨天时 不会陷入混乱状态 每回合结束时解除异常状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>気象：極光の時 ターン終了時に状態異常が回復する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T153654Z" creationid="土妹子" creationdate="20141231T021422Z">
@@ -87614,6 +87686,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手はスキルの効果で交代できない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T093234Z" creationid="土妹子" creationdate="20160107T093234Z">
+        <seg>对手不能以技能效果交换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手より 俊敏が 低いほど 威力が 高くなる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T171120Z" creationid="土妹子" creationdate="20150101T095027Z">
@@ -90038,6 +90118,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>結壊戦</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T093140Z" creationid="土妹子" creationdate="20160107T093140Z">
+        <seg>结坏战</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>結局黒幕はどっかの神だったらしいけど……。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T170248Z" creationid="土妹子" creationdate="20150109T170248Z">
@@ -91546,6 +91634,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T113722Z" creationid="土妹子" creationdate="20150101T113722Z">
         <seg>以自己的ＨＰ为代价召唤死神附身对手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分のスキルによって属性結界を貫通した時のダメージが大きくなる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T093204Z" creationid="土妹子" creationdate="20160107T093204Z">
+        <seg>自身技能贯通属性结界时伤害上升。</seg>
       </tuv>
     </tu>
     <tu>
