@@ -32062,6 +32062,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cといったように表情が 次々と変化するシステムのが実装され\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T064551Z" creationid="土妹子" creationdate="20160107T064551Z">
+        <seg>\c实装了像这样 表情会不断变化的系统\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cとても妬ましいから 私がその気持ちをへし折ってあげるわ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150729T053318Z" creationid="土妹子" creationdate="20150108T150151Z">
@@ -32554,6 +32562,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T182604Z" creationid="土妹子" creationdate="20150131T114948Z">
         <seg>\c咿嘻嘻……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\cキャラによっては 先ほどの表情の他に 特別差分が用意されますので ご期待くださいね！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T064634Z" creationid="土妹子" creationdate="20160107T064634Z">
+        <seg>\c根据角色不同 除了上面的表情以外 也有特别准备的表情 敬请期待！</seg>
       </tuv>
     </tu>
     <tu>
@@ -33418,6 +33434,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T120409Z" creationid="土妹子" creationdate="20150105T050943Z">
         <seg>\c所幸人形的封印术流传开了 村子至少还能自卫……\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c幻想人形演舞アペンド（仮）では 会話中\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T064142Z" creationid="土妹子" creationdate="20160107T064142Z">
+        <seg>\c幻想人形演舞附件（伪） 对话中\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -68462,6 +68486,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>会話中の感情変化が よりわかりやすくなりました。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T064609Z" creationid="土妹子" creationdate="20160107T064609Z">
+        <seg>使对话中的感情变化更易于理解。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>伝説の</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T154601Z" creationid="土妹子" creationdate="20150107T015735Z">
@@ -72162,6 +72194,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T032949Z" creationid="140706inu" creationdate="20150512T032949Z">
         <seg>梦一旦说出口就没法成真了……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>喜び\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T064150Z" creationid="土妹子" creationdate="20160107T064150Z">
+        <seg>高兴\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -77694,6 +77734,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>怒り\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T064508Z" creationid="土妹子" creationdate="20160107T064508Z">
+        <seg>生气\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>怒号</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T132521Z" creationid="UUZ" creationdate="20140907T140412Z">
@@ -78002,6 +78050,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="CJ" creationdate="20150521T184821Z">
         <seg>红魔馆虽然被称作是恶魔栖居的洋馆 不过就数量上来说其实是妖精栖居的洋馆呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>悲しみ\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T064523Z" creationid="土妹子" creationdate="20160107T064523Z">
+        <seg>悲伤\b</seg>
       </tuv>
     </tu>
     <tu>
