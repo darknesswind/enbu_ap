@@ -57662,6 +57662,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>スキルを属性結界に阻まれても 威力が高い。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T091038Z" creationid="土妹子" creationdate="20160107T091038Z">
+        <seg>技能被属性结界阻挡时威力提高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>スキルを忘れました！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
@@ -79350,6 +79358,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>拡散スキルのダメージが２倍になる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T090955Z" creationid="土妹子" creationdate="20160107T090955Z">
+        <seg>扩散技能的威力翻倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>拡散スキルを受けたとき １割の確率で相手を恐怖状態にする。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20141231T035725Z">
@@ -96886,6 +96902,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>頑強</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T091042Z" creationid="土妹子" creationdate="20160107T091042Z">
+        <seg>顽强</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>頭のリボンをほどくと何かが起こる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T112203Z" creationid="土妹子" creationdate="20150110T102838Z">
@@ -98738,6 +98762,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093316Z" creationid="土妹子" creationdate="20141231T093316Z">
         <seg>５回合间散弹和敏捷的数值减半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>５ターン後 本気を出す。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T090946Z" creationid="土妹子" creationdate="20160107T090946Z">
+        <seg>５回合后认真起来。</seg>
       </tuv>
     </tu>
     <tu>
