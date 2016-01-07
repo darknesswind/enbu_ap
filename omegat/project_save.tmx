@@ -42966,6 +42966,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>おかしいな。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T080110Z" creationid="土妹子" creationdate="20160107T080110Z">
+        <seg>好奇怪啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>おかしいなぁ ここらへんにいるはずなんだけどなぁ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="妄想" creationdate="20150107T015933Z">
@@ -88206,6 +88214,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>私の人形を貸してやるから実際にやってみな！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T080057Z" creationid="土妹子" creationdate="20160107T080057Z">
+        <seg>我借你人形 来打一把瞧瞧吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>私の仕事を邪魔するなんていい度胸しているわ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T161144Z" creationid="土妹子" creationdate="20150109T161144Z">
@@ -90986,6 +91002,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T100359Z" creationid="UUZ" creationdate="20140908T072002Z">
         <seg>自己也有人形的话 可以与之对抗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分も人形を持っていれば対抗できるんだが おまえは・・・\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T080045Z" creationid="土妹子" creationdate="20160107T080045Z">
+        <seg>自己也有人形的话 可以与之对抗 不过你……\b</seg>
       </tuv>
     </tu>
     <tu>
