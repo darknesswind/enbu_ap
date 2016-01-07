@@ -41078,6 +41078,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あら 疲れてるみたいですね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T080417Z" creationid="土妹子" creationdate="20160107T080417Z">
+        <seg>啊啦 看起来累了呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あら 私と話したいだけですって？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T084116Z" creationid="土妹子" creationdate="20150109T035632Z">
@@ -44466,6 +44474,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T064112Z" creationid="土妹子" creationdate="20160107T064112Z">
         <seg>在这里说明立绘表情变化的相关事项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ここで休んでいくといいですよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T080440Z" creationid="土妹子" creationdate="20160107T080440Z">
+        <seg>在这里休息就好哦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49546,6 +49562,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T105714Z" creationid="140706inu" creationdate="20150410T134047Z">
         <seg>总之现在似乎并不是迷路了呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>とりあえず博麗神社で色々と教えてやるから私についてきな！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T080255Z" creationid="土妹子" creationdate="20160107T080255Z">
+        <seg>总之先到博丽神社里听听各种注意事项吧 跟我来！</seg>
       </tuv>
     </tu>
     <tu>
@@ -55822,6 +55846,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>カー カー カー</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T080351Z" creationid="土妹子" creationdate="20160107T080351Z">
+        <seg>嘎嘎嘎</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>カーソル音</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T134008Z" creationid="土妹子" creationdate="20141230T134008Z">
@@ -56498,6 +56530,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T061419Z" creationid="土妹子" creationdate="20160106T061419Z">
         <seg>可可</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>コッコ コッコ コケー</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T080321Z" creationid="土妹子" creationdate="20160107T080321Z">
+        <seg>嗒嗒嗒～</seg>
       </tuv>
     </tu>
     <tu>
@@ -60422,6 +60462,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ニャー ニャー</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T080338Z" creationid="土妹子" creationdate="20160107T080338Z">
+        <seg>喵 喵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ニンゲン タオス ワレラ ヤクメ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T132556Z" creationid="140706inu" creationdate="20150417T132556Z">
@@ -64334,6 +64382,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ワン ワン</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T080344Z" creationid="土妹子" creationdate="20160107T080344Z">
+        <seg>汪 汪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ワンワン</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T155309Z" creationid="土妹子" creationdate="20150108T155309Z">
@@ -66074,6 +66130,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
         <seg>人形有重复！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形が飛び出してきた！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T080303Z" creationid="土妹子" creationdate="20160107T080303Z">
+        <seg>人形出现了！</seg>
       </tuv>
     </tu>
     <tu>
