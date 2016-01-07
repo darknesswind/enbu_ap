@@ -70566,6 +70566,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>冥属性のスキルを無効化し 集弾が一段階上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T081818Z" creationid="土妹子" creationdate="20160107T081818Z">
+        <seg>使冥属性的技能无效并提升１段集弹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>冥属性のスキルを無効化し ＨＰが回復する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T023821Z" creationid="土妹子" creationdate="20141231T023821Z">
@@ -72106,6 +72114,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T162252Z" creationid="UUZ" creationdate="20140909T162252Z">
         <seg>因为还要原路返回，不如先稍微休息一下吧？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>同調</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T081750Z" creationid="土妹子" creationdate="20160107T081750Z">
+        <seg>同调</seg>
       </tuv>
     </tu>
     <tu>
@@ -82718,6 +82734,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>歪なる秘</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T081733Z" creationid="土妹子" creationdate="20160107T081733Z">
+        <seg>歪曲之秘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>歪属性のスキルを無効化し 状態異常を回復する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T081759Z" creationid="土妹子" creationdate="20160107T081759Z">
+        <seg>使歪属性的技能无效并回复异常状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>歴史を食べる（隠す）程度の能力と 歴史を創る程度の能力。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150113T145525Z" creationid="土妹子" creationdate="20150113T145525Z">
@@ -82882,6 +82914,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T023038Z" creationid="土妹子" creationdate="20141231T023038Z">
         <seg>剩余ＨＰ在１／３以下时　幻属性的威力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>残りＨＰが１/３以下の時 歪属性の威力が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T081744Z" creationid="土妹子" creationdate="20160107T081744Z">
+        <seg>剩余ＨＰ在１／３以下时　歪属性的威力上升。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83530,6 +83570,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T145217Z" creationid="土妹子" creationdate="20141231T022013Z">
         <seg>气象：凪时每回合回复ＨＰ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>気象：凪の時 状態異常にならず 毎ターンＨＰが回復する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T081717Z" creationid="土妹子" creationdate="20160107T081717Z">
+        <seg>气象：凪时不会陷入异常状态 每回合回复HP。</seg>
       </tuv>
     </tu>
     <tu>
@@ -87154,6 +87202,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093251Z" creationid="土妹子" creationdate="20141231T093251Z">
         <seg>能够无视对手的能力上升进行攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手は 交代できなくなる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T081826Z" creationid="土妹子" creationdate="20160107T081826Z">
+        <seg>对手不能交换。</seg>
       </tuv>
     </tu>
     <tu>
@@ -95550,6 +95606,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>闘属性の相手は 交代できなくなる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T081832Z" creationid="土妹子" creationdate="20160107T081832Z">
+        <seg>斗属性的对手不能交换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>闘属性の相手は 交換できなくなる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T025206Z" creationid="土妹子" creationdate="20141231T025206Z">
@@ -96802,6 +96866,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T031848Z" creationid="土妹子" creationdate="20141231T023640Z">
         <seg>使风属性的技能无效并提升１段敏捷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>風属性以外の相手は 交代できなくなる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T081836Z" creationid="土妹子" creationdate="20160107T081836Z">
+        <seg>风属性以外的对手不能交换。</seg>
       </tuv>
     </tu>
     <tu>
