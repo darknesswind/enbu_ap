@@ -43494,6 +43494,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>お供えするものを持っていなかった。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T081008Z" creationid="土妹子" creationdate="20160107T081008Z">
+        <seg>没有带着能上供的东西。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>お供えものが置いてある・・・。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150720T003700Z" creationid="妄想" creationdate="20150110T074650Z">
@@ -48586,6 +48594,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T150949Z" creationid="UUZ" creationdate="20140909T150949Z">
         <seg>偶尔就可以了………吧？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>たまに壁を通り抜ける邪仙がここにきてるけど</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T080905Z" creationid="土妹子" creationdate="20160107T080905Z">
+        <seg>有时候穿墙的邪仙会来这里</seg>
       </tuv>
     </tu>
     <tu>
@@ -68670,6 +68686,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>仙人様なら 奥の建物にいらっしゃいますよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T080841Z" creationid="土妹子" creationdate="20160107T080841Z">
+        <seg>仙人大人的话 就在里面的建筑物那里。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>仙狐の人形遣い</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T071410Z" creationid="土妹子" creationdate="20160106T071410Z">
@@ -68962,6 +68986,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150106T055004Z">
         <seg>作为人类的你 又没有任何预约 是不应该过去的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>何の用で来てるんだろう・・・？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T080917Z" creationid="土妹子" creationdate="20160107T080917Z">
+        <seg>不过为什么会来呢……？</seg>
       </tuv>
     </tu>
     <tu>
@@ -73046,6 +73078,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>地蔵にお供え物をしますか？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T080929Z" creationid="土妹子" creationdate="20160107T080929Z">
+        <seg>给地藏上供吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>地走り</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T171010Z" creationid="UUZ" creationdate="20140906T114032Z">
@@ -73098,6 +73138,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T151935Z" creationid="UUZ" creationdate="20140906T151935Z">
         <seg>地灵馒头</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>地霊饅頭をお供えした。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T080952Z" creationid="土妹子" creationdate="20160107T080952Z">
+        <seg>供奉了地灵馒头。</seg>
       </tuv>
     </tu>
     <tu>
@@ -86174,6 +86222,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>白玉団子をお供えした。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T080946Z" creationid="土妹子" creationdate="20160107T080946Z">
+        <seg>供奉了白玉团子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>白玉楼主人のお墨付きの団子。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T110643Z" creationid="UUZ" creationdate="20140907T143227Z">
@@ -91802,6 +91858,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T151920Z" creationid="UUZ" creationdate="20140906T151920Z">
         <seg>藤原煎饼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>藤原煎餅をお供えした。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T080939Z" creationid="土妹子" creationdate="20160107T080939Z">
+        <seg>供奉了藤原煎饼。</seg>
       </tuv>
     </tu>
     <tu>
