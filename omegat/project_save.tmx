@@ -33262,6 +33262,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c前世から知ってたわー！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T073756Z" creationid="土妹子" creationdate="20160107T073756Z">
+        <seg>\c从前世就已经知道了～！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c割り振ったPPとレベルに応じて 能力が強化されます。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="UUZ" creationdate="20140908T124249Z">
@@ -33506,6 +33514,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150109T050154Z">
         <seg>\c在和幻想乡不同的轴上 存在一个叫魔界的世界。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c幻想郷は 全てを受け入れる・・・\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T073841Z" creationid="土妹子" creationdate="20160107T073841Z">
+        <seg>\c幻想乡会接纳一切……\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -48230,6 +48246,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>それはそれは 残酷なことですわ・・・</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T073901Z" creationid="土妹子" creationdate="20160107T073901Z">
+        <seg>那可是 非常残酷的事情啊……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>それは人形図鑑。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T173001Z" creationid="土妹子" creationdate="20150105T054841Z">
@@ -53026,6 +53050,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150411T133248Z" creationid="140706inu" creationdate="20150411T133248Z">
         <seg>我—不—要—嘛—！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>やっぱり \fがお気に入りなんだろ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T073817Z" creationid="土妹子" creationdate="20160107T073817Z">
+        <seg>果然 \f是你的本命吧？</seg>
       </tuv>
     </tu>
     <tu>
@@ -70662,6 +70694,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>前世から知ってるぜ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T073831Z" creationid="土妹子" creationdate="20160107T073831Z">
+        <seg>我从前世就知道了ze？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>前作「幻想人形演舞」のクリアデータが存在します。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T065528Z" creationid="土妹子" creationdate="20160107T065528Z">
@@ -86210,6 +86250,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T144212Z" creationid="土妹子" creationdate="20150116T144212Z">
         <seg>记录着眼前发生的事情。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>目の前にいるあいつが人形だ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T073920Z" creationid="土妹子" creationdate="20160107T073920Z">
+        <seg>现在我们眼前的那个就是人形。</seg>
       </tuv>
     </tu>
     <tu>
