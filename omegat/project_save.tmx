@@ -32446,6 +32446,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cまた 引き継ぎ前の 人形箱ボックス21以降の人形を クリア後に使用することが出来ます。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T071636Z" creationid="土妹子" creationdate="20160107T071636Z">
+        <seg>\c另外 继承前的人形箱中21页之后的人形 需要通关后才能使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cまたいらっしゃい。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T122819Z" creationid="土妹子" creationdate="20150109T122819Z">
@@ -32938,6 +32946,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150521T122257Z" creationid="UUZ" creationdate="20140908T155414Z">
         <seg>\c真想看看久违的秦小姐的 『心绮楼』 可是一时半会好像没有演出啊？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c二周目では 引き継ぎ前の 運命の人形以外の手持ちの人形が 人形箱の1ページ目に転生した状態で入っています。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T071527Z" creationid="土妹子" creationdate="20160107T071527Z">
+        <seg>\c在二周目中 继承前的人形 除了命运的人形以外 会以转生后的状态放入人形箱的第1页。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34098,6 +34114,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150109T033758Z">
         <seg>\c解放战线好像也已经解散了 我的游戏也就到此为止了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c詳しくは マニュアルをお読みください。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T071654Z" creationid="土妹子" creationdate="20160107T071654Z">
+        <seg>\c详细请查阅游戏手册。</seg>
       </tuv>
     </tu>
     <tu>
@@ -94209,6 +94233,14 @@
         <seg>道路は危ない……</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T070548Z" creationid="UUZ" creationdate="20140908T070548Z">
+        <seg>公路上很危险……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>道路は危ない・・・</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T071701Z" creationid="土妹子" creationdate="20160107T071701Z">
         <seg>公路上很危险……</seg>
       </tuv>
     </tu>
