@@ -59494,6 +59494,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>スピニングエア</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T105746Z" creationid="土妹子" creationdate="20160108T105746Z">
+        <seg>旋空</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>スピリットラッシュ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064307Z" creationid="UUZ" creationdate="20140904T143956Z">
@@ -71262,6 +71270,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>凪か 極光のとき 効果が 上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T105905Z" creationid="土妹子" creationdate="20160108T105905Z">
+        <seg>凪或极光时效果上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>凪のとき 効果が 上がる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T145217Z" creationid="土妹子" creationdate="20150101T110231Z">
@@ -74926,6 +74942,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>大地属性には 効かない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T105847Z" creationid="土妹子" creationdate="20160108T105847Z">
+        <seg>对大地属性无效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>大地属性のスキルを無効にする。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T132620Z" creationid="UUZ" creationdate="20140904T132620Z">
@@ -75106,6 +75130,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152528Z" creationid="土妹子" creationdate="20150102T152528Z">
         <seg>天光之舞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>天地発現「白光」</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T110055Z" creationid="土妹子" creationdate="20160108T110055Z">
+        <seg>天地发现「白光」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>天地発現「静穏」</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T105759Z" creationid="土妹子" creationdate="20160108T105759Z">
+        <seg>天地发现「静稳」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>天地発現「黄金」</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T105621Z" creationid="土妹子" creationdate="20160108T105621Z">
+        <seg>天地发现「黄金」</seg>
       </tuv>
     </tu>
     <tu>
@@ -84662,10 +84710,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>気象を 凪 地相を 青龍に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T105814Z" creationid="土妹子" creationdate="20160108T105814Z">
+        <seg>将气象变为凪 地相变为青龙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>気象を 凪に する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T145217Z" creationid="土妹子" creationdate="20150101T104125Z">
         <seg>使气象变为凪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>気象を 極光 地相を 白虎に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T110107Z" creationid="土妹子" creationdate="20160108T110107Z">
+        <seg>将气象变为极光 地相变为白虎。</seg>
       </tuv>
     </tu>
     <tu>
@@ -84690,6 +84754,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105734Z" creationid="土妹子" creationdate="20150101T105734Z">
         <seg>解除气象，并使威力翻倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>気象を 黄砂 地相を 黄龍に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T105648Z" creationid="土妹子" creationdate="20160108T105648Z">
+        <seg>将气象变为黄砂 地相变为黄龙。</seg>
       </tuv>
     </tu>
     <tu>
@@ -88166,6 +88238,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手の バリアオプションを 無視して 攻撃できる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T105714Z" creationid="土妹子" creationdate="20160108T105714Z">
+        <seg>能够无视对手的子机进行攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手の 人形が 入れ替わる ときに スキルを だしていると 威力が 倍になる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T115659Z" creationid="土妹子" creationdate="20150101T115659Z">
@@ -88714,6 +88794,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T113820Z" creationid="土妹子" creationdate="20150101T113820Z">
         <seg>使对手恐怖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手を 感電状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T105839Z" creationid="土妹子" creationdate="20160108T105839Z">
+        <seg>使对手感电。</seg>
       </tuv>
     </tu>
     <tu>
@@ -97158,6 +97246,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>閃雷ドリル</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T105826Z" creationid="土妹子" creationdate="20160108T105826Z">
+        <seg>闪雷钻头</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>開放位置</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T155356Z" creationid="土妹子" creationdate="20150102T155356Z">
@@ -98802,6 +98898,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T094230Z" creationid="土妹子" creationdate="20150101T094230Z">
         <seg>飞石流弹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>飛翔乱舞</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T105722Z" creationid="土妹子" creationdate="20160108T105722Z">
+        <seg>飞翔乱舞</seg>
       </tuv>
     </tu>
     <tu>
