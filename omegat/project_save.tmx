@@ -57462,6 +57462,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>シューティングアーツ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T122130Z" creationid="土妹子" creationdate="20160108T122130Z">
+        <seg>射击的艺术</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>シューティングプレス</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093948Z" creationid="土妹子" creationdate="20150101T093948Z">
@@ -62150,6 +62158,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ブレイブバースト</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T122116Z" creationid="土妹子" creationdate="20160108T122116Z">
+        <seg>勇气爆发</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ブーイング</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T131952Z" creationid="UUZ" creationdate="20140907T135806Z">
@@ -62354,6 +62370,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T164618Z" creationid="土妹子" creationdate="20150102T164618Z">
         <seg>穗乃果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ホラースポット</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T121922Z" creationid="土妹子" creationdate="20160108T121922Z">
+        <seg>恐怖点</seg>
       </tuv>
     </tu>
     <tu>
@@ -84110,6 +84134,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>死霊の舞</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T121931Z" creationid="土妹子" creationdate="20160108T121931Z">
+        <seg>死灵之舞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>死霊之型</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T025719Z" creationid="土妹子" creationdate="20141231T025719Z">
@@ -88934,6 +88966,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手を 火傷と 恐怖状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T122016Z" creationid="土妹子" creationdate="20160108T122016Z">
+        <seg>使对手烧伤和恐怖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手を 火傷と 暗闇状態に する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070918Z" creationid="土妹子" creationdate="20150101T070918Z">
@@ -89314,6 +89354,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T135817Z" creationid="UUZ" creationdate="20140907T135817Z">
         <seg>破灭之声</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>破滅の瞳</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T122008Z" creationid="土妹子" creationdate="20160108T122008Z">
+        <seg>破灭之瞳</seg>
       </tuv>
     </tu>
     <tu>
@@ -97530,6 +97578,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T025739Z" creationid="土妹子" creationdate="20141231T025739Z">
         <seg>斗将之型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>闘属性の スキルが 当たらなくなる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T122002Z" creationid="土妹子" creationdate="20160108T122002Z">
+        <seg>斗属性的技能不会命中。</seg>
       </tuv>
     </tu>
     <tu>
