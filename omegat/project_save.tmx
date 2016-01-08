@@ -35310,6 +35310,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n３００歩進む間人形を寄せ付けなくなる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T140030Z" creationid="土妹子" creationdate="20160108T140030Z">
+        <seg>\n使用后行走３００步以内人形不会靠近。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\nＨＰを全回復する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T144005Z" creationid="土妹子" creationdate="20150101T144005Z">
@@ -52026,6 +52034,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150806T023704Z" creationid="土妹子" creationdate="20150109T160204Z">
         <seg>喂喂 理由很简单吧？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ほんきゆかり</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T135947Z" creationid="土妹子" creationdate="20160108T135947Z">
+        <seg>认真的紫</seg>
       </tuv>
     </tu>
     <tu>
@@ -94978,6 +94994,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T071608Z" creationid="140706inu" creationdate="20150512T071608Z">
         <seg>情绪低落的时候 晒晒太阳会感觉不错哦！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>落とせる</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T140018Z" creationid="土妹子" creationdate="20160108T140018Z">
+        <seg>丢弃</seg>
       </tuv>
     </tu>
     <tu>
