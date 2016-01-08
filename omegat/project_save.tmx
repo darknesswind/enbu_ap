@@ -75446,10 +75446,34 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>天候発現「凪」</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T132515Z" creationid="土妹子" creationdate="20160108T132515Z">
+        <seg>天气发现「凪」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>天候発現「天気雨」</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T132505Z" creationid="土妹子" creationdate="20160108T132505Z">
+        <seg>天气发现「雨天」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>天候発現「極光」</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T132324Z" creationid="土妹子" creationdate="20160108T132324Z">
         <seg>天气发现「极光」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>天候発現「濃霧」</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T132524Z" creationid="土妹子" creationdate="20160108T132524Z">
+        <seg>天气发现「浓雾」</seg>
       </tuv>
     </tu>
     <tu>
@@ -75486,10 +75510,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>天地発現「白光」　極光+白虎</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T132546Z" creationid="土妹子" creationdate="20160108T132546Z">
+        <seg>天地发现「白光」 极光+白虎</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>天地発現「紅霧」</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T110224Z" creationid="土妹子" creationdate="20160108T110224Z">
         <seg>天地发现「红雾」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>天地発現「紅霧」　濃霧+朱雀</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T132537Z" creationid="土妹子" creationdate="20160108T132537Z">
+        <seg>天地发现「红雾」 浓雾+朱雀</seg>
       </tuv>
     </tu>
     <tu>
@@ -75502,6 +75542,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>天地発現「静穏」　凪+青龍</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T132557Z" creationid="土妹子" creationdate="20160108T132557Z">
+        <seg>天地发现「静稳」 凪+青龙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>天地発現「黄金」</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T105621Z" creationid="土妹子" creationdate="20160108T105621Z">
@@ -75510,10 +75558,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>天地発現「黄金」　黄砂+黄龍</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T132608Z" creationid="土妹子" creationdate="20160108T132608Z">
+        <seg>天地发现「黄金」 黄砂+黄龙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>天地発現「黒雨」</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T124125Z" creationid="土妹子" creationdate="20160108T124125Z">
         <seg>天地发现「黑雨」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>天地発現「黒雨」　天気雨+玄武</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T132730Z" creationid="土妹子" creationdate="20160108T132730Z">
+        <seg>天地发现「黑雨」 雨天+玄武</seg>
       </tuv>
     </tu>
     <tu>
