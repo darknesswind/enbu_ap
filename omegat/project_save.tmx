@@ -66646,6 +66646,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>交代不可効果</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T131237Z" creationid="土妹子" creationdate="20160108T131237Z">
+        <seg>无法交换效果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>交換すると元に戻る。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T040607Z" creationid="UUZ" creationdate="20140908T040607Z">
@@ -73214,6 +73222,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>吸収効果　自然属性に無効</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T131226Z" creationid="土妹子" creationdate="20160108T131226Z">
+        <seg>吸收效果 对自然属性无效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>吸血鬼がいるから 食べられちゃわないようにね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T162709Z" creationid="UUZ" creationdate="20140909T162709Z">
@@ -74650,6 +74666,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150528T123727Z" creationid="土妹子" creationdate="20150528T123727Z">
         <seg>变化技反弹给对手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>変化スキル反射</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T131213Z" creationid="土妹子" creationdate="20160108T131213Z">
+        <seg>反射变化技能</seg>
       </tuv>
     </tu>
     <tu>
@@ -84078,6 +84102,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>次のターン終了時に相手を停止状態に</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T131245Z" creationid="土妹子" creationdate="20160108T131245Z">
+        <seg>下回合结束时对对手造成停止状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>次のバスは・・・三時間後だ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150806T033731Z" creationid="UUZ" creationdate="20140908T124731Z">
@@ -84122,6 +84154,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070429Z" creationid="土妹子" creationdate="20150101T070429Z">
         <seg>下回合自身无法行动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>次ターン終了時HPが最大HPの半分回復。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T131026Z" creationid="土妹子" creationdate="20160108T131026Z">
+        <seg>下回合结束时回复最大ＨＰ的一半</seg>
       </tuv>
     </tu>
     <tu>
@@ -88606,6 +88646,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手が次の行動をするまで相手のスキルは雷属性になる</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T131358Z" creationid="土妹子" creationdate="20160108T131358Z">
+        <seg>直到对手下次行动为止 对手的技能变为雷属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手が毒・猛毒状態の時威力倍</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125624Z" creationid="土妹子" creationdate="20160108T125624Z">
@@ -88634,6 +88682,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T105504Z" creationid="土妹子" creationdate="20160108T105504Z">
         <seg>变为和对手相同的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手と同じステータス、スキル、アビリティになる</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T131156Z" creationid="土妹子" creationdate="20160108T131156Z">
+        <seg>变为和对手相同的属性、技能、特性</seg>
       </tuv>
     </tu>
     <tu>
@@ -89110,10 +89166,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手のアビリティを活発にする</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T131403Z" creationid="土妹子" creationdate="20160108T131403Z">
+        <seg>将对手特性变为活泼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手のアビリティを無視して 攻撃できる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093834Z" creationid="土妹子" creationdate="20141231T093834Z">
         <seg>能够无视对手的特性进行攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手のアビリティを自分と同じアビリティに変える</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T131409Z" creationid="土妹子" creationdate="20160108T131409Z">
+        <seg>将对手特性变为和自身相同</seg>
       </tuv>
     </tu>
     <tu>
@@ -89186,6 +89258,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093206Z" creationid="土妹子" creationdate="20141231T093206Z">
         <seg>能力不会因为对手的技能或特性下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手のランク補正を自分にコピーする</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T131207Z" creationid="土妹子" creationdate="20160108T131207Z">
+        <seg>复制对手的能力等级</seg>
       </tuv>
     </tu>
     <tu>
@@ -89286,6 +89366,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手の能力ランクを反転させる</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T131414Z" creationid="土妹子" creationdate="20160108T131414Z">
+        <seg>反转对手的能力等级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手の能力ランク無視</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125731Z" creationid="土妹子" creationdate="20160108T125731Z">
@@ -89354,6 +89442,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T093234Z" creationid="土妹子" creationdate="20160107T093234Z">
         <seg>对手不能以技能效果交换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手は同じスキルを連続で出せなくなる</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T131421Z" creationid="土妹子" creationdate="20160108T131421Z">
+        <seg>使对手不能连续使用相同技能</seg>
       </tuv>
     </tu>
     <tu>
@@ -89638,10 +89734,34 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手を恐怖・混乱に</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T131450Z" creationid="土妹子" creationdate="20160108T131450Z">
+        <seg>使对手恐怖并混乱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手を感電に</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T131444Z" creationid="土妹子" creationdate="20160108T131444Z">
+        <seg>使对手感电</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手を暗闇に</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125746Z" creationid="土妹子" creationdate="20160108T125746Z">
         <seg>使对手黑暗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手を暗闇・混乱に</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T131430Z" creationid="土妹子" creationdate="20160108T131430Z">
+        <seg>使对手黑暗并混乱</seg>
       </tuv>
     </tu>
     <tu>
@@ -89690,6 +89810,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125759Z" creationid="土妹子" creationdate="20160108T125759Z">
         <seg>使对手烧伤 容易痛烈的一击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手を火傷・恐怖に</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T131440Z" creationid="土妹子" creationdate="20160108T131440Z">
+        <seg>使对手烧伤和恐怖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手を火傷・暗闇に</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T131436Z" creationid="土妹子" creationdate="20160108T131436Z">
+        <seg>使对手烧伤并黑暗</seg>
       </tuv>
     </tu>
     <tu>
@@ -93158,6 +93294,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>自分が瀕死になるかわりに次に出す人形の状態異常とHPとPPが全快する</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T131036Z" creationid="土妹子" creationdate="20160108T131036Z">
+        <seg>使自身濒死 完全回复接下来出场的人形的状态异常、ＨＰ和ＰＰ自分が瀕死になるかわりに次に出す人形の状態異常とHPとPPが全快する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>自分が状態異常の時威力倍　恐怖・暗闇無視</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125410Z" creationid="土妹子" creationdate="20160108T125410Z">
@@ -93178,6 +93322,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125429Z" creationid="土妹子" creationdate="20160108T125429Z">
         <seg>自身未携带装饰品时威力翻倍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分すべての人形の状態異常を治す</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T131051Z" creationid="土妹子" creationdate="20160108T131051Z">
+        <seg>治疗我方全部人形的异常状态</seg>
       </tuv>
     </tu>
     <tu>
@@ -93258,6 +93410,78 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150419T091134Z" creationid="140706inu" creationdate="20150419T091134Z">
         <seg>那些看到长得像自己一样的人形的家伙会是什么心情啊？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分と相手のアビリティを入れ替える</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T131257Z" creationid="土妹子" creationdate="20160108T131257Z">
+        <seg>交换自身和对手的特性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分と相手の人形の能力ランクを元に戻す</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T131331Z" creationid="土妹子" creationdate="20160108T131331Z">
+        <seg>双方人形的能力等级全部归零</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分と相手の現在HPを平均する</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T131303Z" creationid="土妹子" creationdate="20160108T131303Z">
+        <seg>平分自身和对手的现有ＨＰ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分と相手の装飾品を入れ替える</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T131336Z" creationid="土妹子" creationdate="20160108T131336Z">
+        <seg>交换自身和对手的装饰品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分と相手の集弾と散弾を平均する</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T131315Z" creationid="土妹子" creationdate="20160108T131315Z">
+        <seg>平分自身和对手的集弹和散弹数值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分と相手の集弾・散弾ランクを入れ替える</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T131309Z" creationid="土妹子" creationdate="20160108T131309Z">
+        <seg>交换自身和对手的集弹 · 散弹能力等级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分と相手の集防・散防を平均する</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T131326Z" creationid="土妹子" creationdate="20160108T131326Z">
+        <seg>平分自身和对手的集防和散防数值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分と相手の集防・散防ランクを入れ替える</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T131321Z" creationid="土妹子" creationdate="20160108T131321Z">
+        <seg>交换自身和对手的集防 · 散防能力等级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分と相手を破滅状態にする</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T131055Z" creationid="土妹子" creationdate="20160108T131055Z">
+        <seg>使自身和对手陷入破灭状态</seg>
       </tuv>
     </tu>
     <tu>
@@ -93662,6 +93886,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>自分のHPを最大HPの半分減　自分の集弾を最大まで上昇</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T131103Z" creationid="土妹子" creationdate="20160108T131103Z">
+        <seg>自身的ＨＰ减少最大ＨＰ的一半 集弹上升到最大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分のアビリティを相手と同じにする</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T131109Z" creationid="土妹子" creationdate="20160108T131109Z">
+        <seg>自身的特性变为和对手相同</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>自分のコストが相手より高いほど威力が上がる</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125438Z" creationid="土妹子" creationdate="20160108T125438Z">
@@ -93726,6 +93966,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>自分の属性を相手の属性と同じにする</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T131128Z" creationid="土妹子" creationdate="20160108T131128Z">
+        <seg>自身的属性变为和对手相同</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>自分の持つスキルをすべて使うと使用可能</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125459Z" creationid="土妹子" creationdate="20160108T125459Z">
@@ -93738,6 +93986,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150101T065327Z">
         <seg>消耗自身最大ＨＰ的一半 将自身的集弹上升到最大。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分の状態異常を相手にうつし自分は回復する</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T131352Z" creationid="土妹子" creationdate="20160108T131352Z">
+        <seg>将自身的异常状态移到对手身上而自己回复异常</seg>
       </tuv>
     </tu>
     <tu>
@@ -93782,10 +94038,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>自分の能力ランクを引き継いで交代</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T131135Z" creationid="土妹子" creationdate="20160108T131135Z">
+        <seg>继承自身能力等级的交换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>自分の集中スキルのダメージが２倍になり 相手からの集中スキルのダメージが半分になる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T164623Z" creationid="140706inu" creationdate="20150523T164623Z">
         <seg>自己的集中技能威力翻倍 对手的集中技能威力减半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分の集弾と集防を入れ替える　ランクは変化しない</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T131115Z" creationid="土妹子" creationdate="20160108T131115Z">
+        <seg>自身的集弹和集防互换 但是能力等级不变</seg>
       </tuv>
     </tu>
     <tu>
