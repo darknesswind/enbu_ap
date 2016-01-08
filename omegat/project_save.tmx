@@ -69374,6 +69374,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>低速移動</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T105409Z" creationid="土妹子" creationdate="20160108T105409Z">
+        <seg>低速移动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>体の加減はいかがです？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T151642Z" creationid="土妹子" creationdate="20150109T151642Z">
@@ -69814,6 +69822,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>使うと 戦闘不能に なる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T105255Z" creationid="土妹子" creationdate="20160108T105255Z">
+        <seg>使用后陷入战斗不能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>使うと 自分が 戦闘不能に なる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150528T121824Z" creationid="土妹子" creationdate="20150528T121824Z">
@@ -69866,6 +69882,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T164329Z" creationid="UUZ" creationdate="20140908T124122Z">
         <seg>要注意不学习的话是无法使用新技能的！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>使ったターン 相手の 攻撃を まったく 受けない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T105328Z" creationid="土妹子" creationdate="20160108T105328Z">
+        <seg>使用的回合完全不受对手的攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73806,6 +73830,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>地相を 黄龍に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T105550Z" creationid="土妹子" creationdate="20160108T105550Z">
+        <seg>将地相变为黄龙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>地相発現「朱雀」</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T161533Z" creationid="UUZ" creationdate="20140904T161533Z">
@@ -73834,6 +73866,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T095512Z" creationid="UUZ" creationdate="20140906T095512Z">
         <seg>地相显现「青龙」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>地相発現「黄龍」</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T105542Z" creationid="土妹子" creationdate="20160108T105542Z">
+        <seg>地相显现「黄龙」</seg>
       </tuv>
     </tu>
     <tu>
@@ -74866,6 +74906,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
         <seg>大地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>大地の宴</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T105556Z" creationid="土妹子" creationdate="20160108T105556Z">
+        <seg>大地之宴</seg>
       </tuv>
     </tu>
     <tu>
@@ -77246,6 +77294,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>属性符は１つしか習得できない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T105527Z" creationid="土妹子" creationdate="20160108T105527Z">
+        <seg>属性符只能习得１个。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>属性結界を貫通されたスキルを受けた時 ダメージを軽減する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T091347Z" creationid="土妹子" creationdate="20160107T091347Z">
@@ -79370,6 +79426,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150522T152412Z" creationid="土妹子" creationdate="20150110T024307Z">
         <seg>真不甘心……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>悠久之記録</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T105418Z" creationid="土妹子" creationdate="20160108T105418Z">
+        <seg>悠久之记录</seg>
       </tuv>
     </tu>
     <tu>
@@ -85942,6 +86006,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>濃密拡散弾幕</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T105348Z" creationid="土妹子" creationdate="20160108T105348Z">
+        <seg>浓密扩散弹幕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>濃霧</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
@@ -86226,6 +86298,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T073918Z" creationid="土妹子" creationdate="20160106T073918Z">
         <seg>无名的人形使</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>無属性の 人形が 使うと 威力が高い。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T105313Z" creationid="土妹子" creationdate="20160108T105313Z">
+        <seg>无属性人形使用时威力上升。</seg>
       </tuv>
     </tu>
     <tu>
@@ -87954,6 +88034,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110918Z" creationid="土妹子" creationdate="20150101T110918Z">
         <seg>交换对手和自己的装饰品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手と同じ 能力になる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T105504Z" creationid="土妹子" creationdate="20160108T105504Z">
+        <seg>变为和对手相同的能力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -92754,6 +92842,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150528T122707Z" creationid="土妹子" creationdate="20150528T122707Z">
         <seg>使自身陷入战斗不能，完全回复接下来出场的人形的状态异常和ＨＰ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分は 戦闘不能になるが 虹と壁を展開する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T105446Z" creationid="土妹子" creationdate="20160108T105446Z">
+        <seg>以自身陷入战斗不能为代价 展开虹之壁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -98970,6 +99066,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014738Z" creationid="UUZ" creationdate="20140907T140832Z">
         <seg>发出高音域的声音攻击对手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>高速集中弾幕</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T105342Z" creationid="土妹子" creationdate="20160108T105342Z">
+        <seg>高速集中弹幕</seg>
       </tuv>
     </tu>
     <tu>
