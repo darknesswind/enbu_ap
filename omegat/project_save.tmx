@@ -45182,6 +45182,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>このターンに相手からダメージを受けていると失敗</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T124715Z" creationid="土妹子" creationdate="20160108T124715Z">
+        <seg>本回合受到对手造成的伤害则使用失败</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>このターンに相手からダメージを受けていると威力倍</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T124706Z" creationid="土妹子" creationdate="20160108T124706Z">
+        <seg>本回合中受到对手造成的伤害则威力翻倍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>この世界のことなら なんでもお見通しなんだから。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150109T114848Z">
@@ -50734,10 +50750,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>なんらかの地相の時威力倍、成功した時地相解除</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T124730Z" creationid="土妹子" creationdate="20160108T124730Z">
+        <seg>在某些地相时威力翻倍 成功使用后解除地相</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>なんらかの地相状態の時 集防・散防が２倍になり 状態異常にかからない。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T094845Z" creationid="土妹子" creationdate="20141231T094845Z">
         <seg>在某些地相状态时，集防和散防翻倍，并且不会受到异常状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>なんらかの天候の時威力倍、成功した時天候解除</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T124736Z" creationid="土妹子" creationdate="20160108T124736Z">
+        <seg>在某些天气时威力翻倍 成功使用后解除天气</seg>
       </tuv>
     </tu>
     <tu>
@@ -52778,6 +52810,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T151251Z" creationid="UUZ" creationdate="20140906T151251Z">
         <seg>魔天使</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>まもる系解除</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T124754Z" creationid="土妹子" creationdate="20160108T124754Z">
+        <seg>解除保护类效果</seg>
       </tuv>
     </tu>
     <tu>
@@ -61386,6 +61426,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
         <seg>子机屏障被打坏了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>バリアオプション貫通</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T124746Z" creationid="土妹子" creationdate="20160108T124746Z">
+        <seg>贯穿子机屏障</seg>
       </tuv>
     </tu>
     <tu>
@@ -73702,6 +73750,38 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>固定ダメージ（このターン受けたスキルダメージの倍）</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T124807Z" creationid="土妹子" creationdate="20160108T124807Z">
+        <seg>固定伤害（本回合受到的技能伤害的两倍）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>固定ダメージ（このターン受けた拡散ダメージの倍）</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T124813Z" creationid="土妹子" creationdate="20160108T124813Z">
+        <seg>固定伤害（本回合受到的扩散伤害的两倍）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>固定ダメージ（このターン受けた集中ダメージの倍）</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T124822Z" creationid="土妹子" creationdate="20160108T124822Z">
+        <seg>固定伤害（本回合受到的集中伤害的两倍）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>固定ダメージ（自分のレベル）</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T124829Z" creationid="土妹子" creationdate="20160108T124829Z">
+        <seg>固定伤害（自身等级）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>土着神</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T120258Z" creationid="UUZ" creationdate="20141230T120258Z">
@@ -81610,6 +81690,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T010333Z" creationid="土妹子" creationdate="20141231T093808Z">
         <seg>熟练进攻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>攻撃</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T124646Z" creationid="土妹子" creationdate="20160108T124646Z">
+        <seg>攻击</seg>
       </tuv>
     </tu>
     <tu>
@@ -90906,6 +90994,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T150118Z" creationid="妄想" creationdate="20150104T150118Z">
         <seg>种族是？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>種類</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T124638Z" creationid="土妹子" creationdate="20160108T124638Z">
+        <seg>种类</seg>
       </tuv>
     </tu>
     <tu>
