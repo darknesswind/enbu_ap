@@ -60646,6 +60646,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ナイトステップ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T110200Z" creationid="土妹子" creationdate="20160108T110200Z">
+        <seg>夜之舞步</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ナイフはもうっ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T174411Z" creationid="土妹子" creationdate="20150105T153356Z">
@@ -70078,6 +70086,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>侵食闇気</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T110209Z" creationid="土妹子" creationdate="20160108T110209Z">
+        <seg>侵蚀暗气</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>便利な携行食糧。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T114112Z" creationid="UUZ" creationdate="20140908T032349Z">
@@ -75142,6 +75158,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>天地発現「紅霧」</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T110224Z" creationid="土妹子" creationdate="20160108T110224Z">
+        <seg>天地发现「红雾」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>天地発現「静穏」</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T105759Z" creationid="土妹子" creationdate="20160108T105759Z">
@@ -79674,6 +79698,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150106T153127Z">
         <seg>你问慧音老师的话 她去阿求小姐那里了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>憂鬱の雨</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T110303Z" creationid="土妹子" creationdate="20160108T110303Z">
+        <seg>忧郁之雨</seg>
       </tuv>
     </tu>
     <tu>
@@ -84422,6 +84454,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>毒の濁流</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T110254Z" creationid="土妹子" creationdate="20160108T110254Z">
+        <seg>毒之浊流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>毒の茨</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T031443Z" creationid="土妹子" creationdate="20141231T031443Z">
@@ -84738,6 +84778,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110349Z" creationid="土妹子" creationdate="20150101T110349Z">
         <seg>使气象变为极光。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>気象を 濃霧 地相を 朱雀に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T110241Z" creationid="土妹子" creationdate="20160108T110241Z">
+        <seg>将气象变为浓雾 地相变为朱雀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -88818,6 +88866,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111136Z" creationid="土妹子" creationdate="20150101T111136Z">
         <seg>使对手黑暗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手を 毒と 暗闇状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T110217Z" creationid="土妹子" creationdate="20160108T110217Z">
+        <seg>使对手中毒和黑暗。</seg>
       </tuv>
     </tu>
     <tu>
