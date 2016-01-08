@@ -43190,6 +43190,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>おばけごっこ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T130626Z" creationid="土妹子" creationdate="20160108T130626Z">
+        <seg>捉鬼迷藏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>おばけの</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140910T140429Z" creationid="UUZ" creationdate="20140910T140348Z">
@@ -70070,6 +70078,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>使ったターン スキルを防ぐ（防御結界）</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T130724Z" creationid="土妹子" creationdate="20160108T130724Z">
+        <seg>在使用的回合防住技能（防御结界）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>使ったターン 無防備になり 属性結界が 無効になるが 受ける ダメージが 小さくなる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T123936Z" creationid="土妹子" creationdate="20160108T123936Z">
@@ -71282,6 +71298,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T143021Z" creationid="UUZ" creationdate="20140906T143021Z">
         <seg>再思之道</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>再生回復　そのターン風属性を失う</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T130634Z" creationid="土妹子" creationdate="20160108T130634Z">
+        <seg>再生恢复 在当回合失去风属性</seg>
       </tuv>
     </tu>
     <tu>
@@ -74062,6 +74086,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>地相によって威力・属性変化</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T130526Z" creationid="土妹子" creationdate="20160108T130526Z">
+        <seg>根据地相改变威力和属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>地相を 朱雀に する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070942Z" creationid="土妹子" creationdate="20150101T070942Z">
@@ -75370,6 +75402,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T061800Z" creationid="土妹子" creationdate="20160106T061800Z">
         <seg>天人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>天候によって威力・属性変化</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T130540Z" creationid="土妹子" creationdate="20160108T130540Z">
+        <seg>根据天气改变威力和属性</seg>
       </tuv>
     </tu>
     <tu>
@@ -82814,6 +82854,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>最後に使われたスキルで相手に攻撃する</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T130701Z" creationid="土妹子" creationdate="20160108T130701Z">
+        <seg>用最后受到的技能攻击对手</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>最後に使用した装飾品を手にいれる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T130709Z" creationid="土妹子" creationdate="20160108T130709Z">
+        <seg>获得最后被使用的装饰品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>最近 人形のトラブルが多いから 授業の内容を変えているんだ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T125953Z" creationid="UUZ" creationdate="20140908T123346Z">
@@ -86382,6 +86438,30 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>溜め　極光時溜め無し　極光以外の天候の時威力半減</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T130549Z" creationid="土妹子" creationdate="20160108T130549Z">
+        <seg>蓄力　极光时无需蓄力；极光以外的天气时威力减半</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>溜め　溜めてる間 ほとんどのスキル無効 　防御結界無効</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T130615Z" creationid="土妹子" creationdate="20160108T130615Z">
+        <seg>蓄力　蓄力时大部分技能无效　无视防御结界</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>溜め　濃霧時溜め無し　濃霧以外の天候の時威力半減</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T130607Z" creationid="土妹子" creationdate="20160108T130607Z">
+        <seg>蓄力　浓雾时无需蓄力；浓雾以外的天气时威力减半</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>溜めが必要なスキルの威力が下がる代わりに １ターンで使える。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T092154Z" creationid="土妹子" creationdate="20160107T092154Z">
@@ -88086,6 +88166,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>痛烈になりやすい</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T130533Z" creationid="土妹子" creationdate="20160108T130533Z">
+        <seg>容易痛烈的一击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>痛烈率</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
@@ -89602,6 +89690,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125759Z" creationid="土妹子" creationdate="20160108T125759Z">
         <seg>使对手烧伤 容易痛烈的一击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手を無防備に</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T130514Z" creationid="土妹子" creationdate="20160108T130514Z">
+        <seg>使对手进入无防备状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手を猛毒に</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T130520Z" creationid="土妹子" creationdate="20160108T130520Z">
+        <seg>使对手中剧毒</seg>
       </tuv>
     </tu>
     <tu>
