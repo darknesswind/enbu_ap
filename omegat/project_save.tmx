@@ -59182,6 +59182,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>スクープになりそうなことを探し　チラシの裏に書き込んでいる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T095056Z" creationid="土妹子" creationdate="20160108T095056Z">
+        <seg>会寻找貌似能成为大新闻的事 写在传单的背面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>スクープ自ら飛び込んできたわ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T181554Z" creationid="140706inu" creationdate="20150512T181554Z">
@@ -65617,6 +65625,14 @@
         <seg>三途の川や その辺の道の距離を操っている。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T143447Z" creationid="土妹子" creationdate="20150116T143447Z">
+        <seg>操纵着三途川和附近道路的距离。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>三途の川や　その辺の道の距離を操っている。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T095100Z" creationid="土妹子" creationdate="20160108T095100Z">
         <seg>操纵着三途川和附近道路的距离。</seg>
       </tuv>
     </tu>
