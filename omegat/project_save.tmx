@@ -82342,6 +82342,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>時の螺旋</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T124423Z" creationid="土妹子" creationdate="20160108T124423Z">
+        <seg>时之螺旋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>時をかける人形遣い</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T064331Z" creationid="土妹子" creationdate="20160106T064331Z">
@@ -84930,6 +84938,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T145217Z" creationid="土妹子" creationdate="20150101T104125Z">
         <seg>使气象变为凪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>気象を 天気雨 地相を 玄武に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T124413Z" creationid="土妹子" creationdate="20160108T124413Z">
+        <seg>将气象变为雨天 地相变为玄武。</seg>
       </tuv>
     </tu>
     <tu>
