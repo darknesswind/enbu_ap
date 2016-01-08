@@ -55542,6 +55542,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>エレメントリバース</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T123951Z" creationid="土妹子" creationdate="20160108T123951Z">
+        <seg>元素反转</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>エレン</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135421Z" creationid="UUZ" creationdate="20140904T135421Z">
@@ -61870,6 +61878,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>フィールドシフト</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T124007Z" creationid="土妹子" creationdate="20160108T124007Z">
+        <seg>场地切换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>フィールドバリア</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T132910Z" creationid="UUZ" creationdate="20140906T132910Z">
@@ -61978,6 +61994,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T055721Z" creationid="土妹子" creationdate="20160106T055721Z">
         <seg>四重存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>フォースシールド</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T123603Z" creationid="土妹子" creationdate="20160108T123603Z">
+        <seg>力场护盾</seg>
       </tuv>
     </tu>
     <tu>
@@ -69998,6 +70022,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>使ったターン 無防備になり 属性結界が 無効になるが 受ける ダメージが 小さくなる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T123936Z" creationid="土妹子" creationdate="20160108T123936Z">
+        <seg>使用的回合变得无防备 属性结界无效但受到伤害下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>使ったターン 相手の 攻撃を まったく 受けない。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T105328Z" creationid="土妹子" creationdate="20160108T105328Z">
@@ -75274,6 +75306,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T105621Z" creationid="土妹子" creationdate="20160108T105621Z">
         <seg>天地发现「黄金」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>天地発現「黒雨」</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T124125Z" creationid="土妹子" creationdate="20160108T124125Z">
+        <seg>天地发现「黑雨」</seg>
       </tuv>
     </tu>
     <tu>
@@ -84894,6 +84934,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>気象を 天気雨に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T124115Z" creationid="土妹子" creationdate="20160108T124115Z">
+        <seg>使气象变为雨天。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>気象を 極光 地相を 白虎に する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T110107Z" creationid="土妹子" creationdate="20160108T110107Z">
@@ -84954,6 +85002,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T145217Z" creationid="UUZ" creationdate="20140906T124515Z">
         <seg>气象显现「凪」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>気象発現「天気雨」</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T124104Z" creationid="土妹子" creationdate="20160108T124104Z">
+        <seg>气象发现「雨天」</seg>
       </tuv>
     </tu>
     <tu>
@@ -88422,6 +88478,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手の バリアオプションや 壁を 自分の場に 移動させる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T124031Z" creationid="土妹子" creationdate="20160108T124031Z">
+        <seg>把对手的子机和防壁移动到自己场上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手の バリアオプションを 無視して 攻撃できる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T105714Z" creationid="土妹子" creationdate="20160108T105714Z">
@@ -88482,6 +88546,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T173436Z" creationid="140706inu" creationdate="20150523T173436Z">
         <seg>无视对手的壁障造成伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手の 属性結界を 反転させる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T124000Z" creationid="土妹子" creationdate="20160108T124000Z">
+        <seg>反转对手的属性结界。</seg>
       </tuv>
     </tu>
     <tu>
@@ -89002,6 +89074,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110929Z" creationid="土妹子" creationdate="20150101T110929Z">
         <seg>对手不能从战斗中逃脱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手を 暗闇と 混乱状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T124049Z" creationid="土妹子" creationdate="20160108T124049Z">
+        <seg>使对手黑暗并混乱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -96361,6 +96441,14 @@
         <seg>連続で 出すと 失敗 しやすい。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T065004Z" creationid="土妹子" creationdate="20150101T065004Z">
+        <seg>连续使用容易失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>連続で 出すと 失敗しやすい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T123945Z" creationid="土妹子" creationdate="20160108T123945Z">
         <seg>连续使用容易失败。</seg>
       </tuv>
     </tu>
