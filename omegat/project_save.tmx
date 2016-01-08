@@ -57670,6 +57670,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>スイートデスペラート</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T111907Z" creationid="土妹子" creationdate="20160108T111907Z">
+        <seg>甜蜜死枪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>スオウ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T063526Z" creationid="土妹子" creationdate="20160106T063526Z">
@@ -88866,6 +88874,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111136Z" creationid="土妹子" creationdate="20150101T111136Z">
         <seg>使对手黑暗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手を 毒と 恐怖状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T111918Z" creationid="土妹子" creationdate="20160108T111918Z">
+        <seg>使对手中毒和恐怖。</seg>
       </tuv>
     </tu>
     <tu>
