@@ -71654,6 +71654,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>前のターンに自分の人形が倒されていると威力倍</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125546Z" creationid="土妹子" creationdate="20160108T125546Z">
+        <seg>上回合曾有我方人形被击倒时威力翻倍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>前よりは強くなってるんだろ？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T121646Z" creationid="土妹子" creationdate="20150107T080014Z">
@@ -73774,10 +73782,34 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>固定ダメージ（相手現在HP-自分現在HP）</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125319Z" creationid="土妹子" creationdate="20160108T125319Z">
+        <seg>固定伤害（对手现有ＨＰ－自身现有ＨＰ）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>固定ダメージ（相手現在HPの半分）</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125312Z" creationid="土妹子" creationdate="20160108T125312Z">
+        <seg>固定伤害（对手现有ＨＰ的一半）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>固定ダメージ（自分のレベル）</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T124829Z" creationid="土妹子" creationdate="20160108T124829Z">
         <seg>固定伤害（自身等级）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>固定ダメージ（自分の現在HP）自分は戦闘不能</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125301Z" creationid="土妹子" creationdate="20160108T125301Z">
+        <seg>固定伤害（自身现有ＨＰ）自身陷入战斗不能</seg>
       </tuv>
     </tu>
     <tu>
@@ -81622,6 +81654,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>控え最後の人形の第一属性になる</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125347Z" creationid="土妹子" creationdate="20160108T125347Z">
+        <seg>变成最后一个后备人形的第一属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>描画周期を変更します。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T183126Z" creationid="140706inu" creationdate="20150512T183126Z">
@@ -81706,6 +81746,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T171311Z" creationid="土妹子" creationdate="20150101T095400Z">
         <seg>攻击后体势会崩坏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>攻撃した後、交代する</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125355Z" creationid="土妹子" creationdate="20160108T125355Z">
+        <seg>攻击后交换</seg>
       </tuv>
     </tu>
     <tu>
@@ -88438,10 +88486,50 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手が交代する際にスキルを出すと交代前に発動威力倍</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125553Z" creationid="土妹子" creationdate="20160108T125553Z">
+        <seg>对手交换时会在交换前发动技能 且威力翻倍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手が停止中の時 相手は毎ターン少しダメージを受ける。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T093631Z" creationid="土妹子" creationdate="20160107T093631Z">
         <seg>对手陷入停止状态时 每回合受到少许伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手が持っている消費道具を奪って自分に使う</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125612Z" creationid="土妹子" creationdate="20160108T125612Z">
+        <seg>抢夺对手携带的消耗品自己用掉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手が攻撃スキルを選び、かつ先攻の場合成功する</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125605Z" creationid="土妹子" creationdate="20160108T125605Z">
+        <seg>仅在对手选择了攻击技能 且自身先攻时才能成功使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手が毒・猛毒状態の時威力倍</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125624Z" creationid="土妹子" creationdate="20160108T125624Z">
+        <seg>对手中毒／中剧毒时威力翻倍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手が状態異常の時威力倍</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125618Z" creationid="土妹子" creationdate="20160108T125618Z">
+        <seg>对手状态异常时威力翻倍</seg>
       </tuv>
     </tu>
     <tu>
@@ -88910,6 +88998,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手のFプロテクト・Fバリアの効果を受けず、それを壊す</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125630Z" creationid="土妹子" creationdate="20160108T125630Z">
+        <seg>不受对方场上Ｆ保护和Ｆ屏障的影响 并且将其破坏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手のアビリティによる スキルのダメージの変化がなくなる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T091654Z" creationid="土妹子" creationdate="20160107T091654Z">
@@ -88930,6 +89026,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093834Z" creationid="土妹子" creationdate="20141231T093834Z">
         <seg>能够无视对手的特性进行攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手のコストが高いほど威力が上がる</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125640Z" creationid="土妹子" creationdate="20160108T125640Z">
+        <seg>对手的ｃｏｓｔ越高威力越高</seg>
       </tuv>
     </tu>
     <tu>
@@ -89054,6 +89158,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手の現在HPが多いほど威力が上がる</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125657Z" creationid="土妹子" creationdate="20160108T125657Z">
+        <seg>对手现有ＨＰ越高威力越高</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手の現在HPが最大HPの半分以下の時威力倍</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125650Z" creationid="土妹子" creationdate="20160108T125650Z">
+        <seg>对手的现有ＨＰ不足最大ＨＰ的一半时威力翻倍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手の能力が上がったとき 自分も同じ能力が上がる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T094932Z" creationid="土妹子" creationdate="20160107T094932Z">
@@ -89062,10 +89182,50 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手の能力ランクが高いほど威力が上がる</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125719Z" creationid="土妹子" creationdate="20160108T125719Z">
+        <seg>对手的能力等级越高威力越高</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手の能力ランクを元に戻す</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125725Z" creationid="土妹子" creationdate="20160108T125725Z">
+        <seg>对手的能力等级归零</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手の能力ランク無視</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125731Z" creationid="土妹子" creationdate="20160108T125731Z">
+        <seg>无视对手的能力等级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手の能力上昇を無視して 攻撃できる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093251Z" creationid="土妹子" creationdate="20141231T093251Z">
         <seg>能够无视对手的能力上升进行攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手の装飾品を奪う</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125711Z" creationid="土妹子" creationdate="20160108T125711Z">
+        <seg>抢夺对手的装饰品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手の集防・散防を入れ替えてダメージ計算</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125705Z" creationid="土妹子" creationdate="20160108T125705Z">
+        <seg>将对手的集防和散防交换进行伤害计算</seg>
       </tuv>
     </tu>
     <tu>
@@ -89122,6 +89282,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T115621Z" creationid="土妹子" creationdate="20150101T115621Z">
         <seg>比对手后攻时威力翻倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手より俊敏が低いほど威力が上がる</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125739Z" creationid="土妹子" creationdate="20160108T125739Z">
+        <seg>自身的速度越是比对手低 威力越高</seg>
       </tuv>
     </tu>
     <tu>
@@ -89330,6 +89498,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093749Z" creationid="土妹子" creationdate="20141231T093749Z">
         <seg>击倒对手时集弹上升１段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手を暗闇に</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125746Z" creationid="土妹子" creationdate="20160108T125746Z">
+        <seg>使对手黑暗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手を火傷に</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125753Z" creationid="土妹子" creationdate="20160108T125753Z">
+        <seg>使对手烧伤</seg>
       </tuv>
     </tu>
     <tu>
@@ -92750,6 +92934,38 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>自分が後攻の時威力倍</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125401Z" creationid="土妹子" creationdate="20160108T125401Z">
+        <seg>自身后攻时威力翻倍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分が状態異常の時威力倍　恐怖・暗闇無視</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125410Z" creationid="土妹子" creationdate="20160108T125410Z">
+        <seg>自身状态异常时威力翻倍 无视恐怖和黑暗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分が装飾品を持っていない時のみ使用可能 相手を毒に</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125421Z" creationid="土妹子" creationdate="20160108T125421Z">
+        <seg>仅在自身未携带装饰品时能够使用 使对手陷入毒状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分が装飾品を持っていない時威力倍</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125429Z" creationid="土妹子" creationdate="20160108T125429Z">
+        <seg>自身未携带装饰品时威力翻倍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>自分で 使うことはできないから 気をつけろよ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150521T120634Z" creationid="UUZ" creationdate="20140908T154150Z">
@@ -93230,6 +93446,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>自分のコストが相手より高いほど威力が上がる</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125438Z" creationid="土妹子" creationdate="20160108T125438Z">
+        <seg>自身的cost比对手高越多 威力越大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>自分のスキルによって属性結界を貫通した時のダメージが大きくなる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T093204Z" creationid="土妹子" creationdate="20160107T093204Z">
@@ -93278,10 +93502,42 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>自分の場の設置物を吹き飛ばす</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125516Z" creationid="土妹子" creationdate="20160108T125516Z">
+        <seg>吹飞我方场上的设置物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分の持つスキルをすべて使うと使用可能</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125459Z" creationid="土妹子" creationdate="20160108T125459Z">
+        <seg>仅在自身已经使用过全部其他技能时才能使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>自分の最大 ＨＰの 半分を 減らして 自分の 集弾を 最大に 上げる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150101T065327Z">
         <seg>消耗自身最大ＨＰ的一半 将自身的集弹上升到最大。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分の現在HPが多いほど威力が上がる</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125453Z" creationid="土妹子" creationdate="20160108T125453Z">
+        <seg>自身现有ＨＰ越高威力越高</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分の現在HPが少ないほど威力が上がる</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125444Z" creationid="土妹子" creationdate="20160108T125444Z">
+        <seg>自身现有ＨＰ越低威力越高</seg>
       </tuv>
     </tu>
     <tu>
@@ -93302,10 +93558,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>自分の能力ランクが高いほど威力が上がる</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125523Z" creationid="土妹子" creationdate="20160108T125523Z">
+        <seg>自身的能力等级越高威力越高</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>自分の集中スキルのダメージが２倍になり 相手からの集中スキルのダメージが半分になる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T164623Z" creationid="140706inu" creationdate="20150523T164623Z">
         <seg>自己的集中技能威力翻倍 对手的集中技能威力减半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分の集弾・散弾の代わりに相手の集弾・散弾でダメージ計算</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125509Z" creationid="土妹子" creationdate="20160108T125509Z">
+        <seg>以对手的集弹／散弹代替自身的集弹／散弹进行伤害计算</seg>
       </tuv>
     </tu>
     <tu>
@@ -93390,6 +93662,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>自分は戦闘不能になる　集防散防半減計算</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125532Z" creationid="土妹子" creationdate="20160108T125532Z">
+        <seg>自身陷入战斗不能 集防／散防减半计算</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>自分も人形を持っていれば対抗できるんだが</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T100359Z" creationid="UUZ" creationdate="20140908T072002Z">
@@ -93402,6 +93682,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T080045Z" creationid="土妹子" creationdate="20160107T080045Z">
         <seg>自己也有人形的话 可以与之对抗 不过你……\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分を無防備に</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125538Z" creationid="土妹子" creationdate="20160108T125538Z">
+        <seg>自身进入无防备状态</seg>
       </tuv>
     </tu>
     <tu>
