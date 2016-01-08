@@ -82502,6 +82502,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>月の民に関係のある人形が嫌いだが　ウドンゲの人形を好いている節がある。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T103154Z" creationid="土妹子" creationdate="20160108T103154Z">
+        <seg>讨厌和月之民有关的人形 但是却喜欢优昙华的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>月の海</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T142626Z" creationid="UUZ" creationdate="20140906T142626Z">
@@ -90846,6 +90854,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>純化する程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T103123Z" creationid="土妹子" creationdate="20160108T103123Z">
+        <seg>拥有纯化程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>純弧</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T040848Z" creationid="土妹子" creationdate="20160106T040848Z">
@@ -90866,6 +90882,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T032825Z" creationid="土妹子" creationdate="20160106T032825Z">
         <seg>纯狐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>純狐の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T103114Z" creationid="土妹子" creationdate="20160108T103114Z">
+        <seg>拥有纯狐的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
