@@ -89502,6 +89502,54 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手を停止に</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T130307Z" creationid="土妹子" creationdate="20160108T130307Z">
+        <seg>使对手停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手を吹き飛ばす</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T130256Z" creationid="土妹子" creationdate="20160108T130256Z">
+        <seg>把对手吹飞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手を怯み</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125806Z" creationid="土妹子" creationdate="20160108T125806Z">
+        <seg>使对手害怕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手を怯み　最初のターンのみ成功</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125812Z" creationid="土妹子" creationdate="20160108T125812Z">
+        <seg>使对手害怕 仅在刚登场的回合能够成功</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手を怯み　相手がカモフラージュ状態の時必中威力倍</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125819Z" creationid="土妹子" creationdate="20160108T125819Z">
+        <seg>使对手害怕 对手在迷彩状态时必中且威力翻倍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手を恐怖に</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125831Z" creationid="土妹子" creationdate="20160108T125831Z">
+        <seg>使对手恐怖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手を暗闇に</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125746Z" creationid="土妹子" creationdate="20160108T125746Z">
@@ -89510,10 +89558,74 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手を毒に</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T130312Z" creationid="土妹子" creationdate="20160108T130312Z">
+        <seg>使对手中毒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手を毒に　痛烈になりやすい</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T130318Z" creationid="土妹子" creationdate="20160108T130318Z">
+        <seg>使对手中毒 容易痛烈的一击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手を混乱　濃霧時必中　凪時命中半減　成功した時凪・濃霧を解除</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T130242Z" creationid="土妹子" creationdate="20160108T130242Z">
+        <seg>使对手混乱　浓雾时必中；凪时威力减半；使用成功后解除凪或浓雾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手を混乱に</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T130249Z" creationid="土妹子" creationdate="20160108T130249Z">
+        <seg>使对手混乱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手を火傷に</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125753Z" creationid="土妹子" creationdate="20160108T125753Z">
         <seg>使对手烧伤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手を火傷に　痛烈になりやすい</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T125759Z" creationid="土妹子" creationdate="20160108T125759Z">
+        <seg>使对手烧伤 容易痛烈的一击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手を衰弱に</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T130301Z" creationid="土妹子" creationdate="20160108T130301Z">
+        <seg>使对手衰弱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手を麻痺or暗闇or恐怖</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T130325Z" creationid="土妹子" creationdate="20160108T130325Z">
+        <seg>使对手麻痹或黑暗或恐怖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手を麻痺に</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T130331Z" creationid="土妹子" creationdate="20160108T130331Z">
+        <seg>使对手麻痹</seg>
       </tuv>
     </tu>
     <tu>
