@@ -42206,6 +42206,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>いざ せんせんふこくする！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T124922Z" creationid="土妹子" creationdate="20160109T124922Z">
+        <seg>那么 向你宣战！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>いたずら</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T063438Z" creationid="土妹子" creationdate="20150101T063438Z">
@@ -43502,10 +43510,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>おまえなんかに教えるか ばーか！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T125001Z" creationid="土妹子" creationdate="20160109T125001Z">
+        <seg>为啥要告诉你啊 笨～蛋！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>おまえにできることなんて・・・</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T110651Z" creationid="UUZ" creationdate="20140908T085049Z">
         <seg>这可不是你能干的活儿……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>おまえの人形も解放してやる！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T125057Z" creationid="土妹子" creationdate="20160109T125057Z">
+        <seg>把你的人形也解放！</seg>
       </tuv>
     </tu>
     <tu>
@@ -44614,6 +44638,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ぐぬぬ・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T124926Z" creationid="土妹子" creationdate="20160109T124926Z">
+        <seg>咕……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>けいね</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135918Z" creationid="UUZ" creationdate="20140904T135918Z">
@@ -45273,6 +45305,14 @@
         <seg>ここをこうすれば勝てるのかな……。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T141341Z" creationid="UUZ" creationdate="20140909T141341Z">
+        <seg>这里这样做的话就能赢吗……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ここをこうすれば勝てるのかな・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T125107Z" creationid="土妹子" creationdate="20160109T125107Z">
         <seg>这里这样做的话就能赢吗……。</seg>
       </tuv>
     </tu>
@@ -48662,6 +48702,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>それで 外の世界に帰るために 異変と人形について調べていらっしゃると。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T124741Z" creationid="土妹子" creationdate="20160109T124713Z">
+        <seg>还有 你为了回到外面的世界 为调查异变和人形而来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>それで 外の世界に帰るために異変と人形について</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T120038Z" creationid="UUZ" creationdate="20140909T132506Z">
@@ -49066,6 +49114,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T062055Z" creationid="UUZ" creationdate="20140908T062055Z">
         <seg>没什么大不了的！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>たいした名物もない里ですが 外の世界の人には珍しいものも あるかもしれませんよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T124845Z" creationid="土妹子" creationdate="20160109T124845Z">
+        <seg>虽然没什么出名的特产 但也许能看到让外面世界的人啧啧称奇的东西也说不定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54642,6 +54698,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T160248Z" creationid="土妹子" creationdate="20150105T160248Z">
         <seg>知道了哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>わかっているのは 人形には人形の力しか通用しないことくらいなんです。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T124756Z" creationid="土妹子" creationdate="20160109T124756Z">
+        <seg>我所知的只有一点 要对付人形只能依靠人形的力量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61502,6 +61566,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ニゲロー！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T124901Z" creationid="土妹子" creationdate="20160109T124901Z">
+        <seg>快逃！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ニックネームを10文字以内で入力し[Enter]で決定。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T030403Z" creationid="土妹子" creationdate="20160106T030403Z">
@@ -65750,6 +65822,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>・・・あたいがサイキョーじゃなくなっちゃうから 里に逃げたみんなを追っちゃダメだからな！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T124946Z" creationid="土妹子" creationdate="20160109T124946Z">
+        <seg>……本小姐不是最强的事会传开的 所以不许去追逃进村子的大家！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>・・・あややや！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T125138Z" creationid="土妹子" creationdate="20150106T125138Z">
@@ -66066,6 +66146,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T040910Z" creationid="UUZ" creationdate="20140908T084155Z">
         <seg>………………</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>・・・・・・？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T124955Z" creationid="土妹子" creationdate="20160109T124955Z">
+        <seg>……？</seg>
       </tuv>
     </tu>
     <tu>
@@ -68454,6 +68542,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形の封印術が伝わってから 里の自衛はできているのですが 解決策は未だ見つかっていない状態なんです。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T124835Z" creationid="土妹子" creationdate="20160109T124835Z">
+        <seg>人形的封印术流传开了 村子至少还能自卫 但解决方法现在还尚未发现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人形の尻尾も ふさふさしてて気持ちいいわよ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T083624Z" creationid="妄想" creationdate="20150112T064244Z">
@@ -69186,6 +69282,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
         <seg>人形解放战线的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形解放戦線は 使役されている全部の人形を解放するのよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T125034Z" creationid="土妹子" creationdate="20160109T125034Z">
+        <seg>人形解放战线的目的是要把所有被使役的人形都解放出来哟。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78082,6 +78186,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T081053Z" creationid="140706inu" creationdate="20150410T081053Z">
         <seg>其实我曾去当过山童 但过于眷恋河流才又回到这里来了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>実は私も全てはわかっていない状態でして・・・\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T124748Z" creationid="土妹子" creationdate="20160109T124748Z">
+        <seg>对于这些 实际上我也是一头雾水……\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -93842,6 +93954,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T082159Z" creationid="妄想" creationdate="20150110T084657Z">
         <seg>这可是相当有用的人形哦？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>結構自信あったのになぁ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T125024Z" creationid="土妹子" creationdate="20160109T125024Z">
+        <seg>明明我很有自信来着呢。</seg>
       </tuv>
     </tu>
     <tu>
