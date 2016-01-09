@@ -67494,6 +67494,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形と一緒とはいえ いきなり一人で山道を抜けるのは大変でしょうから 使えそうなものを 探してきたんです！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T121615Z" creationid="土妹子" creationdate="20160109T121615Z">
+        <seg>就算带着人形一起走 没有一点准备就要在山道上通行还是很吃力的 所以我找了些有用的东西来！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人形と一緒にいると とっても楽しいのよ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="妄想" creationdate="20150110T085334Z">
@@ -80506,6 +80514,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T060434Z" creationid="土妹子" creationdate="20150106T060427Z">
         <seg>刚才忘了说呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>忘れるところでした・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T121525Z" creationid="土妹子" creationdate="20160109T121525Z">
+        <seg>差点忘了……。</seg>
       </tuv>
     </tu>
     <tu>
