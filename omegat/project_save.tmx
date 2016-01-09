@@ -31670,6 +31670,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cそうね 私が その子にニックネームをつけるなら・・・</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T134714Z" creationid="土妹子" creationdate="20160109T134714Z">
+        <seg>\c这样呢 我要给这孩子起昵称的话就是……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cそうね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T161747Z" creationid="UUZ" creationdate="20140909T161747Z">
@@ -33402,6 +33410,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T125858Z" creationid="UUZ" creationdate="20140908T123206Z">
         <seg>\c还有传言说那里被妖怪占据着……根本不会有人去的吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c妖怪の山は 湖の西にある 玄武の沢から続いているわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T134641Z" creationid="土妹子" creationdate="20160109T134641Z">
+        <seg>\c妖怪之山 是在湖的西面的玄武之泽继续往前的地方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46342,6 +46358,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>これからは直接ここに来れるようにしてあげるから また 遊びに来なさい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T134540Z" creationid="土妹子" creationdate="20160109T134540Z">
+        <seg>之后可以让你直接进来这里 所以请再来玩哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>これからも旅を続けるなら 贔屓に頼むよ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150107T123008Z">
@@ -47290,6 +47314,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T061725Z" creationid="土妹子" creationdate="20150106T061725Z">
         <seg>不然的话……\b\c今晚的主菜就是你了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>さもないと・・・今宵のメインディッシュが あなたになるわよ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T134651Z" creationid="土妹子" creationdate="20160109T134651Z">
+        <seg>不然的话……今晚的主菜就是你了！</seg>
       </tuv>
     </tu>
     <tu>
@@ -52390,6 +52422,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ぴったりよね？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T134721Z" creationid="土妹子" creationdate="20160109T134721Z">
+        <seg>很合适吧？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ぴろ\\n魔王魂\\nポケットサウンド</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
@@ -53834,6 +53874,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T140557Z" creationid="土妹子" creationdate="20160106T140557Z">
         <seg>还没有考虑过</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>まだ調べている途中ではあるけれど 人形のもつ才能をさらに伸ばすことができそうなの。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T134820Z" creationid="土妹子" creationdate="20160109T134820Z">
+        <seg>虽然现在还在调查中 不过似乎可以让人形拥有的才能更进一步的提升。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62054,6 +62102,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ニックネームを変えたくなったら また私を頼りなさい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T134757Z" creationid="土妹子" creationdate="20160109T134757Z">
+        <seg>想要改变昵称的话 再来拜托我吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ニャル</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T175710Z" creationid="土妹子" creationdate="20150102T175710Z">
@@ -66466,6 +66522,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150806T023205Z" creationid="土妹子" creationdate="20150107T110650Z">
         <seg>……偶尔试着和不同的人对抗也挺有意思的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>・・・ってお金持ってないじゃん。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T134841Z" creationid="土妹子" creationdate="20160109T134841Z">
+        <seg>……不过钱不够啊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71570,6 +71634,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150109T164517Z">
         <seg>你来多少次 我都会阻止你哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>何度来てもここにはそんな情報なんて・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T134815Z" creationid="土妹子" creationdate="20160109T134815Z">
+        <seg>不管来多少次 那方面的情报都……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77978,6 +78050,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T143245Z" creationid="UUZ" creationdate="20140906T143245Z">
         <seg>妖怪之山</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>妖怪の山が あなたの次に向かう運命よ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T134556Z" creationid="土妹子" creationdate="20160109T134556Z">
+        <seg>妖怪之山 是你接下来要面对的命运哦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -90046,6 +90126,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>生憎 あなたに割ける時間は一秒たりともないわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T134805Z" creationid="土妹子" creationdate="20160109T134805Z">
+        <seg>真不凑巧 我能花在你身上的时间连１秒都没有。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>生者必衰</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T141523Z" creationid="UUZ" creationdate="20140906T141523Z">
@@ -93170,6 +93258,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T134108Z" creationid="土妹子" creationdate="20160109T134108Z">
         <seg>我啊 可是能引导你命运的去向哦？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>私なら もっとセンスのあるニックネームを付けてあげられるわよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T134703Z" creationid="土妹子" creationdate="20160109T134703Z">
+        <seg>我可以起个更有品位的昵称哦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -97993,6 +98089,14 @@
         <seg>見えない何かに 押し戻された……。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T103129Z" creationid="土妹子" creationdate="20150106T103129Z">
+        <seg>被看不见的什么推了回来……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>見えない何かに 押し戻された・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T134854Z" creationid="土妹子" creationdate="20160109T134854Z">
         <seg>被看不见的什么推了回来……。</seg>
       </tuv>
     </tu>
