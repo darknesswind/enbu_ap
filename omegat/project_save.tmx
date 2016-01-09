@@ -57814,6 +57814,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ショートケーキ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T015225Z" creationid="土妹子" creationdate="20160109T015225Z">
+        <seg>奶油蛋糕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>シラユキ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T155412Z" creationid="土妹子" creationdate="20150104T155412Z">
@@ -62738,6 +62746,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070228Z" creationid="UUZ" creationdate="20140904T155105Z">
         <seg>神圣耀斑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ホールのショートケーキ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T015221Z" creationid="土妹子" creationdate="20160109T015221Z">
+        <seg>有洞的奶油蛋糕。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72018,6 +72034,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T111348Z" creationid="140706inu" creationdate="20150410T145026Z">
         <seg>分析结果是「我会输」这点决定保密。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>切り分けられたショートケーキ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T015309Z" creationid="土妹子" creationdate="20160109T015309Z">
+        <seg>切分成块的奶油蛋糕。</seg>
       </tuv>
     </tu>
     <tu>
