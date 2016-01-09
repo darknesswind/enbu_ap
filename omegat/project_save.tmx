@@ -34510,6 +34510,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n幻想郷では使えそうにないので 売ってしまおう。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T140053Z" creationid="土妹子" creationdate="20160108T140053Z">
+        <seg>\n在幻想乡似乎不能使用所以卖掉吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n怨霊は憑いていない。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T105455Z" creationid="土妹子" creationdate="20150101T133957Z">
@@ -82774,6 +82782,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>普通では満足できないあなたに\nナイトメアタイプ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T002024Z" creationid="土妹子" creationdate="20160109T002024Z">
+        <seg>给普通型不能满足的你\n特制的梦魇型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>普通には読めない本を読むことができる能力を持つ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T153406Z" creationid="土妹子" creationdate="20150127T083627Z">
@@ -93114,6 +93130,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T071403Z" creationid="土妹子" creationdate="20160106T071403Z">
         <seg>蝴蝶之梦的人形使</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>胡蝶夢丸</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T001950Z" creationid="土妹子" creationdate="20160109T001950Z">
+        <seg>蝴蝶梦丸</seg>
       </tuv>
     </tu>
     <tu>
