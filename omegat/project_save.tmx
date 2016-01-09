@@ -40774,6 +40774,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あなたはやはり他の人間とは違うのですねぇ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T135649Z" creationid="土妹子" creationdate="20160109T135649Z">
+        <seg>你果然和其他的人类不同呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あなたは外の人かしら？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T105959Z" creationid="土妹子" creationdate="20150109T105959Z">
@@ -41106,6 +41114,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140112Z" creationid="UUZ" creationdate="20140904T140112Z">
         <seg>文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>あやや 引き止めてしまいましたね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T135959Z" creationid="土妹子" creationdate="20160109T135959Z">
+        <seg>啊呀呀 请留步啊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42530,6 +42546,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T085314Z" creationid="土妹子" creationdate="20150109T062242Z">
         <seg>哎呀 问候真的一直都是很舒畅的事呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>いやぁ 流石というか。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T135636Z" creationid="土妹子" creationdate="20160109T135636Z">
+        <seg>哎呀 真不愧是你。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54258,6 +54282,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T102122Z" creationid="土妹子" creationdate="20150109T102122Z">
         <seg>难道说你打算去魔界？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>もしかして妖怪の山へ行かれるのですか？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T135629Z" creationid="土妹子" creationdate="20160109T135629Z">
+        <seg>难道说想去妖怪之山？</seg>
       </tuv>
     </tu>
     <tu>
@@ -71062,6 +71094,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>仕方が無いから 今は私が面倒を見てるの。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T135602Z" creationid="土妹子" creationdate="20160109T135602Z">
+        <seg>没办法啊 现在这里由我照看。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>仕方が無いから 今は私が面倒を見てるのよ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T135409Z" creationid="土妹子" creationdate="20160109T135409Z">
@@ -71570,6 +71610,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T091830Z" creationid="CJ" creationdate="20150523T091830Z">
         <seg>和你没有任何关系。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>何もしてあげられないけど ゆっくりしていくといいんじゃないかしら。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T135533Z" creationid="土妹子" creationdate="20160109T135533Z">
+        <seg>虽然什么都没给我 不过自便就好。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75478,6 +75526,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>噂には 仙人の住まう庵もあるとかないとか・・・</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T135850Z" creationid="土妹子" creationdate="20160109T135850Z">
+        <seg>谣言说还有仙人住的小屋的吧……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>噂に聞いたけど なんだか凄い人形遣いが来てるらしいわねぇ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150521T121343Z" creationid="UUZ" creationdate="20140908T154511Z">
@@ -78114,6 +78170,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="妄想" creationdate="20150106T022010Z">
         <seg>虽说名叫妖怪之山 现在实际是天狗和河童在掌管着。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>妖怪の山はいいですよ〜！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T135702Z" creationid="土妹子" creationdate="20160109T135702Z">
+        <seg>妖怪之山很好哦〜！</seg>
       </tuv>
     </tu>
     <tu>
@@ -102342,6 +102406,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>霊夢も もっと本業を大事にすべきよね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T135556Z" creationid="土妹子" creationdate="20160109T135556Z">
+        <seg>灵梦也应该更重视本职工作的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>霊夢戦</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T133844Z" creationid="土妹子" creationdate="20141230T133844Z">
@@ -103850,6 +103922,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T145409Z" creationid="UUZ" creationdate="20140907T145409Z">
         <seg>鹤翼之符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>麓に河童のアジト 中腹に天狗の里 山頂には守矢神社と 観光にはもってこいです。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T135829Z" creationid="土妹子" creationdate="20160109T135829Z">
+        <seg>山麓有河童的据点 半山腰有天狗的村子 山顶有守矢神社 建议你去观光看看。</seg>
       </tuv>
     </tu>
     <tu>
