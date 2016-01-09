@@ -32414,6 +32414,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cまぁそんな都合よく夢なんて見れるものじゃないしね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T015906Z" creationid="土妹子" creationdate="20160109T015906Z">
+        <seg>\c嘛 要做梦也不是那么方便的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cまぁ一応忠告したし 後は勝手にどうぞ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150108T041201Z">
@@ -34106,6 +34114,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T115631Z" creationid="UUZ" creationdate="20140908T115535Z">
         <seg>\c到了能安顿下来的地方 也可以打开箱子把手持的人形和箱中的交换哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c薄暗かったし 変な小屋も建ってたね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T020125Z" creationid="土妹子" creationdate="20160109T020125Z">
+        <seg>\c那地方有点暗 有个奇怪的小屋。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40822,6 +40838,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あの小屋は何なんだろう？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T020132Z" creationid="土妹子" creationdate="20160109T020132Z">
+        <seg>那个小屋到底是什么？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あの方の実力は私が足元にも及ばない程 強大なものなの。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T092224Z" creationid="CJ" creationdate="20150523T092224Z">
@@ -45606,6 +45630,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>この前竹林で迷子になってさー。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T020014Z" creationid="土妹子" creationdate="20160109T020014Z">
+        <seg>在这之前我在竹林中迷路来着～。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>この勝負からは 逃げることが\nできない！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
@@ -48038,6 +48070,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>そこの鈴奈庵には本が沢山置いてあるけど湖の館にはもっと沢山の本があるらしい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T020205Z" creationid="土妹子" creationdate="20160109T020205Z">
+        <seg>那边的铃奈庵有很多书 不过湖边的洋馆似乎有更多的书。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>そこは寺子屋よ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T163002Z" creationid="UUZ" creationdate="20140908T163002Z">
@@ -48754,6 +48794,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T110225Z" creationid="140706inu" creationdate="20150417T110225Z">
         <seg>就算不急成那副模样 目的地也不会长脚溜掉呀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>そんなに本を集めて読みきれるんだろうか？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T020215Z" creationid="土妹子" creationdate="20160109T020215Z">
+        <seg>收集了那么多书读得完吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -53362,6 +53410,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="140706inu" creationdate="20150407T063531Z">
         <seg>万一遇上的话 我觉得还是逃走比较好哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>もし気になるなら永遠亭に夢を見る薬があったから試してみるといいよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T015938Z" creationid="土妹子" creationdate="20160109T015938Z">
+        <seg>如果感兴趣的话 永远亭有做梦的药 用那个试试吧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -92738,6 +92794,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150245Z" creationid="UUZ" creationdate="20150102T150245Z">
         <seg>第六感</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>筍の数を竹の数と勘違いしちゃって変なところにでたんだよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T020103Z" creationid="土妹子" creationdate="20160109T020103Z">
+        <seg>把笋的数量错当成了竹子的数量 到了个奇怪的地方。</seg>
       </tuv>
     </tu>
     <tu>
