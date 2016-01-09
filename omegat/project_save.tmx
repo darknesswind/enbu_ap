@@ -44982,6 +44982,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ここは\pさんの住んでいるところから結界で隔離された場所。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T020742Z" creationid="土妹子" creationdate="20160109T020742Z">
+        <seg>这里和\p所生活的地方之间是有结界相互隔离的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ここはチルノに任せて わたし達は逃げるよ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="UUZ" creationdate="20140909T134836Z">
@@ -47694,6 +47702,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>そういうことでしたら 説明は私に任せてください！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T020716Z" creationid="土妹子" creationdate="20160109T020716Z">
+        <seg>既然如此 说明现况的工作就交给我吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>そういえば あなたの 人形のニックネーム</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150106T061758Z">
@@ -48474,6 +48490,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T120038Z" creationid="UUZ" creationdate="20140909T132506Z">
         <seg>还有 你为了回到外面的世界 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>それで\pさんをこちらまで お連れしたということですね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T020706Z" creationid="土妹子" creationdate="20160109T020706Z">
+        <seg>所以你把\p带到这里来了啊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65794,6 +65818,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T162240Z" creationid="土妹子" creationdate="20150104T162240Z">
         <seg>……是认真的呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>・・・楽もできるしな。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T020722Z" creationid="土妹子" creationdate="20160109T020722Z">
+        <seg>……我也可以省事了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83318,6 +83350,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>春頃からでしょうか。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T020813Z" creationid="土妹子" creationdate="20160109T020813Z">
+        <seg>是从春天开始的吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>昼は……眠いよぉ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T150734Z" creationid="妄想" creationdate="20150104T150734Z">
@@ -92234,6 +92274,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T125938Z" creationid="UUZ" creationdate="20140909T125938Z">
         <seg>我可忙着呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>私は東風谷早苗といいます。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T020733Z" creationid="土妹子" creationdate="20160109T020733Z">
+        <seg>我叫东风谷早苗。</seg>
       </tuv>
     </tu>
     <tu>
