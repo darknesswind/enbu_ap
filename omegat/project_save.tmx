@@ -34606,6 +34606,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n持たせると一度だけ歪属性のスキルの威力が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T003019Z" creationid="土妹子" creationdate="20160109T003019Z">
+        <seg>\n携带时可以使歪属性技能威力上升１次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n持たせると一度だけ毒属性のスキルの威力が上がる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T112307Z" creationid="土妹子" creationdate="20150101T150452Z">
@@ -34774,6 +34782,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n持たせると属性結界で阻んだ時にダメージを軽減するが 貫通されると大ダメージを受ける。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T003207Z" creationid="土妹子" creationdate="20160109T003207Z">
+        <seg>\n携带后 属性结界阻挡时伤害减低 属性结界被贯穿时伤害增加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持たせると属性結界を貫通した時にあたえるダメージが増える。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T003148Z" creationid="土妹子" creationdate="20160109T003148Z">
+        <seg>\n携带后 贯通属性结界时的伤害上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n持たせると幻属性のスキルの威力が上がる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150105T161656Z" creationid="UUZ" creationdate="20150105T161656Z">
@@ -34826,6 +34850,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150101T152233Z">
         <seg>\n携带后散防上升 但是不能使用变化技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持たせると歪属性のスキルの威力が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T003245Z" creationid="土妹子" creationdate="20160109T003245Z">
+        <seg>\n携带时歪属性的技能威力上升。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34994,6 +35026,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T140959Z" creationid="土妹子" creationdate="20150102T140959Z">
         <seg>\n携带时风属性的技能威力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持っている人形が登場した戦闘で 獲得できる道具が倍になる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T003325Z" creationid="土妹子" creationdate="20160109T003325Z">
+        <seg>\n携带的人形登场过的战斗 获得的道具翻倍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67150,10 +67190,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形に持たせると天気雨の時間がいつもより長くなる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T003223Z" creationid="土妹子" creationdate="20160109T003223Z">
+        <seg>人形携带时 雨天天气的持续时间变长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人形に持たせると幻属性のスキルで結界を貫通されたとき威力を弱める。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T111415Z" creationid="UUZ" creationdate="20140907T145201Z">
         <seg>人形携带后被幻属性技能贯通结界时伤害减弱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形に持たせると幻属性のスキルの威力を弱める。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T002937Z" creationid="土妹子" creationdate="20160109T002937Z">
+        <seg>人形携带后减弱幻属性的技能威力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67194,6 +67250,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="UUZ" creationdate="20140908T035321Z">
         <seg>人形携带时 极光天气的持续时间变长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形に持たせると歪属性のスキルの威力を弱める。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T002951Z" creationid="土妹子" creationdate="20160109T002951Z">
+        <seg>人形携带后减弱歪属性的技能威力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67414,6 +67478,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形に持たせると闘属性のスキルの威力を弱める。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T002931Z" creationid="土妹子" creationdate="20160109T002931Z">
+        <seg>人形携带后减弱斗属性的技能威力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人形に持たせると集中スキルを受けた時に相手にダメージを与える。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T012952Z" creationid="UUZ" creationdate="20140908T012952Z">
@@ -67442,6 +67514,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T111412Z" creationid="UUZ" creationdate="20140907T145215Z">
         <seg>人形携带后被音属性技能贯通结界时伤害减弱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形に持たせると音属性のスキルの威力を弱める。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T002944Z" creationid="土妹子" creationdate="20160109T002944Z">
+        <seg>人形携带后减弱音属性的技能威力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75214,6 +75294,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>夢現の境界</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T003340Z" creationid="土妹子" creationdate="20160109T003340Z">
+        <seg>梦现的境界</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>夢美</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161241Z" creationid="UUZ" creationdate="20141224T161241Z">
@@ -81294,6 +81382,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>持たせると属性結界を貫通された時に集弾と散弾が大きく上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T003034Z" creationid="土妹子" creationdate="20160109T003034Z">
+        <seg>携带后 属性结界被贯通时集弹和散弹大幅上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>持たせると幻属性のスキルの威力が上がる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T040225Z" creationid="UUZ" creationdate="20140908T040225Z">
@@ -81354,6 +81450,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T023540Z" creationid="UUZ" creationdate="20140908T023349Z">
         <seg>持有时扩散类技能的威力上升，使用效果相同的技能后失效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>持たせると拡散スキルを受けた時に 散防が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T003135Z" creationid="土妹子" creationdate="20160109T003135Z">
+        <seg>持有后受到扩散技能时散防上升。</seg>
       </tuv>
     </tu>
     <tu>
@@ -81610,6 +81714,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T023531Z" creationid="UUZ" creationdate="20140908T023310Z">
         <seg>持有时集中类技能的威力上升，使用效果相同的技能后失效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>持たせると集中スキルを受けた時に 集防が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T003123Z" creationid="土妹子" creationdate="20160109T003123Z">
+        <seg>持有后受到集中技能时集防上升。</seg>
       </tuv>
     </tu>
     <tu>
@@ -86522,6 +86634,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T110331Z" creationid="土妹子" creationdate="20150107T110331Z">
         <seg>正因为消化不良无聊呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>深い青色の髪飾り。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T003237Z" creationid="土妹子" creationdate="20160109T003237Z">
+        <seg>深蓝色的发饰。</seg>
       </tuv>
     </tu>
     <tu>
@@ -95250,6 +95370,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T140740Z" creationid="土妹子" creationdate="20150112T140740Z">
         <seg>为了寻找蓝人形而在各地活动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>藍色の宝石。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T003010Z" creationid="土妹子" creationdate="20160109T003010Z">
+        <seg>蓝色的宝石。</seg>
       </tuv>
     </tu>
     <tu>
