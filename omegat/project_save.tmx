@@ -40014,6 +40014,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>『封印の糸は戦闘中の道具メニューから使用できます。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T121706Z" creationid="土妹子" creationdate="20160109T121706Z">
+        <seg>『封印之丝可以在战斗中的道具菜单中使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>『役立ち情報！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T164309Z" creationid="UUZ" creationdate="20140824T161002Z">
@@ -46190,6 +46198,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>これで使い方は バッチリですよね！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T121734Z" creationid="土妹子" creationdate="20160109T121734Z">
+        <seg>这么一来使用方法就很清楚了吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>これで助かるわっ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T010532Z" creationid="土妹子" creationdate="20150107T010532Z">
@@ -49426,6 +49442,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150109T111833Z">
         <seg>等等 不要无视我啊！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ちょっと 説明がきを読みますね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T121659Z" creationid="土妹子" creationdate="20160109T121659Z">
+        <seg>稍等 我读一下这个的说明书。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70998,6 +71022,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>使用すると野良人形を封印状態にすることができ\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T121726Z" creationid="土妹子" creationdate="20160109T121726Z">
+        <seg>使用后可以使野生人形进入封印状态 \b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>使用するスキルの種類によって 姿が変わる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T093648Z" creationid="土妹子" creationdate="20160107T093648Z">
@@ -80194,6 +80226,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T172944Z" creationid="土妹子" creationdate="20150109T172944Z">
         <seg>之后就请你自己随意调查。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>後もう一つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T121740Z" creationid="土妹子" creationdate="20160109T121740Z">
+        <seg>然后还有一个。</seg>
       </tuv>
     </tu>
     <tu>
