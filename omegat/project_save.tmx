@@ -47278,6 +47278,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>しかし あそこへ行くには邪魔な木を切れるものが必要なんだ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T132406Z" creationid="土妹子" creationdate="20160109T132406Z">
+        <seg>但是要去那里 必须要有能砍掉挡路的树的东西……\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>しかし そう簡単に人に教えられるものでもないのです。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150109T040542Z">
@@ -49146,6 +49154,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T175047Z" creationid="妄想" creationdate="20150105T082339Z">
         <seg>差不多到集市的日子了呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>そろそろ用も済んでいる頃だろうし 彼らに貸してくれるよう頼んでみたらどうだろう？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T132421Z" creationid="土妹子" creationdate="20160109T132421Z">
+        <seg>现在也差不多该用完了 试着去拜托他们借给你看看如何？</seg>
       </tuv>
     </tu>
     <tu>
@@ -66462,6 +66478,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>・・・ん？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T131935Z" creationid="土妹子" creationdate="20160109T131935Z">
+        <seg>……嗯？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>・・・ダム？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150729T045124Z" creationid="妄想" creationdate="20150107T022123Z">
@@ -73130,6 +73154,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
         <seg>制作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>前だと僕のとこで扱っていたんだけど 永遠亭の妖怪に売ってしまってね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T132415Z" creationid="土妹子" creationdate="20160109T132415Z">
+        <seg>之前还在我这里的地板上扔着 不过已经卖给永远亭的妖怪了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -87690,6 +87722,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150807T092349Z" creationid="妄想" creationdate="20150203T031813Z">
         <seg>想到永远亭去吗呜撒？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>永遠亭に行くのなら 人里の寺子屋で先生をやっている半妖に 色々聞くといい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T132429Z" creationid="土妹子" creationdate="20160109T132429Z">
+        <seg>要去永远亭的话 去人类村落的寺子屋 找在那里担任老师的半妖问一下状况比较好。</seg>
       </tuv>
     </tu>
     <tu>
