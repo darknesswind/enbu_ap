@@ -30990,6 +30990,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cあまりの人形の数に 私たちも対応しきれていない現状です。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T020913Z" creationid="土妹子" creationdate="20160109T020913Z">
+        <seg>\c人形的数量已经多到我们也无法对应了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cあら 図書館にご用なのね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150106T033334Z">
@@ -35698,6 +35706,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T064713Z" creationid="UUZ" creationdate="20140908T064713Z">
         <seg>\p。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\pさんが迷い込んでしまった以上 完全ではなかったようですね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T021011Z" creationid="土妹子" creationdate="20160109T021011Z">
+        <seg>既然\p误入到了这里 说明完全不是那么回事啊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43054,6 +43070,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>お ちょうどいいタイミングで戻ってきたな！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T021310Z" creationid="土妹子" creationdate="20160109T021310Z">
+        <seg>哦 你回来的时间刚刚好！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>お やっと起きたか。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150109T151630Z">
@@ -45302,6 +45326,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>この \pってやつ 外の世界から来たみたいだぜ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T021328Z" creationid="土妹子" creationdate="20160109T021328Z">
+        <seg>这个叫\p的家伙似乎是从外界来的！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>この 魂が抜けるほど元気が出る</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T182501Z" creationid="土妹子" creationdate="20150307T120338Z">
@@ -46358,6 +46390,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>こんなにぞろぞろと何の騒ぎ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T021224Z" creationid="土妹子" creationdate="20160109T021224Z">
+        <seg>这么一个一个的吵什么？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>こんなに強いだなんて！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T142616Z" creationid="UUZ" creationdate="20140908T151539Z">
@@ -47082,6 +47122,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T035749Z" creationid="土妹子" creationdate="20150109T035749Z">
         <seg>而且还和幽香有关。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>しかも厄介なことに結界が強いままだと \pさんは元の場所に戻れないはずなんです。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T021113Z" creationid="土妹子" creationdate="20160109T021113Z">
+        <seg>而且麻烦的是结界如果就维持这个强度的话  \p应该就无法回到原本的世界了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50006,6 +50054,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>とりあえず結界を強めて 外の世界には影響が出ないようにしているはずなんですが・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T020950Z" creationid="土妹子" creationdate="20160109T020950Z">
+        <seg>总而言之 加强了结界之后本应不会波及到外面的世界的……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>とりあえず遺言だけは書いておきな。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T033656Z" creationid="妄想" creationdate="20150105T033656Z">
@@ -52018,6 +52074,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150802T081529Z" creationid="土妹子" creationdate="20150109T164629Z">
         <seg>啊—……那个人是黑幕呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ふーん・・・なんか多いわね最近。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T021354Z" creationid="土妹子" creationdate="20160109T021354Z">
+        <seg>哼～……总觉得最近有点多啊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73566,6 +73630,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>各所でいきなり現れ始めたんですが 未だにその原因はわかってません。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T020852Z" creationid="土妹子" creationdate="20160109T020840Z">
+        <seg>它们从各种地方突然出现 但是原因还不清楚。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>合気の極意</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T120749Z" creationid="UUZ" creationdate="20140907T120749Z">
@@ -93394,6 +93466,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T110337Z" creationid="UUZ" creationdate="20140908T084006Z">
         <seg>掌管结界的灵梦偏不凑巧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>結界を司っている霊夢さんも 異変を解決するために・・・</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T021143Z" creationid="土妹子" creationdate="20160109T021143Z">
+        <seg>掌管结界的灵梦偏不凑巧 也为了解决异变而……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>結界を司っている霊夢さんも 異変を解決するために出払っていますし・・・</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T021130Z" creationid="土妹子" creationdate="20160109T021130Z">
+        <seg>掌管结界的灵梦偏不凑巧 也为了解决异变而出去了……</seg>
       </tuv>
     </tu>
     <tu>
