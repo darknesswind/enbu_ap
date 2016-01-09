@@ -40326,6 +40326,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あそこでは色々な情報が聞けると思いますし まずは人里へ行ってみてはどうですか？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T031552Z" creationid="土妹子" creationdate="20160109T031552Z">
+        <seg>到那边应该能收集到各种各样的情报 首先去人类村落看看怎么样？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あそこの連中も大概怪しいからな。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T085653Z" creationid="土妹子" creationdate="20150109T102315Z">
@@ -44382,6 +44390,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>きっと\pさんの力になってくれますよ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T031530Z" creationid="土妹子" creationdate="20160109T031530Z">
+        <seg>人形一定能成为\p的力量的！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>きっとあなたの助けになる物だと思います。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150522T160626Z" creationid="土妹子" creationdate="20150110T022944Z">
@@ -44554,6 +44570,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150729T045302Z" creationid="土妹子" creationdate="20150311T120521Z">
         <seg>可是别再说什么妄想新闻了啦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>けど人形がいれば大丈夫です。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T031505Z" creationid="土妹子" creationdate="20160109T031505Z">
+        <seg>不过有人形的话一定没问题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69190,6 +69214,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人里に人形について調べている人がいたはずなので そこへ行けば何か分かるかもしれません。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T031342Z" creationid="土妹子" creationdate="20160109T031342Z">
+        <seg>应该有人正在人类村落调查人形的相关事项 去那里的话说不定能知道什么。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人里内部・休憩所</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="CJ" creationdate="20150522T090225Z">
@@ -92514,6 +92546,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T082800Z" creationid="140706inu" creationdate="20150512T082800Z">
         <seg>我是不会输给任何人的！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>私は霊夢さんが出かけたら また留守番を頼まれてしまうでしょうから 一緒には行けません。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T031448Z" creationid="土妹子" creationdate="20160109T031448Z">
+        <seg>因为灵梦出去的话 又会拜托我在这里看守神社 所以我不能一起去了。</seg>
       </tuv>
     </tu>
     <tu>
