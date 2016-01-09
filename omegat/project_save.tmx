@@ -35142,6 +35142,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n相手のスキルよって怯まず  装飾品破壊の効果を受けない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T005809Z" creationid="土妹子" creationdate="20160109T005809Z">
+        <seg>\n不会因为对手的技能害怕 不受装饰品破坏的效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n相手を 停止させる\nことがある。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014314Z" creationid="UUZ" creationdate="20140906T091322Z">
@@ -61918,6 +61926,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ビブロ碧</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T005651Z" creationid="土妹子" creationdate="20160109T005651Z">
+        <seg>占星碧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ビンテージワイン</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T142837Z" creationid="UUZ" creationdate="20140907T142711Z">
@@ -78310,6 +78326,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>希望に満ち溢れた表情の面。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T005737Z" creationid="土妹子" creationdate="20160109T005737Z">
+        <seg>充满希望的表情的面具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>希望の力がたりなかったかな？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150216T124813Z" creationid="土妹子" creationdate="20150216T124813Z">
@@ -81810,6 +81834,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T035745Z" creationid="UUZ" creationdate="20140908T035745Z">
         <seg>持有时风属性的技能威力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>持たせるとＢＵスキルを受けた時に相手にもダメージを与える。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T005714Z" creationid="土妹子" creationdate="20160109T005714Z">
+        <seg>持有时受ＢＵ技能攻击时，对手也会受伤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>持たせるとＥＮスキルを受けた時に相手にもダメージを与える。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T005723Z" creationid="土妹子" creationdate="20160109T005723Z">
+        <seg>持有时受ＥＮ技能攻击时，对手也会受伤。</seg>
       </tuv>
     </tu>
     <tu>
@@ -93042,6 +93082,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T100954Z" creationid="UUZ" creationdate="20140908T072234Z">
         <seg>与其干听着我说不如亲身尝试一下！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>習得しているスキル数が３つ以下の場合\n受けるダメージを軽減する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T005857Z" creationid="土妹子" creationdate="20160109T005857Z">
+        <seg>习得的技能数在３以下时\n减轻受到的伤害。</seg>
       </tuv>
     </tu>
     <tu>
