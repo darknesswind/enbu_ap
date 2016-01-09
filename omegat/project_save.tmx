@@ -35702,6 +35702,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\pさん 先ほどの方が結界を司っている霊夢さんです。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T115802Z" creationid="土妹子" creationdate="20160109T115802Z">
+        <seg>\p 刚刚那位是司掌结界的灵梦小姐。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\pさん 解放戦線を解散させたって本当ですか！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150806T031337Z" creationid="土妹子" creationdate="20150108T144114Z">
@@ -43906,6 +43914,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T112605Z" creationid="140706inu" creationdate="20150417T131336Z">
         <seg>要是我生前能遇到你这样的人……！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>お前はここで早苗と日向ぼっこでもして待ってな。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T115905Z" creationid="土妹子" creationdate="20160109T115905Z">
+        <seg>你就在这里和早苗一起晒太阳等着吧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71726,6 +71742,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>入ると怒られそうだからやめておこう・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T115924Z" creationid="土妹子" creationdate="20160109T115924Z">
+        <seg>进去的话会惹她生气 还是算了吧……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>入力された値が不正です！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
@@ -73586,6 +73610,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T101052Z" creationid="土妹子" creationdate="20160108T101052Z">
         <seg>拥有一说出口就把事态逆转程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>口ぶりからして やはり結界はまだ弱められそうになさそうですね・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T115849Z" creationid="土妹子" creationdate="20160109T115849Z">
+        <seg>从她的语气来看 果然结界好像是又弱化了呢……。</seg>
       </tuv>
     </tu>
     <tu>
