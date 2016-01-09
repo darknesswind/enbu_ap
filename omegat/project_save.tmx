@@ -67094,6 +67094,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形に持たせると光属性のスキルの威力を弱める。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T002659Z" creationid="土妹子" creationdate="20160109T002659Z">
+        <seg>人形携带后减弱光属性的技能威力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人形に持たせると全ての天候の時間がいつもより長くなる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="UUZ" creationdate="20140908T035212Z">
@@ -67110,6 +67118,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形に持たせると冥属性のスキルの威力を弱める。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T002712Z" creationid="土妹子" creationdate="20160109T002712Z">
+        <seg>人形携带后减弱冥属性的技能威力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人形に持たせると凪の時間がいつもより長くなる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T145217Z" creationid="UUZ" creationdate="20140908T035241Z">
@@ -67122,6 +67138,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T111455Z" creationid="UUZ" creationdate="20140907T145026Z">
         <seg>人形携带后被大地属性技能贯通结界时伤害减弱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形に持たせると大地属性のスキルの威力を弱める。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T002341Z" creationid="土妹子" creationdate="20160109T002341Z">
+        <seg>人形携带后减弱大地属性的技能威力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67190,10 +67214,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形に持たせると毒属性のスキルの威力を弱める。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T002720Z" creationid="土妹子" creationdate="20160109T002720Z">
+        <seg>人形携带后减弱毒属性的技能威力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人形に持たせると水属性のスキルで結界を貫通されたとき威力を弱める。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T111501Z" creationid="UUZ" creationdate="20140907T145005Z">
         <seg>人形携带后被水属性技能贯通结界时伤害减弱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形に持たせると水属性のスキルの威力を弱める。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T002326Z" creationid="土妹子" creationdate="20160109T002326Z">
+        <seg>人形携带后减弱水属性的技能威力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67246,6 +67286,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形に持たせると炎属性のスキルの威力を弱める。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T002316Z" creationid="土妹子" creationdate="20160109T002316Z">
+        <seg>人形携带后减弱火属性的技能威力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人形に持たせると無属性のスキルの威力を弱める。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T111407Z" creationid="UUZ" creationdate="20140907T144835Z">
@@ -67282,6 +67330,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T111458Z" creationid="UUZ" creationdate="20140907T145015Z">
         <seg>人形携带后被自然属性技能贯通结界时伤害减弱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形に持たせると自然属性のスキルの威力を弱める。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T002334Z" creationid="土妹子" creationdate="20160109T002334Z">
+        <seg>人形携带后减弱自然属性的技能威力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67326,10 +67382,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形に持たせると鋼鉄属性のスキルの威力を弱める。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T002352Z" creationid="土妹子" creationdate="20160109T002352Z">
+        <seg>人形携带后减弱钢铁属性的技能威力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人形に持たせると闇属性のスキルで結界を貫通されたとき威力を弱める。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T111441Z" creationid="UUZ" creationdate="20140907T145119Z">
         <seg>人形携带后被暗属性技能贯通结界时伤害减弱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形に持たせると闇属性のスキルの威力を弱める。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T002705Z" creationid="土妹子" creationdate="20160109T002705Z">
+        <seg>人形携带后减弱暗属性的技能威力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67358,6 +67430,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形に持たせると雷属性のスキルの威力を弱める。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T002651Z" creationid="土妹子" creationdate="20160109T002651Z">
+        <seg>人形携带后减弱雷属性的技能威力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人形に持たせると音属性のスキルで結界を貫通されたとき威力を弱める。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T111412Z" creationid="UUZ" creationdate="20140907T145215Z">
@@ -67370,6 +67450,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T111450Z" creationid="UUZ" creationdate="20140907T145048Z">
         <seg>人形携带后被风属性技能贯通结界时伤害减弱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形に持たせると風属性のスキルの威力を弱める。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T002358Z" creationid="土妹子" creationdate="20160109T002358Z">
+        <seg>人形携带后减弱风属性的技能威力。</seg>
       </tuv>
     </tu>
     <tu>
