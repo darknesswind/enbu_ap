@@ -34566,6 +34566,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n所々から綿がはみ出ている。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T015145Z" creationid="土妹子" creationdate="20160109T015140Z">
+        <seg>\n各处都露出棉花了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n持たせた人形の戦闘中 糸による封印確率が上がる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T004026Z" creationid="土妹子" creationdate="20160109T004026Z">
@@ -35282,6 +35290,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T005428Z" creationid="土妹子" creationdate="20160109T005428Z">
         <seg>\n不受装饰品破坏的效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n複数回は使えそうにない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014925Z" creationid="土妹子" creationdate="20160109T014925Z">
+        <seg>\n似乎不能多次使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51038,6 +51054,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ぬいぐるみ用の綿。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014943Z" creationid="土妹子" creationdate="20160109T014943Z">
+        <seg>制作布偶用的棉花。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ぬえ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140417Z" creationid="UUZ" creationdate="20140904T140417Z">
@@ -51354,6 +51378,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
         <seg>已经拿不下人形了！\\b\\c</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>はさみ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T015017Z" creationid="土妹子" creationdate="20160109T015017Z">
+        <seg>剪子</seg>
       </tuv>
     </tu>
     <tu>
@@ -61822,6 +61854,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>パーツがちぎれたテディベア。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T015130Z" creationid="土妹子" creationdate="20160109T015130Z">
+        <seg>零件断掉的泰迪熊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>パープルスモッグ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111728Z" creationid="UUZ" creationdate="20140906T141343Z">
@@ -62698,6 +62738,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070228Z" creationid="UUZ" creationdate="20140904T155105Z">
         <seg>神圣耀斑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ホールケーキ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T015213Z" creationid="土妹子" creationdate="20160109T015213Z">
+        <seg>洞蛋糕</seg>
       </tuv>
     </tu>
     <tu>
@@ -66630,6 +66678,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>予想以上に大きい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T015053Z" creationid="土妹子" creationdate="20160109T015053Z">
+        <seg>比预想的要大。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>二つ折りの携帯ゲーム機。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T105758Z" creationid="UUZ" creationdate="20140907T142637Z">
@@ -68458,6 +68514,86 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T074355Z" creationid="妄想" creationdate="20150110T074355Z">
         <seg>人形用道具大量到货！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形異変について書かれた書物の第一巻。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014645Z" creationid="土妹子" creationdate="20160109T014645Z">
+        <seg>写有人形异变相关内容的书的第一卷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形異変について書かれた書物の第七巻。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014804Z" creationid="土妹子" creationdate="20160109T014804Z">
+        <seg>写有人形异变相关内容的书的第七卷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形異変について書かれた書物の第三巻。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014709Z" creationid="土妹子" creationdate="20160109T014709Z">
+        <seg>写有人形异变相关内容的书的第三卷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形異変について書かれた書物の第九巻。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014834Z" creationid="土妹子" creationdate="20160109T014834Z">
+        <seg>写有人形异变相关内容的书的第九卷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形異変について書かれた書物の第二巻。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014658Z" creationid="土妹子" creationdate="20160109T014658Z">
+        <seg>写有人形异变相关内容的书的第二卷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形異変について書かれた書物の第五巻。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014738Z" creationid="土妹子" creationdate="20160109T014738Z">
+        <seg>写有人形异变相关内容的书的第五卷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形異変について書かれた書物の第八巻。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014821Z" creationid="土妹子" creationdate="20160109T014821Z">
+        <seg>写有人形异变相关内容的书的第八卷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形異変について書かれた書物の第六巻。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014749Z" creationid="土妹子" creationdate="20160109T014749Z">
+        <seg>写有人形异变相关内容的书的第六卷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形異変について書かれた書物の第十巻。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014851Z" creationid="土妹子" creationdate="20160109T014851Z">
+        <seg>写有人形异变相关内容的书的第十卷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形異変について書かれた書物の第四巻。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014721Z" creationid="土妹子" creationdate="20160109T014721Z">
+        <seg>写有人形异变相关内容的书的第四卷。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74878,6 +75014,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>壊れたテディベア</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T015108Z" creationid="土妹子" creationdate="20160109T015108Z">
+        <seg>坏掉的泰迪熊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>壊れちゃったー！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150409T170146Z" creationid="140706inu" creationdate="20150409T170146Z">
@@ -75470,6 +75614,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>大きなテディベア</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T015047Z" creationid="土妹子" creationdate="20160109T015047Z">
+        <seg>大号泰迪熊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>大きな亀が眠っている。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T080904Z" creationid="妄想" creationdate="20150110T080904Z">
@@ -75746,6 +75898,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T155244Z" creationid="土妹子" creationdate="20150102T155244Z">
         <seg>大蛤蟆之池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>大量にある。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014949Z" creationid="土妹子" creationdate="20160109T014949Z">
+        <seg>有一大堆。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>大量の綿</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014931Z" creationid="土妹子" creationdate="20160109T014931Z">
+        <seg>大量棉花</seg>
       </tuv>
     </tu>
     <tu>
@@ -78386,6 +78554,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T063504Z" creationid="UUZ" creationdate="20140904T142756Z">
         <seg>收支结算</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>布を裁断するはさみ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T015030Z" creationid="土妹子" creationdate="20160109T015030Z">
+        <seg>剪断布料用的剪子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -88550,10 +88726,82 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>異変ノ断章 伍</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014731Z" creationid="土妹子" creationdate="20160109T014731Z">
+        <seg>异变之断章 五</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>異変ノ断章 参</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014703Z" creationid="土妹子" creationdate="20160109T014703Z">
+        <seg>异变之断章 三</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>異変ノ断章 壱</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014620Z" creationid="土妹子" creationdate="20160109T014620Z">
         <seg>异变之断章 一</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>異変ノ断章 弐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014653Z" creationid="土妹子" creationdate="20160109T014653Z">
+        <seg>异变之断章 二</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>異変ノ断章 拾</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014843Z" creationid="土妹子" creationdate="20160109T014843Z">
+        <seg>异变之断章 十</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>異変ノ断章 捌</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014816Z" creationid="土妹子" creationdate="20160109T014816Z">
+        <seg>异变之断章 八</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>異変ノ断章 漆</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014759Z" creationid="土妹子" creationdate="20160109T014759Z">
+        <seg>异变之断章 七</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>異変ノ断章 玖</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014828Z" creationid="土妹子" creationdate="20160109T014828Z">
+        <seg>异变之断章 九</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>異変ノ断章 肆</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014714Z" creationid="土妹子" creationdate="20160109T014714Z">
+        <seg>异变之断章 四</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>異変ノ断章 陸</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014744Z" creationid="土妹子" creationdate="20160109T014744Z">
+        <seg>异变之断章 六</seg>
       </tuv>
     </tu>
     <tu>
@@ -92454,6 +92702,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>糸</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T015007Z" creationid="土妹子" creationdate="20160109T015007Z">
+        <seg>线</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>紅い悪魔の人形遣い</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T071201Z" creationid="土妹子" creationdate="20160106T071201Z">
@@ -92650,6 +92906,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T032015Z" creationid="土妹子" creationdate="20160106T032015Z">
         <seg>红魔馆内部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>紅魔館地下で 手に入れた古い鍵。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014912Z" creationid="土妹子" creationdate="20160109T014912Z">
+        <seg>在红魔馆地下得到的古旧的钥匙。</seg>
       </tuv>
     </tu>
     <tu>
@@ -95278,6 +95542,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>茶色の大きな布。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T015040Z" creationid="土妹子" creationdate="20160109T015040Z">
+        <seg>茶色的大片布料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>茶色の宝石。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T020537Z" creationid="UUZ" creationdate="20140908T020537Z">
@@ -95954,6 +96226,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
         <seg>衰弱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>裁縫用の太目の糸。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T015014Z" creationid="土妹子" creationdate="20160109T015014Z">
+        <seg>裁缝用的粗线。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>裁縫用の針。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T015005Z" creationid="土妹子" creationdate="20160109T015005Z">
+        <seg>裁缝用的针。</seg>
       </tuv>
     </tu>
     <tu>
@@ -98802,6 +99090,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T142845Z" creationid="UUZ" creationdate="20140907T142845Z">
         <seg>金币</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>針</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014953Z" creationid="土妹子" creationdate="20160109T014953Z">
+        <seg>针</seg>
       </tuv>
     </tu>
     <tu>
