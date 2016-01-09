@@ -34550,6 +34550,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n持たせた人形の戦闘中 糸による封印確率が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T004026Z" creationid="土妹子" creationdate="20160109T004026Z">
+        <seg>\n携带的人形战斗中时 丝的封印几率上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n持たせた人形を火傷状態にする。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T152009Z" creationid="土妹子" creationdate="20150101T152009Z">
@@ -42066,6 +42074,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140347Z" creationid="UUZ" creationdate="20140904T140347Z">
         <seg>一轮＆云山</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>いっこじゃコンティニュー出来ない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T004001Z" creationid="土妹子" creationdate="20160109T004001Z">
+        <seg>一个的话不能接关。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72982,6 +72998,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>古びたコイン</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T003934Z" creationid="土妹子" creationdate="20160109T003934Z">
+        <seg>古老的硬币</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>古びた柿</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T140535Z" creationid="土妹子" creationdate="20160106T140535Z">
@@ -76418,6 +76442,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T142115Z" creationid="土妹子" creationdate="20160106T142115Z">
         <seg>妖怪绘卷-白-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>妖怪絵巻-紅-</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T004047Z" creationid="土妹子" creationdate="20160109T004047Z">
+        <seg>妖怪绘卷-红-</seg>
       </tuv>
     </tu>
     <tu>
