@@ -34406,6 +34406,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n人形に持たせると得られる経験値とＰＰが倍になる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014553Z" creationid="土妹子" creationdate="20160109T014553Z">
+        <seg>\n携带后 在战斗中获得的经验值和ＰＰ翻倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n人形のレベルを１上げる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T111312Z" creationid="土妹子" creationdate="20150101T144635Z">
@@ -34450,6 +34458,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T164950Z" creationid="UUZ" creationdate="20140824T145359Z">
         <seg>\n可能含有非法字符 或字数不足 或字数过多。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n先頭の人形に持たせると 野良人形と出会いやすくなる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014409Z" creationid="土妹子" creationdate="20160109T014409Z">
+        <seg>\n排头的人形携带时 容易遇到野生人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34570,6 +34586,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151954Z" creationid="土妹子" creationdate="20150101T151954Z">
         <seg>\n携带的人形陷入剧毒状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持たせるとジャベリンの威力が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014251Z" creationid="土妹子" creationdate="20160109T014251Z">
+        <seg>\n携带时标枪的威力上升。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35098,6 +35122,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T003916Z" creationid="土妹子" creationdate="20160109T003916Z">
         <seg>\n给特定的人形携带时全能力大幅上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n特別な人形に持たせると全能力が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014332Z" creationid="土妹子" creationdate="20160109T014332Z">
+        <seg>\n给特定的人形携带时全能力上升。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64142,6 +64174,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ユメノカケラ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014255Z" creationid="土妹子" creationdate="20160109T014255Z">
+        <seg>梦的碎片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ユリア</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T172642Z" creationid="土妹子" creationdate="20150102T172642Z">
@@ -67058,6 +67098,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150105T055532Z">
         <seg>关于人形 我所知道的就只有告诉你的这些了……\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形に持たせると 相手の装飾品がわかる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014226Z" creationid="土妹子" creationdate="20160109T014226Z">
+        <seg>人形持有时 能知道对手的装饰品。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72446,6 +72494,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>千年物の古酒。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014424Z" creationid="土妹子" creationdate="20160109T014424Z">
+        <seg>千年陈酿。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>千里先まで見通す程度の能力を持つ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T162630Z" creationid="土妹子" creationdate="20150116T162630Z">
@@ -72506,6 +72562,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150115T141959Z" creationid="土妹子" creationdate="20150115T141959Z">
         <seg>比起一个人更喜欢和伙伴在一起。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>博麗のお守り</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014502Z" creationid="土妹子" creationdate="20160109T014502Z">
+        <seg>博丽护符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>博麗の力が宿った有り難いお守り。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014536Z" creationid="土妹子" creationdate="20160109T014536Z">
+        <seg>寄宿着博丽之力的值得感谢的护符。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77754,6 +77826,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T100729Z" creationid="土妹子" creationdate="20150109T100729Z">
         <seg>即使是细微的情报也不能轻视哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>小さな鈴のついた髪飾り。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014349Z" creationid="土妹子" creationdate="20160109T014349Z">
+        <seg>带有小铃铛的发饰。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83462,6 +83542,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>月の古酒</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014416Z" creationid="土妹子" creationdate="20160109T014416Z">
+        <seg>月之古酒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>月の姫</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T060040Z" creationid="土妹子" creationdate="20160106T060040Z">
@@ -83490,6 +83578,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140824T155146Z" creationid="UUZ" creationdate="20140824T155146Z">
         <seg>月之海,tsukinoumi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>月の狂気が宿っており\n先頭の人形に持たせると 野良人形と出会いにくくなる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014458Z" creationid="土妹子" creationdate="20160109T014458Z">
+        <seg>带有月亮的狂气\n排头的人形携带时 不容易遇到野生人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -84386,6 +84482,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T020500Z" creationid="土妹子" creationdate="20141231T020500Z">
         <seg>乐观主义(Trial)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>槍投の極意</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014235Z" creationid="土妹子" creationdate="20160109T014235Z">
+        <seg>投枪的极意</seg>
       </tuv>
     </tu>
     <tu>
@@ -88442,6 +88546,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150419T082453Z" creationid="140706inu" creationdate="20150419T082453Z">
         <seg>妨碍解决异变的人类就是我的工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>異変ノ断章 壱</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014620Z" creationid="土妹子" creationdate="20160109T014620Z">
+        <seg>异变之断章 一</seg>
       </tuv>
     </tu>
     <tu>
@@ -95078,6 +95190,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>色が変化し続ける不思議な宝石。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014310Z" creationid="土妹子" creationdate="20160109T014310Z">
+        <seg>颜色一直在变化的不可思议的宝石。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>芭蕉扇</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T123112Z" creationid="UUZ" creationdate="20140906T123112Z">
@@ -98706,6 +98826,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T072622Z" creationid="土妹子" creationdate="20160106T072622Z">
         <seg>钓瓶落人形使</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>鈴の髪飾り</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T014341Z" creationid="土妹子" creationdate="20160109T014341Z">
+        <seg>铃之发饰</seg>
       </tuv>
     </tu>
     <tu>
