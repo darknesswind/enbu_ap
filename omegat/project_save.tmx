@@ -43150,6 +43150,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>おいおい 外に行く気か？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T032048Z" creationid="土妹子" creationdate="20160109T032048Z">
+        <seg>喂喂 你要出去吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>おいおい。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T101918Z" creationid="UUZ" creationdate="20140908T073101Z">
@@ -98406,6 +98414,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>追い出されてしまいましたね・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T032110Z" creationid="土妹子" creationdate="20160109T032110Z">
+        <seg>被赶出来了呢……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>追い込み漁とか。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T082241Z" creationid="妄想" creationdate="20150110T084715Z">
@@ -98466,6 +98482,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T112825Z" creationid="UUZ" creationdate="20140908T112825Z">
         <seg>不会是打算逃跑吧？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>逃げるのはナシだぜ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T032056Z" creationid="土妹子" creationdate="20160109T032056Z">
+        <seg>可别想逃Daze。</seg>
       </tuv>
     </tu>
     <tu>
