@@ -44166,6 +44166,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>お前はこのまえの人形遣いか。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160110T100717Z" creationid="土妹子" creationdate="20160110T100717Z">
+        <seg>你是之前的人形使吗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>お前も人形遣いだな！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T132658Z" creationid="UUZ" creationdate="20140908T132658Z">
@@ -51750,6 +51758,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>なんでも人形の衣装の取り扱いも始めたとかで。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160110T100624Z" creationid="土妹子" creationdate="20160110T100624Z">
+        <seg>好像是也开始贩卖人形用的服装了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>なんでも噂じゃ 外から来た人間らしいわよ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150521T102639Z" creationid="妄想" creationdate="20150103T033746Z">
@@ -51769,6 +51785,14 @@
         <seg>なんでも火急の用事とか……。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T153140Z" creationid="土妹子" creationdate="20150106T153140Z">
+        <seg>好像是非常紧急的事……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>なんでも火急の用事とか・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160110T100634Z" creationid="土妹子" creationdate="20160110T100634Z">
         <seg>好像是非常紧急的事……。</seg>
       </tuv>
     </tu>
