@@ -31286,6 +31286,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cここから湖の縁を橋のところまで下って 左方向に進めば 玄武の沢です。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160110T074006Z" creationid="土妹子" creationdate="20160110T074006Z">
+        <seg>\c从这里沿着湖一直向下走到桥的地方 再向左侧前进就是玄武之泽了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cここの先の森にいるアリスという少女に\b</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T112338Z" creationid="UUZ" creationdate="20140909T160633Z">
@@ -48302,6 +48310,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>そういえば里の呉服屋さんが営業を再開したようですよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160110T074157Z" creationid="土妹子" creationdate="20160110T074157Z">
+        <seg>村里的布庄又开始营业了哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>そういえば！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T162234Z" creationid="UUZ" creationdate="20140909T133534Z">
@@ -49225,6 +49241,14 @@
         <seg>それの後処理に追われていてな……\b</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150720T002437Z" creationid="土妹子" creationdate="20150106T142538Z">
+        <seg>我正忙着收拾善后……\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>それの後処理に追われていてな・・・\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160110T074129Z" creationid="土妹子" creationdate="20160110T074129Z">
         <seg>我正忙着收拾善后……\b</seg>
       </tuv>
     </tu>
@@ -66606,6 +66630,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>・・・すまないが よろしく頼むよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160110T074142Z" creationid="土妹子" creationdate="20160110T074142Z">
+        <seg>……虽然很过意不去 不过还是拜托你了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>・・・そう あなた \pって言うのね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T065444Z" creationid="土妹子" creationdate="20150108T153431Z">
@@ -66626,6 +66658,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T125610Z" creationid="土妹子" creationdate="20160109T125610Z">
         <seg>……对了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>・・・そこを何とかならないか？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160110T074029Z" creationid="土妹子" creationdate="20160110T074029Z">
+        <seg>……就不能再想想办法吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -74210,6 +74250,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T091426Z" creationid="土妹子" creationdate="20160107T091426Z">
         <seg>南方的地脉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>南西の門番には 私が許可したと伝えれば 通してくれるはずです。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160110T074117Z" creationid="土妹子" creationdate="20160110T074117Z">
+        <seg>告诉西南的门卫有我的许可 应该就可以通行了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -84734,6 +84782,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>早速だが 少し話を聞いて欲しい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160110T074039Z" creationid="土妹子" creationdate="20160110T074039Z">
+        <seg>客套话就不说了 我想稍微问些事。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>明日のヒーローは私ね！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150508T085054Z" creationid="140706inu" creationdate="20150508T085054Z">
@@ -85810,6 +85866,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T194019Z" creationid="妄想" creationdate="20150110T021552Z">
         <seg>今天推荐的是有很多糯米团子的帕菲！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>本来は私が助力を頼まれたんだが 少々たてこんでいてな・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160110T074046Z" creationid="土妹子" creationdate="20160110T074046Z">
+        <seg>本来是拜托我去帮忙的 可我最近有些忙脱不开身……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -88298,6 +88362,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T133026Z" creationid="土妹子" creationdate="20160109T133026Z">
         <seg>永远亭在人类村落南面的竹林再往前的地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>永遠亭は 竹林の最奥にある。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160110T074134Z" creationid="土妹子" creationdate="20160110T074134Z">
+        <seg>永远亭就在竹林的最深处。</seg>
       </tuv>
     </tu>
     <tu>
@@ -97946,6 +98018,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T021947Z" creationid="土妹子" creationdate="20141231T021947Z">
         <seg>心平气和</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>虫のいい話だと重々承知なんだが 永遠亭に行って事件を解決してきてもらえないだろうか？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160110T074054Z" creationid="土妹子" creationdate="20160110T074054Z">
+        <seg>我知道这实在是很无理的要求 不过能否请你去永远亭解决事件呢？</seg>
       </tuv>
     </tu>
     <tu>
