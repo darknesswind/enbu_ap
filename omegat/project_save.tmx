@@ -40382,6 +40382,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ああいうことは何度も起こっていたんだが 今回ばかりはタイミングが悪くてな・・・\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T024646Z" creationid="土妹子" creationdate="20160111T024646Z">
+        <seg>像那样的事情已经发生过很多次了 不过只有这次的时机太不凑巧了……\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ああん 人形にお説教されちゃう！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T104745Z" creationid="140706inu" creationdate="20150410T104745Z">
@@ -49150,6 +49158,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>それじゃあ 気をつけてな。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T024657Z" creationid="土妹子" creationdate="20160111T024657Z">
+        <seg>那么再见 多加小心。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>それじゃあ気をつけてね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150105T112648Z">
@@ -53418,6 +53434,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160108T135947Z" creationid="土妹子" creationdate="20160108T135947Z">
         <seg>认真的紫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ほんのお礼だが これを受け取ってくれないか。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T024651Z" creationid="土妹子" creationdate="20160111T024651Z">
+        <seg>虽然只是一点薄礼 请你收下这个吧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -95170,6 +95194,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T060956Z" creationid="妄想" creationdate="20150107T060956Z">
         <seg>红魔馆的红茶传闻是幻想乡之中最美味的哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>紅魔館は霧の湖のほとりにある 吸血鬼を主とする館。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T024713Z" creationid="土妹子" creationdate="20160111T024713Z">
+        <seg>红魔馆是在雾之湖畔 主人是吸血鬼的洋馆。</seg>
       </tuv>
     </tu>
     <tu>
