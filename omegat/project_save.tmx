@@ -40766,6 +40766,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あとはご自身で確かめなさい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T125657Z" creationid="土妹子" creationdate="20160111T125657Z">
+        <seg>之后就请你自己确认了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あとは自分の力で頑張りなさい\b 外の世界のマスターさん。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T123504Z" creationid="土妹子" creationdate="20160111T123504Z">
@@ -47918,6 +47926,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>さて 私からの説法は以上です。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T125649Z" creationid="土妹子" creationdate="20160111T125649Z">
+        <seg>那么 我要说的就是这些了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>さて 私はこのへんで仕事に戻りますか。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T181335Z" creationid="土妹子" creationdate="20150106T131346Z">
@@ -50518,6 +50534,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>たまたま手に入れた書物です。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T125620Z" creationid="土妹子" creationdate="20160111T125620Z">
+        <seg>这是我偶然间得到的书本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>たまにでいいですから・・・ね？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T150949Z" creationid="UUZ" creationdate="20140909T150949Z">
@@ -52370,6 +52394,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150522T101612Z" creationid="UUZ" creationdate="20140909T160208Z">
         <seg>是来置办旅行的必需品的吗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>なにやら不思議な力を感じますので 読んでみるのも手かもしれません。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T125639Z" creationid="土妹子" creationdate="20160111T125639Z">
+        <seg>似乎能感到不可思议的力量 试着读一下或许会有所帮助。</seg>
       </tuv>
     </tu>
     <tu>
