@@ -35862,6 +35862,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\pさん その後 妖魔本の収集は進んでいますか？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T124855Z" creationid="土妹子" creationdate="20160111T124855Z">
+        <seg>\p 你在那之后也在收集妖魔书吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\pさん 先ほどの方が結界を司っている霊夢さんです。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T115802Z" creationid="土妹子" creationdate="20160109T115802Z">
@@ -56194,6 +56202,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T184549Z" creationid="土妹子" creationdate="20150108T041026Z">
         <seg>要休息吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>よかったら見てみてくださいね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T124941Z" creationid="土妹子" creationdate="20160111T124941Z">
+        <seg>方便的话请看一看吧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -91986,6 +92002,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150109T100813Z">
         <seg>店里进了稀有的古书 方便的话请看一看呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>珍しい古書が入荷したので棚に並べてみたんです。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T124918Z" creationid="土妹子" creationdate="20160111T124918Z">
+        <seg>有珍贵的古书入库了 放在书架上了。</seg>
       </tuv>
     </tu>
     <tu>
