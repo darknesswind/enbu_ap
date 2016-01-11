@@ -33462,6 +33462,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c実は私 あそこに珍しいものがあるって聞いたのよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T025501Z" creationid="土妹子" creationdate="20160111T025501Z">
+        <seg>\c其实我听说那里有稀有的东西哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c実は私も全てはわかっていない状態で 調べている最中なんです。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T132833Z" creationid="UUZ" creationdate="20140909T132833Z">
@@ -48654,6 +48662,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>そうと決まれば すぐに行きましょ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T025727Z" creationid="土妹子" creationdate="20160111T025727Z">
+        <seg>那么决定了的话 马上就去吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>そうと決まれば 善は急げだ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T085701Z" creationid="土妹子" creationdate="20150109T102329Z">
@@ -48666,6 +48682,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T104052Z" creationid="土妹子" creationdate="20150109T104052Z">
         <seg>是呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>そうね・・・行き先は天狗の里なんて どう？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T025444Z" creationid="土妹子" creationdate="20160111T025444Z">
+        <seg>嗯……目的地就是天狗村落 如何？</seg>
       </tuv>
     </tu>
     <tu>
@@ -50458,6 +50482,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T153340Z" creationid="土妹子" creationdate="20150108T153340Z">
         <seg>如果你接下来能去教训他们就帮大忙了呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ついでに持って行っちゃいましょうよ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T025611Z" creationid="土妹子" creationdate="20160111T025611Z">
+        <seg>我们去把它拿走吧！</seg>
       </tuv>
     </tu>
     <tu>
@@ -66910,6 +66942,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>・・・うん 勝てるんじゃないかなぁ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T025715Z" creationid="土妹子" creationdate="20160111T025715Z">
+        <seg>……嗯 不是对手呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>・・・えっ？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T025302Z" creationid="土妹子" creationdate="20160111T025302Z">
@@ -73174,6 +73214,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>光の三妖精の実力を見せつけてやるわ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T025749Z" creationid="土妹子" creationdate="20160111T025749Z">
+        <seg>让他们见识下光之三妖精的实力！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>光る蟲の人形使い</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160106T071457Z" creationid="土妹子" creationdate="20160106T071457Z">
@@ -73210,6 +73258,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150108T030249Z">
         <seg>多亏了光学迷彩 可以随便去吓各种家伙了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>光学迷彩を手に入れた今の私たちに勝てる相手なんていないんだから 天狗にだって勝てちゃうわ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T025653Z" creationid="土妹子" creationdate="20160111T025653Z">
+        <seg>现在得到了光学迷彩的我们已经天下无敌了 天狗什么的不是对手了！</seg>
       </tuv>
     </tu>
     <tu>
@@ -82306,6 +82362,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T190224Z" creationid="CJ" creationdate="20150521T190224Z">
         <seg>请不要害怕她们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>思い立ったが吉日！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T025735Z" creationid="土妹子" creationdate="20160111T025735Z">
+        <seg>择日不如撞日！</seg>
       </tuv>
     </tu>
     <tu>
