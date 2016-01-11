@@ -30886,6 +30886,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c　　　　　　いにしえの遺跡‘夢幻遺跡’</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T120816Z" creationid="土妹子" creationdate="20160111T120816Z">
+        <seg>\c　　　　　　古老的遗迹‘梦幻遗迹’</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c「幻想人形演舞」のクリアデータを引き継ぎますか？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160107T065643Z" creationid="土妹子" creationdate="20160107T065643Z">
@@ -31362,6 +31370,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150108T160452Z">
         <seg>\c这前面就是间歇泉地下中心了 请多加小心。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\cこの遺跡に訪れた方には あなたをしあわせにする何かをプレゼントします。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T120941Z" creationid="土妹子" creationdate="20160111T120941Z">
+        <seg>\c对来访这个遗迹的各位 会赠送让你变得幸福的某物作为礼品。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34354,6 +34370,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150109T105657Z">
         <seg>\c魔界哦 魔界。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c･･･と書かれている。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T121011Z" creationid="土妹子" creationdate="20160111T121011Z">
+        <seg>\c……写着这些。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42398,6 +42422,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>いいタイミングっ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T120647Z" creationid="土妹子" creationdate="20160111T120647Z">
+        <seg>好时机！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>いい所でしょう！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T032235Z" creationid="土妹子" creationdate="20160111T032235Z">
@@ -42442,6 +42474,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T190407Z" creationid="土妹子" creationdate="20150108T145031Z">
         <seg>明白了没？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>いかがわしいチラシのようだ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T121048Z" creationid="土妹子" creationdate="20160111T121048Z">
+        <seg>似乎是个可疑的海报。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46610,6 +46650,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T183431Z" creationid="土妹子" creationdate="20150107T134130Z">
         <seg>难道是要再打一场？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>この隙に逃げちゃおーっと！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T120712Z" creationid="土妹子" creationdate="20160111T120712Z">
+        <seg>就趁这个间隙逃跑吧～！</seg>
       </tuv>
     </tu>
     <tu>
@@ -54450,6 +54498,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T085722Z" creationid="土妹子" creationdate="20150109T102527Z">
         <seg>你又要做什么？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>また何か用があるのかい？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T120722Z" creationid="土妹子" creationdate="20160111T120722Z">
+        <seg>还有什么事吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -73078,6 +73134,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>侵入者ね！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T120640Z" creationid="土妹子" creationdate="20160111T120640Z">
+        <seg>有入侵者！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>侵入者を発見！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T035759Z" creationid="妄想" creationdate="20150203T035759Z">
@@ -75714,6 +75778,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T003934Z" creationid="土妹子" creationdate="20160109T003934Z">
         <seg>古老的硬币</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>古びたチラシが落ちている。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T120801Z" creationid="土妹子" creationdate="20160111T120801Z">
+        <seg>地上掉着老旧的海报。</seg>
       </tuv>
     </tu>
     <tu>
@@ -86822,6 +86894,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>本日１０時　開店\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T120829Z" creationid="土妹子" creationdate="20160111T120829Z">
+        <seg>今天１０点　开店\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>本来は私が助力を頼まれたんだが 少々たてこんでいてな・・・。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160110T074046Z" creationid="土妹子" creationdate="20160110T074046Z">
@@ -92030,6 +92110,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>皆さんのご来店を心よりお待ちしております。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T121002Z" creationid="土妹子" creationdate="20160111T121002Z">
+        <seg>诚心恭候各位来店。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>皆には内緒だよ？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T081101Z" creationid="140706inu" creationdate="20150410T081101Z">
@@ -94282,6 +94370,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T110525Z" creationid="UUZ" creationdate="20140908T084535Z">
         <seg>我这就噼里啪啦地把异变解决掉！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>私が何をしてるかだって？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T120730Z" creationid="土妹子" creationdate="20160111T120730Z">
+        <seg>你说我在干什么？</seg>
       </tuv>
     </tu>
     <tu>
