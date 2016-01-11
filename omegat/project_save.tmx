@@ -45374,6 +45374,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ここで怪我をすれば 現実で傷つくかも知れないし</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T115836Z" creationid="土妹子" creationdate="20160111T115836Z">
+        <seg>在这里受伤的话 或许也会在现实中受伤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ここで怪我をすれば 現実で傷つくかも知れないし\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T115759Z" creationid="土妹子" creationdate="20160111T115759Z">
+        <seg>在这里受伤的话 或许也会在现实中受伤\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ここで悪さしようとする奴なんて居ませんよねぇ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T082526Z" creationid="妄想" creationdate="20150105T082526Z">
@@ -50070,6 +50086,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ただの夢じゃないから。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T115731Z" creationid="土妹子" creationdate="20160111T115731Z">
+        <seg>因为这不仅仅是梦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ただ転生するだけだと個体ランクは完全にランダムで決まる……ってのはさっき教えたわね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T172357Z" creationid="土妹子" creationdate="20150109T172357Z">
@@ -51210,6 +51234,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T134115Z" creationid="土妹子" creationdate="20160109T134115Z">
         <seg>说是这么说 后续还是等你到我房间再谈吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ともすれば命を落とすかもね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T115826Z" creationid="土妹子" creationdate="20160111T115826Z">
+        <seg>甚至是有可能没命。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54994,6 +55026,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T105413Z" creationid="土妹子" creationdate="20150107T105413Z">
         <seg>难道是被公主大人迷住了？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>もしかしてあなた外の人！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T115645Z" creationid="土妹子" creationdate="20160111T115645Z">
+        <seg>难道说你是外界的人！</seg>
       </tuv>
     </tu>
     <tu>
@@ -88462,6 +88502,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>気をつけなさいよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T115722Z" creationid="土妹子" creationdate="20160111T115722Z">
+        <seg>请多小心哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>気を付けて遊んでくださいね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T061633Z" creationid="妄想" creationdate="20150107T061633Z">
@@ -95122,6 +95170,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150802T012413Z" creationid="土妹子" creationdate="20150109T042338Z">
         <seg>我和云山都还得继续修行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>私以外にこの夢に入り込む人がいるなんて驚いたわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T115713Z" creationid="土妹子" creationdate="20160111T115713Z">
+        <seg>居然还有我之外的人到了这个梦里 真是吃了一惊。</seg>
       </tuv>
     </tu>
     <tu>
