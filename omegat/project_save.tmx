@@ -35934,6 +35934,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\pさんもそろそろこちらに慣れてきた頃ですし 自分で探してみてはどうでしょう？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T032829Z" creationid="土妹子" creationdate="20160111T032829Z">
+        <seg>\p也差不多到了习惯这边的时候了 要不要试着自己去探索呢？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\pさんも寄ってみてはどうですか？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T190810Z" creationid="CJ" creationdate="20150522T190810Z">
@@ -54110,6 +54118,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>まずは起こっている 異変を解決しないと。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T032843Z" creationid="土妹子" creationdate="20160111T032843Z">
+        <seg>必须先解决正在发生的异变。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>また ここへ遊びに来なさい。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150726T062540Z" creationid="土妹子" creationdate="20150106T060401Z">
@@ -67398,6 +67414,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>・・・だが 手ぶらで帰らせるのも気がひけるわね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T032849Z" creationid="土妹子" creationdate="20160111T032849Z">
+        <seg>……但是让你空着手回去也不好意思呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>・・・ってお金持ってないじゃん。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T134841Z" creationid="土妹子" creationdate="20160109T134841Z">
@@ -80178,6 +80202,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T105410Z" creationid="140706inu" creationdate="20150410T100735Z">
         <seg>对战的时候顺便给我指个路行吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>対戦も結構強かったんですよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T032916Z" creationid="土妹子" creationdate="20160111T032916Z">
+        <seg>对战也玩得相当不错呢。</seg>
       </tuv>
     </tu>
     <tu>
