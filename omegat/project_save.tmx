@@ -33398,6 +33398,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c古い文献の中には 魔界について書かれている物があるかもしれません。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T125158Z" creationid="土妹子" creationdate="20160111T125158Z">
+        <seg>\c在古代文献中 或许会有写有魔界相关记载的吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c右の建物や洞窟は マップ切り替えのテストができます。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T060403Z" creationid="UUZ" creationdate="20140908T060403Z">
@@ -77430,6 +77438,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>困ったわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T125247Z" creationid="土妹子" creationdate="20160111T125247Z">
+        <seg>真是困惑呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>困ったわね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T101051Z" creationid="土妹子" creationdate="20150109T101051Z">
@@ -103002,6 +103018,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150720T002954Z" creationid="土妹子" creationdate="20150106T132405Z">
         <seg>我听说过村里的传言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>里に 古書を扱っているところがあったはずですので 行ってみてはいかがですか？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T125239Z" creationid="土妹子" creationdate="20160111T125239Z">
+        <seg>村子里应该有个出租古书的地方 试着去一下如何呢？</seg>
       </tuv>
     </tu>
     <tu>
