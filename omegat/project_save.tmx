@@ -48934,6 +48934,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>そういえば 私の宝塔 どこに行ったか知りません？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T124145Z" creationid="土妹子" creationdate="20160111T124145Z">
+        <seg>说起来 知道我的宝塔去哪里了吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>そういえば 藍様や紫様に挑戦してみた？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150110T012242Z">
@@ -54529,6 +54537,14 @@
         <seg>まさか 私までもが負けてしまうとは……。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T042718Z" creationid="土妹子" creationdate="20150109T042718Z">
+        <seg>想不到连我也输了……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>まさか 私までもが負けてしまうとは・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T124118Z" creationid="土妹子" creationdate="20160111T124118Z">
         <seg>想不到连我也输了……。</seg>
       </tuv>
     </tu>
@@ -89142,6 +89158,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>毘沙門天の代理である私が お相手して差し上げましょう。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T124113Z" creationid="土妹子" creationdate="20160111T124113Z">
+        <seg>就让我这个毗沙门天的代理人来做你的对手吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>毘沙門天の代理では些か力不足でしたか。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T163936Z" creationid="土妹子" creationdate="20150109T163936Z">
@@ -104234,6 +104258,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T085336Z" creationid="土妹子" creationdate="20150109T062432Z">
         <seg>云山就是云山哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>雲山も張り切ってますし 今日はきっと絶好調ですよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T124104Z" creationid="土妹子" creationdate="20160111T124104Z">
+        <seg>云山也干劲十足 今天一定是状态绝佳。</seg>
       </tuv>
     </tu>
     <tu>
