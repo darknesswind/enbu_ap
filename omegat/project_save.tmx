@@ -40974,6 +40974,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あなたに話す必要があって？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T132558Z" creationid="土妹子" creationdate="20160111T132558Z">
+        <seg>有必要告诉你吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あなたのお気に入りはどの人形？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T062618Z" creationid="妄想" creationdate="20150112T062618Z">
@@ -42218,6 +42226,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T121211Z" creationid="土妹子" creationdate="20160111T121211Z">
         <seg>我先打倒你 再去追击！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>あんた如き人間 私の足元にも及ばないのよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T132528Z" creationid="土妹子" creationdate="20160111T132528Z">
+        <seg>像你一样的人类连我的脚底都够不着哦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43530,6 +43546,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150108T160710Z">
         <seg>诶 你说运到哪里？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>え 入り口が簡単すぎるって？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T132502Z" creationid="土妹子" creationdate="20160111T132502Z">
+        <seg>诶 你说入口太简单了？</seg>
       </tuv>
     </tu>
     <tu>
@@ -45278,6 +45302,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ぐっ この侵入者なかなかの実力ね・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T132510Z" creationid="土妹子" creationdate="20160111T132510Z">
+        <seg>咕 这个入侵者的实力不错呢……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ぐぬぬ つぎはどこで戦えば最強になれるんだ？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T100425Z" creationid="土妹子" creationdate="20150109T155955Z">
@@ -46354,6 +46386,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150108T041337Z">
         <seg>在这前面一直都是山洞 不做任何准备的话之后有你哭的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>この先 私みたいに易々いけると思わないでよね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T132516Z" creationid="土妹子" creationdate="20160111T132516Z">
+        <seg>可别以为前头会像我一样让你轻松通过。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47930,6 +47970,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150802T050512Z" creationid="土妹子" creationdate="20150109T170153Z">
         <seg>可是你匆匆忙忙的就走了 所以当时没能给你。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>さて ここに来たからには 私が華麗に退治をしてあげなきゃね！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T132507Z" creationid="土妹子" creationdate="20160111T132507Z">
+        <seg>那么 到了这里的话 就必须让我华丽地退治掉呢！</seg>
       </tuv>
     </tu>
     <tu>
@@ -52098,6 +52146,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T104529Z" creationid="UUZ" creationdate="20150112T133023Z">
         <seg>该从哪出来好呢！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>どこに移動しますか？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T132449Z" creationid="土妹子" creationdate="20160111T132449Z">
+        <seg>要移动到哪里？</seg>
       </tuv>
     </tu>
     <tu>
@@ -71998,6 +72054,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人間でここまでたどり着ける者がいたとはね・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T132552Z" creationid="土妹子" creationdate="20160111T132552Z">
+        <seg>竟然有能到达这里的人类……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人間にはこの温泉はやめといた方が良いんじゃないかな。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T191329Z" creationid="妄想" creationdate="20150108T083352Z">
@@ -72018,6 +72082,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150730T054812Z" creationid="土妹子" creationdate="20150109T032603Z">
         <seg>明明只是不想让人形落到人类手里……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人間に全力出すはずがないじゃない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T132538Z" creationid="土妹子" creationdate="20160111T132534Z">
+        <seg>我当然不会对人类使出全力的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83142,6 +83214,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>待ちわびていたわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T132457Z" creationid="土妹子" creationdate="20160111T132457Z">
+        <seg>我都等急了啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>待って ここらへんは危険よ？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T170448Z" creationid="140706inu" creationdate="20150512T170448Z">
@@ -84722,6 +84802,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T030231Z" creationid="土妹子" creationdate="20160109T030231Z">
         <seg>我不会手下留情的 所以尽管放马过来吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>手加減よ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T132547Z" creationid="土妹子" creationdate="20160111T132547Z">
+        <seg>手下留情了哦？</seg>
       </tuv>
     </tu>
     <tu>
