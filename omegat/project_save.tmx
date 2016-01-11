@@ -31062,6 +31062,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cあんたがこの異変の一部だと考えても 筋が通るくらいには・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T130013Z" creationid="土妹子" creationdate="20160111T130013Z">
+        <seg>\c就算把你作为这次异变的一部分考虑 也不是说不通……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cあんたが寝ている数日間で 人形の数が減ってきているっていう噂が立つようになったのだけれど。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150802T044456Z" creationid="土妹子" creationdate="20150109T152618Z">
@@ -36130,6 +36138,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150802T015958Z" creationid="土妹子" creationdate="20150109T102025Z">
         <seg>\p变得这么强也是理所当然的吗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\pも頑張れよ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T125858Z" creationid="土妹子" creationdate="20160111T125858Z">
+        <seg>\p也要加油哦！</seg>
       </tuv>
     </tu>
     <tu>
@@ -48494,6 +48510,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>じゃあ私は冥界にでも行ってみるとするかな。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T125849Z" creationid="土妹子" creationdate="20160111T125849Z">
+        <seg>那么我就试着去一下冥界吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>じゃあ遊びましょうか！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T175100Z" creationid="140706inu" creationdate="20150512T175100Z">
@@ -49010,6 +49034,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T121756Z" creationid="土妹子" creationdate="20160111T121756Z">
         <seg>说起来旧都似乎正在举行庆典 吵吵闹闹的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>そういえば神社の裏に何の用だ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T125839Z" creationid="土妹子" creationdate="20160111T125839Z">
+        <seg>说起来去神社后面有什么事？</seg>
       </tuv>
     </tu>
     <tu>
@@ -52290,6 +52322,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T105737Z" creationid="140706inu" creationdate="20150417T105656Z">
         <seg>没什么 只是陪爷爷玩一玩嘛。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>なかなかお前に会えなかったら かなり人形も強くなってしまったぜ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T125820Z" creationid="土妹子" creationdate="20160111T125820Z">
+        <seg>有段时间没见你了 我的人形也变得相当强了ZE！</seg>
       </tuv>
     </tu>
     <tu>
@@ -84614,6 +84654,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>手加減はしてやれないぜ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T125828Z" creationid="土妹子" creationdate="20160111T125828Z">
+        <seg>我不会手下留情的ZE！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>手加減はしないから</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T110954Z" creationid="UUZ" creationdate="20140908T090806Z">
@@ -97153,6 +97201,14 @@
         <seg>結構頑張ったんだけどな……。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T085629Z" creationid="土妹子" creationdate="20150109T102053Z">
+        <seg>虽说我也很努力了呢……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>結構頑張ったんだけどな・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T125834Z" creationid="土妹子" creationdate="20160111T125834Z">
         <seg>虽说我也很努力了呢……。</seg>
       </tuv>
     </tu>
