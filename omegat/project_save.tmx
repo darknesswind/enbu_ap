@@ -41702,6 +41702,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あら もしかして頼んでいた図鑑完成したんですか？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160112T095654Z" creationid="土妹子" creationdate="20160112T095654Z">
+        <seg>啊啦 难道是委托给你的图鉴完成了？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あら やっと来たのね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150108T171510Z">
@@ -42098,6 +42106,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T022845Z" creationid="土妹子" creationdate="20150110T022845Z">
         <seg>非常感谢！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ありがとうございます！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160112T095701Z" creationid="土妹子" creationdate="20160112T095701Z">
+        <seg>真是十分感谢！</seg>
       </tuv>
     </tu>
     <tu>
@@ -47342,6 +47358,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>これで滞っていた編纂が進められますわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160112T095737Z" creationid="土妹子" creationdate="20160112T095737Z">
+        <seg>这样就可以继续停滞不前的编纂工作了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>これで確かめさせてもらうわ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T010956Z" creationid="土妹子" creationdate="20150107T010956Z">
@@ -52402,6 +52426,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T025011Z" creationid="土妹子" creationdate="20160111T025011Z">
         <seg>如何 你们两个！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>どうされました？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160112T095639Z" creationid="土妹子" creationdate="20160112T095639Z">
+        <seg>有什么事吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -82722,6 +82754,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T133244Z" creationid="土妹子" creationdate="20160109T133244Z">
         <seg>不久前她从报纸上看到你朝这里来了 就开始坐立不安了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>少し図鑑をお借りしますね！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160112T095746Z" creationid="土妹子" creationdate="20160112T095746Z">
+        <seg>稍微把图鉴借我用下呢！</seg>
       </tuv>
     </tu>
     <tu>
