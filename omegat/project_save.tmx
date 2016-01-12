@@ -49294,6 +49294,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>せっかくあなた自身で集めた資料ですし これからも大事に持っていてください。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160112T100103Z" creationid="土妹子" creationdate="20160112T100103Z">
+        <seg>这是你自己好不容易收集的资料 今后也请好好保管着。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>せっかくだから これからバトルしようぜ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150107T080120Z">
@@ -51162,6 +51170,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T150917Z" creationid="UUZ" creationdate="20140909T150917Z">
         <seg>请偶尔给我看看。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>たまに読み返してみると 新たな発見ができるかもしれませんわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160112T100128Z" creationid="土妹子" creationdate="20160112T100128Z">
+        <seg>偶尔翻阅一下 或许也会有新的发现哦。</seg>
       </tuv>
     </tu>
     <tu>
