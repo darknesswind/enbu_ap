@@ -42358,6 +42358,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あんた戻ってきてたのね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160112T094620Z" creationid="土妹子" creationdate="20160112T094620Z">
+        <seg>你回来了呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あんた暇そうね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T135204Z" creationid="土妹子" creationdate="20160111T135204Z">
@@ -51798,6 +51806,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>で 結局どうなったの？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160112T094630Z" creationid="土妹子" creationdate="20160112T094630Z">
+        <seg>那么 结局如何？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>であえであえー！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T093149Z" creationid="CJ" creationdate="20150522T093149Z">
@@ -51986,6 +52002,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T180016Z" creationid="140706inu" creationdate="20150512T180016Z">
         <seg>但是僵尸是不灭的！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>でも今は命令がないから暇をしているのだ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160112T094612Z" creationid="土妹子" creationdate="20160112T094612Z">
+        <seg>不过现在没有命令所以闲着呢！</seg>
       </tuv>
     </tu>
     <tu>
@@ -85254,6 +85278,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>我々は霊廟を護るために蘇った！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160112T094553Z" creationid="土妹子" creationdate="20160112T094553Z">
+        <seg>我们为了守护灵庙而苏醒！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>我々も外の科学知識を貰ってるのさ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T084612Z" creationid="妄想" creationdate="20150104T084612Z">
@@ -86858,6 +86890,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150408T154946Z" creationid="140706inu" creationdate="20150408T154946Z">
         <seg>得重新打扫了—！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>掃除するのもいいけど たまには違うことで身体を動かしたいわよねぇ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160112T094531Z" creationid="土妹子" creationdate="20160112T094531Z">
+        <seg>虽然做扫除也不错 不过偶尔也想做些不同的事活动身体呢。</seg>
       </tuv>
     </tu>
     <tu>
