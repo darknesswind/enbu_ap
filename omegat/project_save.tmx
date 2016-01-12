@@ -73438,6 +73438,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>今度戦うときは あなたに勝ってみせましょう！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160112T094103Z" creationid="土妹子" creationdate="20160112T094103Z">
+        <seg>这次的战斗 我要打赢给你看！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>今日のお仕事は……いいや 明日やろっと。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T184418Z" creationid="妄想" creationdate="20150107T034403Z">
@@ -89578,6 +89586,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T160226Z" creationid="UUZ" creationdate="20140909T155650Z">
         <seg>下次可不会再这样了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>次はどんな風に戦おうか・・・考えるだけでも飽きないわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160112T094046Z" creationid="土妹子" creationdate="20160112T094046Z">
+        <seg>下次是什么样的战斗呢……只是想并不能满足啊。</seg>
       </tuv>
     </tu>
     <tu>
