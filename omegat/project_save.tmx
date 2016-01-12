@@ -36102,6 +36102,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\pに手を抜くのは さすがに良くなかったわね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160112T025033Z" creationid="土妹子" creationdate="20160112T025033Z">
+        <seg>对\p保存实力果然还是不太好呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\pに構ってられるほど暇じゃないんだけど。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T093541Z" creationid="土妹子" creationdate="20150109T153844Z">
@@ -50374,6 +50382,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>それなら なぜ人形が意思を持って動いていたのかも 大体は説明がつくわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160112T025008Z" creationid="土妹子" creationdate="20160112T025008Z">
+        <seg>这样的话 人形会拥有意志独立行动的缘由 也大体上能得到说明了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>それなら なぜ人形が意思を持って動いていたのかも説明がつくわ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150802T081522Z" creationid="土妹子" creationdate="20150109T164737Z">
@@ -51970,6 +51986,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T164655Z" creationid="土妹子" creationdate="20150109T164655Z">
         <seg>也就是说人形是从魔界来的吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ということは人形は魔界から来ていたということになるのね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160112T024943Z" creationid="土妹子" creationdate="20160112T024943Z">
+        <seg>也就是说人形是从魔界而来的呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54562,6 +54586,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160109T021354Z" creationid="土妹子" creationdate="20160109T021354Z">
         <seg>哼～……总觉得最近有点多啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ふーん・・・異変はあの人が裏で糸を引いてたの。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160112T024924Z" creationid="土妹子" creationdate="20160112T024924Z">
+        <seg>嗯～……异变是那个人在幕后牵线操纵的吗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68626,6 +68658,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T065444Z" creationid="土妹子" creationdate="20150108T153431Z">
         <seg>……是吗 你是叫 \p啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>・・・そういえば 私とも対戦してもらえるのかしら？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160112T025015Z" creationid="土妹子" creationdate="20160112T025015Z">
+        <seg>……说起来 能和我对战一场吗？</seg>
       </tuv>
     </tu>
     <tu>
