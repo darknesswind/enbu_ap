@@ -47982,6 +47982,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>さぁ準備はいい？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160112T093212Z" creationid="土妹子" creationdate="20160112T093212Z">
+        <seg>那么准备好了吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>さぁ盗んだものは返してもらおうか！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T030206Z" creationid="土妹子" creationdate="20160111T030206Z">
@@ -51318,6 +51326,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ちょいと寝覚めに私と一戦しようじゃないか。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160112T093206Z" creationid="土妹子" creationdate="20160112T093206Z">
+        <seg>不和刚睡醒的我打一场吗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ちょうどすることもないし 私の対戦相手をしてみない？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160111T135241Z" creationid="土妹子" creationdate="20160111T135241Z">
@@ -51442,6 +51458,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T073055Z" creationid="土妹子" creationdate="20150107T073055Z">
         <seg>等等妹红！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ちょっと寝すぎちゃったわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160112T093123Z" creationid="土妹子" creationdate="20160112T093123Z">
+        <seg>稍微睡得有点过头了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56498,6 +56522,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T053749Z" creationid="UUZ" creationdate="20140909T142057Z">
         <seg>哎～你真是纠缠不休啊～。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>やぁ いい天気だね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160112T093114Z" creationid="土妹子" creationdate="20160112T093114Z">
+        <seg>呀 真是好天气啊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74192,8 +74224,8 @@
       <tuv lang="JA">
         <seg>何事も君の思い通りになると思っちゃいけないですよ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160112T092920Z" creationid="土妹子" creationdate="20160112T092920Z">
-        <seg>不是任何事都能如你的愿的。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160112T093107Z" creationid="土妹子" creationdate="20160112T092920Z">
+        <seg>觉得任何事都能如你所想一样可不行哦。</seg>
       </tuv>
     </tu>
     <tu>
